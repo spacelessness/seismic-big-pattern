@@ -1,0 +1,6 @@
+{
+  "data/raw/natural_earth/ne_50m_rivers_lake_centerlines.geojson": {
+    "allowed_empty_feature_indices": [460],
+    "reason": "Locked upstream feature 460 (zero-based), Loire, has MultiLineString coordinates=[]; raw file preserved byte-for-byte. Use data/derived/ne_50m_rivers_nonempty.geojson (461 nonempty features)."
+  }
+}

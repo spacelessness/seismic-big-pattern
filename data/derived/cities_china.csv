@@ -1,0 +1,428 @@
+ne_id,name,name_zh,longitude,latitude,wikidata_id,source_adm0_a3,source_adm1_name,source_feature_class,source_scalerank,source_pop_max,source_id
+1159122761,Bade,八德区,121.298889,24.9575,Q74052,TWN,Taoyuan,Populated place,9,172065,ne-ne_10m_populated_places
+1159122779,Pingzhen,平镇区,121.216111,24.943889,Q713336,TWN,Taoyuan,Populated place,9,201632,ne-ne_10m_populated_places
+1159122791,Taibao,太保,120.333333,23.45,Q701634,TWN,Chiayi,Admin-1 capital,9,35000,ne-ne_10m_populated_places
+1159122805,Taoyuan,桃园区,121.311111,24.988889,Q715975,TWN,Taoyuan,Admin-1 capital,8,500000,ne-ne_10m_populated_places
+1159122823,Yangmei,杨梅区,121.15,24.916667,Q211505,TWN,Taoyuan,Populated place,9,175000,ne-ne_10m_populated_places
+1159122837,Yilan,宜兰,121.75,24.75,Q680842,TWN,Yilan,Admin-1 capital,8,150000,ne-ne_10m_populated_places
+1159122859,Zhubei,竹北,121.011944,24.833333,Q29624,TWN,Hsinchu,Admin-1 capital,9,200000,ne-ne_10m_populated_places
+1159129777,Yumen,玉门,97.729993,39.830035,Q729562,CHN,Gansu,Populated place,8,350000,ne-ne_10m_populated_places
+1159129781,Linxia,临夏,103.200047,35.600009,Q653608,CHN,Gansu,Populated place,8,534555,ne-ne_10m_populated_places
+1159129785,Zhuozhou,涿州,115.789976,39.540053,Q198244,CHN,Beijing,Populated place,8,628000,ne-ne_10m_populated_places
+1159129789,Sanming,三明,117.580048,26.229987,Q68614,CHN,Fujian,Populated place,8,209444,ne-ne_10m_populated_places
+1159129795,Huizhou,惠州,114.399983,23.079972,Q59173,CHN,Guangdong,Populated place,8,289201,ne-ne_10m_populated_places
+1159129799,Chaozhou,潮州,116.630028,23.680039,Q59227,CHN,Guangdong,Populated place,8,424787,ne-ne_10m_populated_places
+1159130125,Gyangze,江孜镇,89.63333,28.950002,Q1999606,CHN,Xizang,Populated place,8,10000,ne-ne_10m_populated_places
+1159130129,Dali,大理,109.937775,34.795252,,CHN,Shaanxi,Populated place,8,109696,ne-ne_10m_populated_places
+1159130135,Yangquan,阳泉,113.570008,37.869974,Q72907,CHN,Shanxi,Populated place,8,981448,ne-ne_10m_populated_places
+1159130139,Shiyan,十堰,110.779997,32.570039,Q71227,CHN,Hubei,Populated place,8,770000,ne-ne_10m_populated_places
+1159130143,Danjiangkou,丹江口,111.500005,32.520016,Q1164197,CHN,Hubei,Populated place,8,92008,ne-ne_10m_populated_places
+1159130147,Jingzhou,荆州,112.229986,30.320021,Q71247,CHN,Hubei,Populated place,8,520000,ne-ne_10m_populated_places
+1159130153,Anlu,安陆,113.670002,31.269989,Q557934,CHN,Hubei,Populated place,8,71198,ne-ne_10m_populated_places
+1159130157,Zixing,资兴,113.400044,25.969977,Q206996,CHN,Hunan,Populated place,8,6618,ne-ne_10m_populated_places
+1159130161,Deyang,德阳,104.399974,31.133331,Q425996,CHN,Sichuan,Populated place,8,152194,ne-ne_10m_populated_places
+1159130165,Tengchong,腾越镇,98.466589,25.033316,Q7699838,CHN,Yunnan,Populated place,8,126058,ne-ne_10m_populated_places
+1159130171,Mengzi,蒙自,103.406132,23.361945,Q1201056,CHN,Yunnan,Populated place,8,303341,ne-ne_10m_populated_places
+1159130175,Chuxiong,楚雄,101.545574,25.036416,Q1090087,CHN,Yunnan,Populated place,8,254370,ne-ne_10m_populated_places
+1159130179,Hengshui,衡水,115.700007,37.719983,Q58724,CHN,Hebei,Populated place,8,456356,ne-ne_10m_populated_places
+1159130183,Xuanhua,宣化,115.024338,40.594407,,CHN,Hebei,Populated place,8,409745,ne-ne_10m_populated_places
+1159130189,Luohe,漯河,114.02998,33.570004,Q404599,CHN,Henan,Populated place,8,417356,ne-ne_10m_populated_places
+1159130193,Beipiao,北票,120.760008,41.810018,Q814826,CHN,Liaoning,Populated place,8,228515,ne-ne_10m_populated_places
+1159130199,Wafangdian,瓦房店,121.995954,39.625913,Q616048,CHN,Liaoning,Populated place,8,355844,ne-ne_10m_populated_places
+1159130203,Zhucheng,诸城,119.380093,35.989959,Q198184,CHN,Shandong,Populated place,8,1060000,ne-ne_10m_populated_places
+1159130209,Hangu,路南区,117.776986,39.231958,Q1196666,CHN,Tianjin,Populated place,8,332793,ne-ne_10m_populated_places
+1159130213,Xinyi,新沂,118.350026,34.380006,Q1344902,CHN,Jiangsu,Populated place,8,962656,ne-ne_10m_populated_places
+1159130217,Yangzhou,扬州,119.430012,32.399998,Q57906,CHN,Jiangsu,Populated place,8,539715,ne-ne_10m_populated_places
+1159130221,Linhai,临海,121.119986,28.850008,Q713317,CHN,Zhejiang,Populated place,8,251759,ne-ne_10m_populated_places
+1159130227,Huangyan,黄岩区,121.250004,28.65002,Q1027910,CHN,Zhejiang,Populated place,8,198713,ne-ne_10m_populated_places
+1159130237,Daan,大安,124.299999,45.499999,Q1021732,CHN,Jilin,Populated place,8,93297,ne-ne_10m_populated_places
+1159130243,Changling,长岭县,123.989992,44.269997,Q1062078,CHN,Jilin,Populated place,8,55841,ne-ne_10m_populated_places
+1159130247,Tonghua,通化,125.749988,41.679974,Q92324,CHN,Jilin,Populated place,8,27227,ne-ne_10m_populated_places
+1159130253,Baishan,白山,126.429998,41.900012,Q92348,CHN,Jilin,Populated place,8,330000,ne-ne_10m_populated_places
+1159130257,Yanji,延吉,129.512756,42.882304,Q713362,CHN,Jilin,Populated place,8,488740,ne-ne_10m_populated_places
+1159130275,Genhe,根河,121.516655,50.78332,Q1354108,CHN,Nei Mongol,Populated place,8,42849,ne-ne_10m_populated_places
+1159130281,Shangdu,商都县,113.533886,41.549439,Q1305772,CHN,Nei Mongol,Populated place,8,18831,ne-ne_10m_populated_places
+1159130285,Orongen Zizhiqi,阿里河镇,123.716676,50.566667,Q14230874,CHN,Nei Mongol,Populated place,8,40128,ne-ne_10m_populated_places
+1159130289,Zalantun,扎兰屯,122.719992,48.000002,Q145015,CHN,Nei Mongol,Populated place,8,138032,ne-ne_10m_populated_places
+1159130293,Wuchuan,吴川,111.440836,41.095514,,CHN,Nei Mongol,Populated place,8,23776,ne-ne_10m_populated_places
+1159130301,Hanggin Houqi,杭锦后旗,107.140013,40.8847,Q1202314,CHN,Nei Mongol,Populated place,8,39954,ne-ne_10m_populated_places
+1159130303,Anda,安达,125.32004,46.399996,Q489631,CHN,Heilongjiang,Populated place,8,181533,ne-ne_10m_populated_places
+1159130307,Qinggang,青冈镇,126.100044,46.69003,Q8836938,CHN,Heilongjiang,Populated place,8,64182,ne-ne_10m_populated_places
+1159130315,Angangxi,昂昂溪区,123.80003,47.160053,,CHN,Heilongjiang,Populated place,8,24317,ne-ne_10m_populated_places
+1159130319,Hulan Ergi,富拉尔基区,123.610015,47.209972,Q34761,CHN,Heilongjiang,Populated place,8,289999,ne-ne_10m_populated_places
+1159130323,Qingan,庆安县,127.511844,46.871854,,CHN,Heilongjiang,Populated place,8,53206,ne-ne_10m_populated_places
+1159130327,Baiquan,拜泉县,126.081854,47.601835,Q649215,CHN,Heilongjiang,Populated place,8,70472,ne-ne_10m_populated_places
+1159130333,Suileng,绥棱镇,127.105978,47.245991,Q13992688,CHN,Heilongjiang,Populated place,8,57789,ne-ne_10m_populated_places
+1159130337,Linkou,林口,130.251884,45.281899,,CHN,Heilongjiang,Populated place,8,77754,ne-ne_10m_populated_places
+1159132385,Douliou,斗六,120.543889,23.7075,Q669566,TWN,Yunlin,Admin-1 capital,8,106653,ne-ne_10m_populated_places
+1159132389,Zhongli,中坜区,121.216776,24.965025,Q172146,TWN,Taoyuan,Populated place,7,1632616,ne-ne_10m_populated_places
+1159132393,Keelung,基隆,121.733282,25.133258,Q249996,TWN,Keelung City,Admin-1 capital,7,500000,ne-ne_10m_populated_places
+1159132397,Nantou,南投,120.683333,23.916667,Q715171,TWN,Nantou,Admin-1 capital,8,165000,ne-ne_10m_populated_places
+1159132403,Puzi,朴子,120.241944,23.461111,Q706520,TWN,Chiayi,Populated place,8,50000,ne-ne_10m_populated_places
+1159139611,Longxi,陇西,104.671479,35.002721,,CHN,Gansu,Populated place,7,355037,ne-ne_10m_populated_places
+1159139615,Pingliang,平凉,106.680093,35.530375,Q533985,CHN,Gansu,Populated place,7,207256,ne-ne_10m_populated_places
+1159139621,Anxi,安溪,95.799982,40.500434,Q4778099,CHN,Gansu,Populated place,7,17886,ne-ne_10m_populated_places
+1159139625,Minxian,岷县,104.03059,34.436178,,CHN,Gansu,Populated place,7,67826,ne-ne_10m_populated_places
+1159139629,Jinchang,金昌,102.173908,38.495698,Q532776,CHN,Gansu,Populated place,7,144363,ne-ne_10m_populated_places
+1159139633,Guide,贵德,101.424186,36.045098,,CHN,Gansu,Populated place,7,7642,ne-ne_10m_populated_places
+1159139639,Qinzhou,钦州,108.619974,21.950429,Q571766,CHN,Guangxi,Populated place,7,245376,ne-ne_10m_populated_places
+1159139643,Pingxiang,凭祥,106.756677,22.097371,Q1027734,CHN,Guangxi,Populated place,7,31109,ne-ne_10m_populated_places
+1159139647,Yishan,峄山镇,108.66669,24.500377,,CHN,Guangxi,Populated place,7,47062,ne-ne_10m_populated_places
+1159139651,Beihai,北海,109.100048,21.480406,Q210365,CHN,Guangxi,Populated place,7,728978,ne-ne_10m_populated_places
+1159139657,Hechi,河池,108.083,24.695252,Q572089,CHN,Guangxi,Populated place,7,3830000,ne-ne_10m_populated_places
+1159139661,Tongren,铜仁,109.130021,27.680415,Q486235,CHN,Guizhou,Populated place,7,118290,ne-ne_10m_populated_places
+1159139667,Fengjie,奉节,109.516664,31.050442,,CHN,Chongqing,Populated place,7,49168,ne-ne_10m_populated_places
+1159139669,Changping,常平镇,116.194396,40.224766,,CHN,Beijing,Populated place,7,614821,ne-ne_10m_populated_places
+1159139675,Shaowu,邵武,117.500001,27.300387,Q1025451,CHN,Fujian,Populated place,7,112585,ne-ne_10m_populated_places
+1159139679,Longyan,龙岩,116.995048,25.073515,Q68862,CHN,Fujian,Populated place,7,367896,ne-ne_10m_populated_places
+1159139683,Zhangzhou,漳州,117.670016,24.520375,Q68814,CHN,Fujian,Populated place,7,3531147,ne-ne_10m_populated_places
+1159139687,Putian,莆田,119.020011,25.430346,Q68579,CHN,Fujian,Populated place,7,376558,ne-ne_10m_populated_places
+1159139693,Fuan,福安,119.620026,27.070426,Q1374581,CHN,Fujian,Populated place,7,92470,ne-ne_10m_populated_places
+1159139697,Changting,长汀县,116.316662,25.866986,,CHN,Fujian,Populated place,7,87458,ne-ne_10m_populated_places
+1159139701,Nanping,南平,118.169986,26.630376,Q68534,CHN,Fujian,Populated place,7,213054,ne-ne_10m_populated_places
+1159139707,Ninde,蕉城区,119.530058,26.680373,Q1337912,CHN,Fujian,Populated place,7,314077,ne-ne_10m_populated_places
+1159139713,Jieshou,界首,115.350003,33.250437,Q1018527,CHN,Anhui,Populated place,7,141993,ne-ne_10m_populated_places
+1159139717,Tongling,铜陵,117.780035,30.950448,Q360326,CHN,Anhui,Populated place,7,562832,ne-ne_10m_populated_places
+1159139721,Maanshan,马鞍山,118.485148,31.672564,Q360235,CHN,Anhui,Populated place,7,1366302,ne-ne_10m_populated_places
+1159139725,Fuyang,阜阳,115.82,32.900407,Q360584,CHN,Anhui,Populated place,7,170023,ne-ne_10m_populated_places
+1159139731,Yangjiang,阳江,111.970002,21.850409,Q59209,CHN,Guangdong,Populated place,7,872363,ne-ne_10m_populated_places
+1159139735,Meizhou,梅州,116.119982,24.300492,Q59184,CHN,Guangdong,Populated place,7,414930,ne-ne_10m_populated_places
+1159139739,Heyuan,河源,114.680018,23.730424,Q59205,CHN,Guangdong,Populated place,7,330961,ne-ne_10m_populated_places
+1159139743,Qingyuan,清远,113.030093,23.7004,Q59213,CHN,Guangdong,Populated place,7,706717,ne-ne_10m_populated_places
+1159139749,Zhaoqing,肇庆,112.450025,23.050413,Q59164,CHN,Guangdong,Populated place,7,480000,ne-ne_10m_populated_places
+1159139753,Lianxian,连州,112.382535,24.781522,Q1023910,CHN,Guangdong,Populated place,7,203639,ne-ne_10m_populated_places
+1159139757,Jiangmen,江门,113.080012,22.58039,Q59132,CHN,Guangdong,Populated place,7,532419,ne-ne_10m_populated_places
+1159139761,Maoming,茂名,110.870018,21.920405,Q38927,CHN,Guangdong,Populated place,7,1217715,ne-ne_10m_populated_places
+1159140703,Gar,噶尔县,79.983324,32.200398,,CHN,Xizang,Populated place,7,10000,ne-ne_10m_populated_places
+1159140707,Turpan,吐鲁番,89.165038,42.935375,Q868527,CHN,Xinjiang Uygur,Populated place,7,651853,ne-ne_10m_populated_places
+1159140711,Quiemo,且末镇,85.533321,38.133756,Q3360588,CHN,Xinjiang Uygur,Populated place,7,65572,ne-ne_10m_populated_places
+1159140715,Koktokay,可可托海镇,89.530218,46.991123,Q1525001,CHN,Xinjiang Uygur,Populated place,7,80000,ne-ne_10m_populated_places
+1159140729,Hancheng,韩城,110.429993,35.47043,Q577415,CHN,Shaanxi,Populated place,7,222135,ne-ne_10m_populated_places
+1159140733,Weinan,渭南,109.500076,34.500438,Q126995,CHN,Shaanxi,Populated place,7,172321,ne-ne_10m_populated_places
+1159140741,Shuozhou,朔州,112.420001,39.300378,Q73020,CHN,Shanxi,Populated place,7,570000,ne-ne_10m_populated_places
+1159140743,Xinzhou,忻州,112.719983,38.410432,Q73119,CHN,Shanxi,Populated place,7,279607,ne-ne_10m_populated_places
+1159140747,Jincheng,晋城,112.830002,35.500377,Q72990,CHN,Shanxi,Populated place,7,760000,ne-ne_10m_populated_places
+1159140751,Jiexiu,介休,111.899981,37.040025,Q1362530,CHN,Shanxi,Populated place,7,77178,ne-ne_10m_populated_places
+1159140757,Changzhi,长治,113.105282,36.183875,Q72945,CHN,Shanxi,Populated place,7,706000,ne-ne_10m_populated_places
+1159140761,Guangshui,广水,114.000008,31.620381,Q930230,CHN,Hubei,Populated place,7,154771,ne-ne_10m_populated_places
+1159140765,Jingmen,荆门,112.201034,31.03141,Q71323,CHN,Hubei,Populated place,7,400000,ne-ne_10m_populated_places
+1159140769,Zicheng,枝城镇,111.500005,30.300436,Q2009842,CHN,Hubei,Populated place,7,237042,ne-ne_10m_populated_places
+1159140775,Shishou,石首,112.400002,29.700395,Q1359319,CHN,Hubei,Populated place,7,231787,ne-ne_10m_populated_places
+1159140779,Xiaogan,孝感,113.900014,30.920398,Q71339,CHN,Hubei,Populated place,7,160437,ne-ne_10m_populated_places
+1159140783,Puqi,赤壁市,113.880015,29.72042,,CHN,Hubei,Populated place,7,205164,ne-ne_10m_populated_places
+1159140787,Yunxian,郧县,110.813639,32.808164,,CHN,Hubei,Populated place,7,133558,ne-ne_10m_populated_places
+1159140793,Jinshi,津市,111.851715,29.632105,Q1374715,CHN,Hunan,Populated place,7,274000,ne-ne_10m_populated_places
+1159140797,Chenzhou,郴州,113.030093,25.800427,Q416748,CHN,Hunan,Populated place,7,322997,ne-ne_10m_populated_places
+1159140801,Zhijiang,芷江镇,109.678049,27.440946,Q14297991,CHN,Hunan,Populated place,7,113907,ne-ne_10m_populated_places
+1159140809,Xiangtan,湘潭,112.900023,27.850431,Q215755,CHN,Hunan,Populated place,7,2586948,ne-ne_10m_populated_places
+1159140813,Zigong,自贡,104.778056,29.401946,Q29015,CHN,Sichuan,Populated place,7,1105000,ne-ne_10m_populated_places
+1159140817,Yaan,雅安,103.080002,29.98043,Q427557,CHN,Sichuan,Populated place,7,340000,ne-ne_10m_populated_places
+1159140821,Langzhong,阆中,105.965563,31.57594,Q1200170,CHN,Sichuan,Populated place,7,60542,ne-ne_10m_populated_places
+1159140827,Rongzhag,丹巴县,101.916663,30.950448,,CHN,Sichuan,Populated place,7,70000,ne-ne_10m_populated_places
+1159140831,Simao,思茅,100.978167,22.780688,,CHN,Yunnan,Populated place,7,162725,ne-ne_10m_populated_places
+1159140833,Wenshan,文山,104.249698,23.372358,Q1201048,CHN,Yunnan,Populated place,7,152388,ne-ne_10m_populated_places
+1159140837,Zhanyi,沾益,103.81665,25.600465,,CHN,Yunnan,Populated place,7,652604,ne-ne_10m_populated_places
+1159140841,Huize,会泽,103.416674,26.350419,,CHN,Yunnan,Populated place,7,5170,ne-ne_10m_populated_places
+1159140847,Chengde,承德,117.93,40.96038,Q58675,CHN,Hebei,Populated place,7,449325,ne-ne_10m_populated_places
+1159140851,Cangzhou,沧州,116.870013,38.320386,Q58695,CHN,Hebei,Populated place,7,527681,ne-ne_10m_populated_places
+1159140855,Baoding,保定,115.468897,38.85834,Q58584,CHN,Hebei,Populated place,7,1107000,ne-ne_10m_populated_places
+1159140859,Huanghua,黄骅,117.330037,38.370434,Q1207090,CHN,Hebei,Populated place,7,120000,ne-ne_10m_populated_places
+1159140865,Dingzhou,定州,114.999998,38.500427,Q645183,CHN,Hebei,Populated place,7,152934,ne-ne_10m_populated_places
+1159140871,Nangong,南宫,115.370002,37.370392,Q1014384,CHN,Hebei,Populated place,7,82386,ne-ne_10m_populated_places
+1159140875,Linqing,临清,115.680008,36.850398,Q1207099,CHN,Hebei,Populated place,7,110046,ne-ne_10m_populated_places
+1159140881,Xiangtai,邢台,114.500029,37.049972,Q58576,CHN,Hebei,Populated place,7,611739,ne-ne_10m_populated_places
+1159140885,Puyang,濮阳,114.98,35.700391,Q404484,CHN,Henan,Populated place,7,666322,ne-ne_10m_populated_places
+1159140889,Hebi,鹤壁,114.220046,35.950375,Q404301,CHN,Henan,Populated place,7,244662,ne-ne_10m_populated_places
+1159140893,Xuchang,许昌,113.820019,34.02039,Q404529,CHN,Henan,Populated place,7,449258,ne-ne_10m_populated_places
+1159140899,Zhoukou,周口,114.630047,33.630414,Q198061,CHN,Henan,Populated place,7,377061,ne-ne_10m_populated_places
+1159140903,Dengzhou,邓州,112.080022,32.680368,Q1187144,CHN,Henan,Populated place,7,59338,ne-ne_10m_populated_places
+1159140907,Tieling,铁岭,123.819977,42.300375,Q75268,CHN,Liaoning,Populated place,7,340000,ne-ne_10m_populated_places
+1159140911,Chaoyang,朝阳,120.419978,41.550421,Q75336,CHN,Liaoning,Populated place,7,470296,ne-ne_10m_populated_places
+1159140917,Huanren,桓仁镇,125.345982,41.256331,Q5926085,CHN,Liaoning,Populated place,7,116621,ne-ne_10m_populated_places
+1159140921,Zhuanghe,庄河,122.96189,39.682292,Q198159,CHN,Liaoning,Populated place,7,261510,ne-ne_10m_populated_places
+1159140925,Yishui,沂水县,118.619984,35.790437,Q1198349,CHN,Shandong,Populated place,7,94115,ne-ne_10m_populated_places
+1159140929,Shanxian,单县,116.079984,34.79042,,CHN,Shandong,Populated place,7,74459,ne-ne_10m_populated_places
+1159140935,Pingyi,平邑,117.620045,35.510428,,CHN,Shandong,Populated place,7,78254,ne-ne_10m_populated_places
+1159140939,Pingdu,平度,119.940007,36.790376,Q2060398,CHN,Shandong,Populated place,7,91077,ne-ne_10m_populated_places
+1159140943,Laiwu,莱芜,117.660043,36.200412,Q373234,CHN,Shandong,Populated place,7,124108,ne-ne_10m_populated_places
+1159140947,Buizhou,滨州,117.984443,37.38045,Q373687,CHN,Shandong,Populated place,7,115893,ne-ne_10m_populated_places
+1159140953,Liaocheng,聊城,115.970017,36.430424,Q373564,CHN,Shandong,Populated place,7,226930,ne-ne_10m_populated_places
+1159140957,Rizhao,日照,119.450011,35.430381,Q373101,CHN,Shandong,Populated place,7,865000,ne-ne_10m_populated_places
+1159140961,Dezhou,德州,116.300022,37.450413,Q162880,CHN,Shandong,Populated place,7,379555,ne-ne_10m_populated_places
+1159140965,Linchuan,临川,116.360019,27.970346,,CHN,Jiangxi,Populated place,7,241104,ne-ne_10m_populated_places
+1159140973,Fengcheng,丰城,115.770029,28.200409,Q1375351,CHN,Jiangxi,Populated place,7,61469,ne-ne_10m_populated_places
+1159140977,Jian,吉安,114.999998,27.130423,Q363262,CHN,Jiangxi,Populated place,7,520248,ne-ne_10m_populated_places
+1159140981,Shangrao,上饶,117.969998,28.470393,Q363479,CHN,Jiangxi,Populated place,7,1144577,ne-ne_10m_populated_places
+1159140985,Jingdezhen,景德镇,117.18002,29.270421,Q34405,CHN,Jiangxi,Populated place,7,457298,ne-ne_10m_populated_places
+1159140991,Taizhou,泰州,119.900009,32.490406,Q57931,CHN,Jiangsu,Populated place,7,612356,ne-ne_10m_populated_places
+1159140995,Shuyang,沭阳县,118.77336,34.129866,,CHN,Jiangsu,Populated place,7,1770000,ne-ne_10m_populated_places
+1159140999,Lianyungang,连云港,119.226193,34.587014,Q57756,CHN,Jiangsu,Populated place,7,715600,ne-ne_10m_populated_places
+1159141003,Lishui,丽水,119.900009,28.45042,Q58294,CHN,Zhejiang,Populated place,7,172777,ne-ne_10m_populated_places
+1159141009,Jiaojing,椒江区,121.449992,28.680406,Q513077,CHN,Zhejiang,Populated place,7,471500,ne-ne_10m_populated_places
+1159141013,Quzhou,衢州,118.869995,28.97044,Q58235,CHN,Zhejiang,Populated place,7,370000,ne-ne_10m_populated_places
+1159141037,Songyuan,松原,124.820019,45.18038,Q92364,CHN,Jilin,Populated place,7,495900,ne-ne_10m_populated_places
+1159141043,Dunhua,敦化,128.220018,43.350492,Q713307,CHN,Jilin,Populated place,7,191870,ne-ne_10m_populated_places
+1159141047,Nongan,农安镇,125.170075,44.4304,Q1996202,CHN,Jilin,Populated place,7,141482,ne-ne_10m_populated_places
+1159141051,Taonan,洮南,122.78004,45.330423,Q1004248,CHN,Jilin,Populated place,7,116611,ne-ne_10m_populated_places
+1159141055,Liuhe,柳河镇,125.717329,42.278852,Q11109923,CHN,Jilin,Populated place,7,68938,ne-ne_10m_populated_places
+1159141061,Huinan,辉南县,126.26143,42.62294,Q926818,CHN,Jilin,Populated place,7,66315,ne-ne_10m_populated_places
+1159141065,Panshi,磐石,126.056119,42.942636,Q1361953,CHN,Jilin,Populated place,7,86216,ne-ne_10m_populated_places
+1159141069,Jiaohe,蛟河,127.345963,43.716284,Q1014635,CHN,Jilin,Populated place,7,123018,ne-ne_10m_populated_places
+1159141073,Linjiang,临江,126.935962,41.836347,Q594843,CHN,Jilin,Populated place,7,84315,ne-ne_10m_populated_places
+1159141079,Wangqing,汪清镇,129.734344,43.324783,Q13897219,CHN,Jilin,Populated place,7,88732,ne-ne_10m_populated_places
+1159141083,Helong,和龙,129.004363,42.534754,Q699125,CHN,Jilin,Populated place,7,85756,ne-ne_10m_populated_places
+1159141087,Shulan,舒兰,126.948726,44.40911,Q1205127,CHN,Jilin,Populated place,7,78764,ne-ne_10m_populated_places
+1159141091,Jiutai,九台区,125.844349,44.144733,Q1015907,CHN,Jilin,Populated place,7,205399,ne-ne_10m_populated_places
+1159141109,Alxa Zuoqi,阿拉善左旗,105.66863,38.83901,Q1367222,CHN,Nei Mongol,Populated place,7,56387,ne-ne_10m_populated_places
+1159141115,Linxi,林西镇,118.033302,43.517071,Q11106980,CHN,Nei Mongol,Populated place,7,679,ne-ne_10m_populated_places
+1159141117,Kailu,开鲁县,121.199982,43.583734,,CHN,Nei Mongol,Populated place,7,2809,ne-ne_10m_populated_places
+1159141123,Bairin Zuoqi,巴林左旗,119.183361,43.983709,Q1329235,CHN,Nei Mongol,Populated place,7,50000,ne-ne_10m_populated_places
+1159141127,Yitulihe,伊图里河镇,121.516655,50.651623,Q10884943,CHN,Nei Mongol,Populated place,7,19645,ne-ne_10m_populated_places
+1159141133,Yakeshi,牙克石,120.730036,49.280414,Q1010264,CHN,Nei Mongol,Populated place,7,116284,ne-ne_10m_populated_places
+1159141137,Bugt,布格特,121.933374,48.783804,,CHN,Nei Mongol,Populated place,7,17457,ne-ne_10m_populated_places
+1159141141,Wuyuan,婺源,108.272192,41.089622,,CHN,Nei Mongol,Populated place,7,30057,ne-ne_10m_populated_places
+1159141151,Bayan Obo,白云鄂博矿区,109.971106,41.767643,,CHN,Nei Mongol,Populated place,7,27476,ne-ne_10m_populated_places
+1159141157,Fengzhen,丰镇,113.144349,40.4547,Q1341574,CHN,Nei Mongol,Populated place,7,99174,ne-ne_10m_populated_places
+1159141161,Suihua,绥化,126.979991,46.630421,Q349985,CHN,Heilongjiang,Populated place,7,252245,ne-ne_10m_populated_places
+1159141165,Shuangyashan,双鸭山,131.350008,46.670419,Q349973,CHN,Heilongjiang,Populated place,7,500000,ne-ne_10m_populated_places
+1159141171,Shangzhi,尚志,127.970008,45.22043,Q1015925,CHN,Heilongjiang,Populated place,7,96980,ne-ne_10m_populated_places
+1159141175,Fujin,富锦,132.019993,47.270382,Q614877,CHN,Heilongjiang,Populated place,7,89442,ne-ne_10m_populated_places
+1159141179,Yian,依安镇,125.29999,47.880397,Q2600269,CHN,Heilongjiang,Populated place,7,39924,ne-ne_10m_populated_places
+1159141183,Tailai,泰来镇,123.409976,46.390358,Q11145142,CHN,Heilongjiang,Populated place,7,75992,ne-ne_10m_populated_places
+1159141189,Longjiang,龙江镇,123.180016,47.340404,Q1869551,CHN,Heilongjiang,Populated place,7,106384,ne-ne_10m_populated_places
+1159141193,Gannan,甘南镇,123.510021,47.920368,Q1493582,CHN,Heilongjiang,Populated place,7,59239,ne-ne_10m_populated_places
+1159141197,Hailun,海伦,126.93002,47.450423,Q1278514,CHN,Heilongjiang,Populated place,7,109881,ne-ne_10m_populated_places
+1159141201,Mishan,密山,131.880002,45.550384,Q203738,CHN,Heilongjiang,Populated place,7,87257,ne-ne_10m_populated_places
+1159141209,Tieli,铁力,128.050003,46.950376,Q1344820,CHN,Heilongjiang,Populated place,7,109636,ne-ne_10m_populated_places
+1159141213,Shuangcheng,双城区,126.279982,45.350344,Q1000142,CHN,Heilongjiang,Populated place,7,130710,ne-ne_10m_populated_places
+1159141217,Zhaodong,肇东,125.98,46.080429,Q197495,CHN,Heilongjiang,Populated place,7,179980,ne-ne_10m_populated_places
+1159141223,Lanxi,兰西镇,126.275951,46.266361,Q10893722,CHN,Heilongjiang,Populated place,7,72528,ne-ne_10m_populated_places
+1159141227,Keshan,克山镇,125.86595,48.026331,Q1522472,CHN,Heilongjiang,Populated place,7,72403,ne-ne_10m_populated_places
+1159141231,Nancha,联合街道,129.285948,47.136359,Q2043360,CHN,Heilongjiang,Populated place,7,121367,ne-ne_10m_populated_places
+1159141235,Xinqing,新青区,129.505935,48.236344,Q787402,CHN,Heilongjiang,Populated place,7,55415,ne-ne_10m_populated_places
+1159141241,Hulin,虎林,132.992233,45.769027,Q1361161,CHN,Heilongjiang,Populated place,7,42559,ne-ne_10m_populated_places
+1159141245,Boli,勃利县,130.575947,45.756366,,CHN,Heilongjiang,Populated place,7,95260,ne-ne_10m_populated_places
+1159141251,Ningan,宁安,129.465937,44.331337,Q1321612,CHN,Heilongjiang,Populated place,7,54636,ne-ne_10m_populated_places
+1159146169,Changhua,彰化,120.513409,24.0734,Q195215,TWN,Changhua,Admin-1 capital,7,750000,ne-ne_10m_populated_places
+1159146173,Chiayi,嘉义,120.435067,23.475452,Q249995,TWN,Chiayi City,Admin-1 capital,7,500000,ne-ne_10m_populated_places
+1159146175,Hsinchu,新竹,120.976739,24.816791,Q249994,TWN,Hsinchu City,Admin-1 capital,6,750000,ne-ne_10m_populated_places
+1159146177,Miaoli,苗栗,120.82,24.57,Q701651,TWN,Miaoli,Admin-1 capital,7,150000,ne-ne_10m_populated_places
+1159146179,Pingtung,屏东,120.481679,22.681702,Q713377,TWN,Pingtung,Admin-1 capital,7,503530,ne-ne_10m_populated_places
+1159146877,Jyekundo,结古街道,97.00674,32.997718,Q1558594,CHN,Gansu,Populated place,6,23000,ne-ne_10m_populated_places
+1159146879,Liuzhou,柳州,109.413529,24.320777,Q38968,CHN,Guangxi,Populated place,6,1497000,ne-ne_10m_populated_places
+1159146881,Xingyi,兴义,104.888075,25.092364,Q1359367,CHN,Guizhou,Populated place,6,816000,ne-ne_10m_populated_places
+1159146883,Anshun,安顺,105.928063,26.252345,Q486149,CHN,Guizhou,Populated place,6,849000,ne-ne_10m_populated_places
+1159146885,Zunyi,遵义,106.918081,27.701972,Q28994,CHN,Guizhou,Populated place,6,849000,ne-ne_10m_populated_places
+1159146887,Wanzhou,万州,108.400039,30.819991,,CHN,Chongqing,Populated place,6,1680000,ne-ne_10m_populated_places
+1159146889,Huaibei,淮北,116.748075,33.952314,Q360268,CHN,Anhui,Populated place,6,913000,ne-ne_10m_populated_places
+1159146893,Wuhu,芜湖,118.368028,31.352369,Q359990,CHN,Anhui,Populated place,6,810000,ne-ne_10m_populated_places
+1159146895,Luan,六安,116.478065,31.752293,Q360702,CHN,Anhui,Populated place,6,1690000,ne-ne_10m_populated_places
+1159146897,Bengbu,蚌埠,117.328091,32.951936,Q360069,CHN,Anhui,Populated place,6,894000,ne-ne_10m_populated_places
+1159146899,Anqing,安庆,117.050002,30.499959,Q360374,CHN,Anhui,Populated place,6,580497,ne-ne_10m_populated_places
+1159146901,Foshan,佛山,113.113576,23.010477,Q34412,CHN,Guangdong,Populated place,6,943000,ne-ne_10m_populated_places
+1159146955,Nagchu,那曲镇,92.05003,31.480002,Q1868994,CHN,Xizang,Populated place,6,2500,ne-ne_10m_populated_places
+1159146957,Nyingchi,林芝,94.36651,29.650744,Q1012465,CHN,Xizang,Populated place,6,100,ne-ne_10m_populated_places
+1159146959,Chamdo,昌都,97.180939,31.140938,Q1012419,CHN,Xizang,Populated place,6,100000,ne-ne_10m_populated_places
+1159146961,Korla,库尔勒,86.150028,41.729997,Q837425,CHN,Xinjiang Uygur,Populated place,6,613000,ne-ne_10m_populated_places
+1159146965,Kuqa,库车县,82.936374,41.727749,Q1023116,CHN,Xinjiang Uygur,Populated place,6,470600,ne-ne_10m_populated_places
+1159146967,Tacheng,塔城,82.950017,46.750026,Q648696,CHN,Xinjiang Uygur,Populated place,6,49796,ne-ne_10m_populated_places
+1159146969,Shihezi,石河子,86.029932,44.299969,Q848680,CHN,Xinjiang Uygur,Populated place,6,640000,ne-ne_10m_populated_places
+1159146971,Karamay,克拉玛依,84.859926,45.589942,Q658240,CHN,Xinjiang Uygur,Populated place,6,261445,ne-ne_10m_populated_places
+1159146973,Aksu,阿克苏,80.250026,41.150006,Q421648,CHN,Xinjiang Uygur,Populated place,6,695000,ne-ne_10m_populated_places
+1159146975,Sanya,三亚,109.504032,18.259104,Q319804,CHN,Hainan,Populated place,6,362689,ne-ne_10m_populated_places
+1159146977,Haikou,海口,110.320026,20.050002,Q189823,CHN,Hainan,Admin-1 capital,6,2046189,ne-ne_10m_populated_places
+1159146979,Hanzhong,汉中,107.029994,33.129979,Q515573,CHN,Shaanxi,Populated place,6,145986,ne-ne_10m_populated_places
+1159146983,Baoji,宝鸡,107.149986,34.380006,Q514796,CHN,Shaanxi,Populated place,6,800000,ne-ne_10m_populated_places
+1159146985,Tongchuan,铜川,109.029975,35.079989,Q514608,CHN,Shaanxi,Populated place,6,282258,ne-ne_10m_populated_places
+1159146987,Linfen,临汾,111.518058,36.082287,Q73156,CHN,Shanxi,Populated place,6,834000,ne-ne_10m_populated_places
+1159146989,Yuci,榆次,112.728062,37.682345,,CHN,Shanxi,Populated place,6,840000,ne-ne_10m_populated_places
+1159146991,Datong,大同,113.298053,40.081966,Q72877,CHN,Shanxi,Populated place,6,1873000,ne-ne_10m_populated_places
+1159146993,Jianmen,荆门,113.158061,30.651999,Q71323,CHN,Hubei,Populated place,6,1708000,ne-ne_10m_populated_places
+1159146995,Yichang,宜昌,111.278073,30.701918,Q71266,CHN,Hubei,Populated place,6,875000,ne-ne_10m_populated_places
+1159146997,Xiantao,仙桃,113.438096,30.372352,Q71455,CHN,Hubei,Populated place,6,1556000,ne-ne_10m_populated_places
+1159147001,Macheng,麻城,115.030022,31.179995,Q1016939,CHN,Hubei,Populated place,6,126366,ne-ne_10m_populated_places
+1159147003,Huangshi,黄石,115.099992,30.220002,Q71204,CHN,Hubei,Populated place,6,688090,ne-ne_10m_populated_places
+1159147005,Zhuzhou,株洲,113.148088,27.831938,Q198266,CHN,Hunan,Populated place,6,1080000,ne-ne_10m_populated_places
+1159147007,Yongzhou,永州,111.609135,26.41792,Q266014,CHN,Hunan,Populated place,6,1000000,ne-ne_10m_populated_places
+1159147009,Yiyang,益阳,112.328086,28.602356,Q416669,CHN,Hunan,Populated place,6,1352000,ne-ne_10m_populated_places
+1159147011,Changde,常德,111.6781,29.031943,Q416544,CHN,Hunan,Populated place,6,1469000,ne-ne_10m_populated_places
+1159147013,Shaoyang,邵阳,111.200075,26.999992,Q194531,CHN,Hunan,Populated place,6,45617,ne-ne_10m_populated_places
+1159147015,Leshan,乐山,103.731402,29.569042,Q426868,CHN,Sichuan,Populated place,6,1157000,ne-ne_10m_populated_places
+1159147019,Panzhihua,攀枝花,101.730007,26.549993,Q425415,CHN,Sichuan,Populated place,6,461513,ne-ne_10m_populated_places
+1159147021,Fulin,富林镇,102.716717,29.350003,Q10954379,CHN,Sichuan,Populated place,6,1049,ne-ne_10m_populated_places
+1159147023,Guangyuan,广元,105.870013,32.429996,Q426237,CHN,Sichuan,Populated place,6,437435,ne-ne_10m_populated_places
+1159147025,Luzhou,泸州,105.378071,28.881926,Q425492,CHN,Sichuan,Populated place,6,1537000,ne-ne_10m_populated_places
+1159147027,Yibin,宜宾,104.568095,28.771933,Q427265,CHN,Sichuan,Populated place,6,902000,ne-ne_10m_populated_places
+1159147029,Zhaotang,昭通,103.718069,27.322331,Q197519,CHN,Yunnan,Admin-1 capital,6,809000,ne-ne_10m_populated_places
+1159147031,Lijiang,丽江,100.266582,26.800004,Q205914,CHN,Yunnan,Populated place,6,18445,ne-ne_10m_populated_places
+1159147033,Yuxi,玉溪,102.570008,24.379996,Q496496,CHN,Yunnan,Populated place,6,396325,ne-ne_10m_populated_places
+1159147037,Dali,大理,100.250319,25.593731,Q855228,CHN,Yunnan,Populated place,6,156685,ne-ne_10m_populated_places
+1159147039,Qinhuangdao,秦皇岛,119.618081,39.932311,Q58560,CHN,Hebei,Populated place,6,1003000,ne-ne_10m_populated_places
+1159147041,Langfang,廊坊,116.678053,39.52231,Q58710,CHN,Hebei,Populated place,6,810000,ne-ne_10m_populated_places
+1159147043,Zhangjiakou,张家口,114.852027,40.805255,Q58650,CHN,Hebei,Populated place,6,1046000,ne-ne_10m_populated_places
+1159147045,Tangshan,唐山,118.192431,39.626283,Q58422,CHN,Hebei,Populated place,6,1879000,ne-ne_10m_populated_places
+1159147047,Anyang,安阳,114.348066,36.081926,Q324293,CHN,Henan,Populated place,6,887000,ne-ne_10m_populated_places
+1159147049,Jiaozuo,焦作,113.259553,35.200691,Q404429,CHN,Henan,Populated place,6,857000,ne-ne_10m_populated_places
+1159147051,Kaifeng,开封,114.354819,34.793814,Q208471,CHN,Henan,Populated place,6,872000,ne-ne_10m_populated_places
+1159147055,Shangqiu,商丘,115.64961,34.412942,Q404817,CHN,Henan,Populated place,6,1753000,ne-ne_10m_populated_places
+1159147057,Pingdingshan,平顶山,113.298053,33.732353,Q404116,CHN,Henan,Populated place,6,849000,ne-ne_10m_populated_places
+1159147059,Xinyang,信阳,114.068032,32.132322,Q404873,CHN,Henan,Populated place,6,1541000,ne-ne_10m_populated_places
+1159147061,Xinxiang,新乡,113.908926,35.301575,Q404362,CHN,Henan,Populated place,6,903000,ne-ne_10m_populated_places
+1159147063,Luoyang,洛阳,112.444471,34.64377,Q187136,CHN,Henan,Populated place,6,1715000,ne-ne_10m_populated_places
+1159147065,Liaoyang,辽阳,123.17807,41.281944,Q75203,CHN,Liaoning,Populated place,6,794000,ne-ne_10m_populated_places
+1159147067,Dandong,丹东,124.391639,40.145554,Q75110,CHN,Liaoning,Populated place,6,870000,ne-ne_10m_populated_places
+1159147069,Yingkow,营口,122.278073,40.672292,Q75150,CHN,Liaoning,Populated place,6,795000,ne-ne_10m_populated_places
+1159147073,Jinzhou,锦州,121.098094,41.122316,Q28996,CHN,Liaoning,Populated place,6,956000,ne-ne_10m_populated_places
+1159147075,Fuxin,阜新,121.658059,42.012417,Q34750,CHN,Liaoning,Populated place,6,770000,ne-ne_10m_populated_places
+1159147077,Benxi,本溪,123.748061,41.332329,Q75091,CHN,Liaoning,Populated place,6,1012000,ne-ne_10m_populated_places
+1159147079,Fushun,抚顺,123.868054,41.867335,Q75026,CHN,Liaoning,Admin-1 capital,6,1470000,ne-ne_10m_populated_places
+1159147081,Jining,济宁,116.548087,35.402355,Q372791,CHN,Shandong,Populated place,6,1186000,ne-ne_10m_populated_places
+1159147083,Weifang,潍坊,119.155626,36.702285,Q217698,CHN,Shandong,Populated place,6,1553000,ne-ne_10m_populated_places
+1159147085,Taian,泰安,117.11813,36.201944,Q217681,CHN,Shandong,Populated place,6,1629000,ne-ne_10m_populated_places
+1159147087,Heze,菏泽,115.448103,35.231926,Q332753,CHN,Shandong,Populated place,6,1338000,ne-ne_10m_populated_places
+1159147091,Laiyang,莱阳,120.708435,36.968401,Q371640,CHN,Shandong,Populated place,6,250000,ne-ne_10m_populated_places
+1159147093,Xinyu,新余,114.928031,27.801966,Q362959,CHN,Jiangxi,Populated place,6,913000,ne-ne_10m_populated_places
+1159147095,Ganzhou,赣州,114.950027,25.91998,Q363166,CHN,Jiangxi,Populated place,6,1500000,ne-ne_10m_populated_places
+1159147097,Jiujiang,九江,115.980042,29.72998,Q216077,CHN,Jiangxi,Populated place,6,545616,ne-ne_10m_populated_places
+1159147099,Changzhou,常州,119.968033,31.78193,Q57970,CHN,Jiangsu,Populated place,6,1327000,ne-ne_10m_populated_places
+1159147101,Zhenjiang,镇江,119.430481,32.17573,Q57958,CHN,Jiangsu,Populated place,6,854000,ne-ne_10m_populated_places
+1159147103,Nantong,南通,120.924587,31.982269,Q57947,CHN,Jiangsu,Populated place,6,947000,ne-ne_10m_populated_places
+1159147105,Jiaxing,嘉兴,120.748037,30.772353,Q58178,CHN,Zhejiang,Populated place,6,988000,ne-ne_10m_populated_places
+1159147109,Huzhou,湖州,120.098051,30.872321,Q42664,CHN,Zhejiang,Populated place,6,1231000,ne-ne_10m_populated_places
+1159147111,Shaoxing,绍兴,120.5681,30.002323,Q42666,CHN,Zhejiang,Populated place,6,777000,ne-ne_10m_populated_places
+1159147113,Jinhua,金华,119.649999,29.120043,Q58210,CHN,Zhejiang,Populated place,6,1092852,ne-ne_10m_populated_places
+1159147115,Liaoyuan,辽源,125.129974,42.899977,Q92311,CHN,Jilin,Populated place,6,506548,ne-ne_10m_populated_places
+1159147117,Tumen,图们,129.820076,42.969999,Q713323,CHN,Jilin,Populated place,6,99721,ne-ne_10m_populated_places
+1159147119,Siping,四平,124.330023,43.170012,Q92297,CHN,Jilin,Populated place,6,555609,ne-ne_10m_populated_places
+1159147121,Baicheng,白城,122.820038,45.620018,Q92381,CHN,Jilin,Populated place,6,386861,ne-ne_10m_populated_places
+1159147129,Wuhai,乌海,106.812229,39.664696,Q570768,CHN,Nei Mongol,Populated place,6,218427,ne-ne_10m_populated_places
+1159147131,Erenhot,二连浩特,111.965455,43.661558,Q1001036,CHN,Nei Mongol,Populated place,6,22287,ne-ne_10m_populated_places
+1159147133,Jining,平地泉镇,113.080012,41.029988,Q11060772,CHN,Nei Mongol,Populated place,6,281716,ne-ne_10m_populated_places
+1159147135,Arxan,阿尔山,119.96662,47.183307,Q717743,CHN,Nei Mongol,Populated place,6,32023,ne-ne_10m_populated_places
+1159147137,Manzhouli,满洲里,117.429979,49.599981,Q890671,CHN,Nei Mongol,Populated place,6,93620,ne-ne_10m_populated_places
+1159147139,Xilinhot,锡林浩特,116.044327,43.944332,Q1009416,CHN,Nei Mongol,Populated place,6,120965,ne-ne_10m_populated_places
+1159147141,Heihe,黑河,127.446009,50.250019,Q349983,CHN,Heilongjiang,Populated place,6,109427,ne-ne_10m_populated_places
+1159147145,Qitaihe,七台河,131.00906,45.767852,Q349979,CHN,Heilongjiang,Populated place,6,450617,ne-ne_10m_populated_places
+1159147147,Yichun,伊春,128.898031,47.701888,Q349976,CHN,Heilongjiang,Populated place,6,777000,ne-ne_10m_populated_places
+1159147149,Hegang,鹤岗,130.296732,47.346627,Q349982,CHN,Heilongjiang,Populated place,6,743307,ne-ne_10m_populated_places
+1159147151,Nenjiang,嫩江镇,125.23002,49.179981,Q6991629,CHN,Heilongjiang,Populated place,6,87236,ne-ne_10m_populated_places
+1159147153,Nehe,讷河,124.880015,48.489998,Q1332600,CHN,Heilongjiang,Populated place,6,108253,ne-ne_10m_populated_places
+1159147155,Mudangiang,牡丹江,129.588066,44.576963,Q217646,CHN,Heilongjiang,Populated place,6,1244000,ne-ne_10m_populated_places
+1159148323,Xuanzhou,宣城,118.753332,30.954446,Q360942,CHN,Anhui,Populated place,6,866000,ne-ne_10m_populated_places
+1159148325,Zhuhai,珠海,113.565832,22.27889,Q59095,CHN,Guangdong,Populated place,6,1023000,ne-ne_10m_populated_places
+1159148455,Xianyang,咸阳,108.712776,34.347501,Q497341,CHN,Shaanxi,Populated place,6,1126000,ne-ne_10m_populated_places
+1159148459,Xiangyang,襄阳,112.128098,32.021941,Q71284,CHN,Hubei,Populated place,6,1069000,ne-ne_10m_populated_places
+1159148461,Suining,遂宁,105.531387,30.535279,Q426644,CHN,Sichuan,Populated place,6,1425000,ne-ne_10m_populated_places
+1159148463,Lingyuan,凌源,119.399165,41.241946,Q1333417,CHN,Liaoning,Populated place,6,806000,ne-ne_10m_populated_places
+1159148465,Weihai,威海,122.099978,37.499971,Q373023,CHN,Shandong,Populated place,6,560255,ne-ne_10m_populated_places
+1159148467,Yichun,宜春,114.398054,27.835279,Q363326,CHN,Jiangxi,Populated place,6,982000,ne-ne_10m_populated_places
+1159148469,Yancheng,盐城,120.16752,33.337877,Q57866,CHN,Jiangsu,Populated place,6,839000,ne-ne_10m_populated_places
+1159148471,Fuyang,富阳区,119.949999,30.055279,Q1011103,CHN,Zhejiang,Populated place,6,771000,ne-ne_10m_populated_places
+1159149085,Macau,澳门,113.544375,22.189135,Q14773,MAC,,Admin-0 region capital,6,568700,ne-ne_10m_populated_places
+1159149103,Hualien,花莲,121.600009,23.983742,Q713310,TWN,Hualien,Admin-1 capital,6,350468,ne-ne_10m_populated_places
+1159149107,New Taipei,新北,121.465,25.012778,Q244898,TWN,New Taipei City,Admin-1 capital,5,3893740,ne-ne_10m_populated_places
+1159149109,Tainan,台南,120.200043,23.000003,Q140631,TWN,Tainan City,Admin-1 capital,6,1876312,ne-ne_10m_populated_places
+1159149111,Taitung,台东,121.140037,22.755393,Q713381,TWN,Taitung,Admin-1 capital,6,175000,ne-ne_10m_populated_places
+1159149129,Xiamen,厦门,118.078071,24.451938,Q68744,CHN,Fujian,Populated place,4,2519000,ne-ne_10m_populated_places
+1159149131,Nanchong,南充,106.128051,30.782378,Q426996,CHN,Sichuan,Populated place,4,2174000,ne-ne_10m_populated_places
+1159149133,Neijiang,内江,105.048066,29.582323,Q426756,CHN,Sichuan,Populated place,4,1466000,ne-ne_10m_populated_places
+1159149135,Nanyang,南阳,112.528074,33.002346,Q404763,CHN,Henan,Populated place,4,1944000,ne-ne_10m_populated_places
+1159149137,Jinxi,锦溪,120.828033,40.752287,,CHN,Liaoning,Populated place,4,2426000,ne-ne_10m_populated_places
+1159149139,Yantai,烟台,121.398075,37.532354,Q210493,CHN,Shandong,Populated place,4,2116000,ne-ne_10m_populated_places
+1159149143,Zaozhuang,枣庄,117.568077,34.881947,Q147187,CHN,Shandong,Populated place,4,2145000,ne-ne_10m_populated_places
+1159149145,Suzhou,苏州,120.618071,31.302424,Q42622,CHN,Jiangsu,Populated place,4,1650000,ne-ne_10m_populated_places
+1159149147,Xuzhou,徐州,117.178074,34.281958,Q57719,CHN,Jiangsu,Populated place,4,2091000,ne-ne_10m_populated_places
+1159149149,Wuxi,无锡,120.298039,31.581942,Q42651,CHN,Jiangsu,Populated place,4,1749000,ne-ne_10m_populated_places
+1159149151,Jilin,吉林,126.548097,43.851917,Q92277,CHN,Jilin,Populated place,4,2396000,ne-ne_10m_populated_places
+1159149767,Zhangye,张掖,100.450034,38.929987,Q197402,CHN,Gansu,Populated place,4,230728,ne-ne_10m_populated_places
+1159149769,Wuwei,武威,102.641011,37.928007,Q249007,CHN,Gansu,Populated place,4,493092,ne-ne_10m_populated_places
+1159149773,Dunhuang,敦煌,94.662015,40.142678,Q319114,CHN,Gansu,Populated place,4,140094,ne-ne_10m_populated_places
+1159149775,Tianshui,天水,105.918038,34.601964,Q533157,CHN,Gansu,Populated place,4,1225000,ne-ne_10m_populated_places
+1159149777,Dulan,都兰,98.266601,36.16659,,CHN,Gansu,Populated place,4,100,ne-ne_10m_populated_places
+1159149779,Golmud,格尔木,94.883345,36.416626,Q858250,CHN,Gansu,Populated place,4,107092,ne-ne_10m_populated_places
+1159149781,Yulin,玉林,110.148064,22.63192,Q571918,CHN,Guangxi,Populated place,4,1127000,ne-ne_10m_populated_places
+1159149783,Bose,白城,106.613327,23.899716,Q92381,CHN,Guangxi,Populated place,4,175282,ne-ne_10m_populated_places
+1159149785,Wuzhou,梧州,111.320016,23.480025,Q571652,CHN,Guangxi,Populated place,4,442315,ne-ne_10m_populated_places
+1159149787,Liupanshui,六盘水,104.831386,26.596381,Q485918,CHN,Guizhou,Populated place,4,1221000,ne-ne_10m_populated_places
+1159149791,Quanzhou,泉州,118.578041,24.901962,Q68695,CHN,Fujian,Populated place,4,1463000,ne-ne_10m_populated_places
+1159149793,Hefei,合肥,117.278068,31.851977,Q185684,CHN,Anhui,Admin-1 capital,4,2035000,ne-ne_10m_populated_places
+1159149795,Suzhou,宿州,116.976943,33.638057,Q360643,CHN,Anhui,Populated place,4,1964000,ne-ne_10m_populated_places
+1159149797,Zhanjiang,湛江,110.378076,21.20193,Q59144,CHN,Guangdong,Populated place,4,1590000,ne-ne_10m_populated_places
+1159149799,Shaoguan,韶关,113.579982,24.799971,Q59107,CHN,Guangdong,Populated place,4,720266,ne-ne_10m_populated_places
+1159149873,Xigaze,日喀则,88.88335,29.250009,Q1211183,CHN,Xizang,Populated place,4,80000,ne-ne_10m_populated_places
+1159149875,Shache,莎车县,77.250003,38.426142,Q857618,CHN,Xinjiang Uygur,Populated place,4,851374,ne-ne_10m_populated_places
+1159149877,Yining,伊宁,81.350011,43.900019,Q866021,CHN,Xinjiang Uygur,Populated place,4,542507,ne-ne_10m_populated_places
+1159149881,Altay,阿勒泰,88.116626,47.866599,Q434924,CHN,Xinjiang Uygur,Populated place,4,142000,ne-ne_10m_populated_places
+1159149885,Shizuishan,石嘴山,106.769028,39.233276,Q604385,CHN,Ningxia Hui,Populated place,4,136570,ne-ne_10m_populated_places
+1159149887,Yulin,榆林,109.733291,38.283308,Q515712,CHN,Shaanxi,Populated place,4,155960,ne-ne_10m_populated_places
+1159149889,Ankang,安康,109.020002,32.679981,Q515846,CHN,Shaanxi,Populated place,4,1100000,ne-ne_10m_populated_places
+1159149891,Houma,侯马,111.209997,35.619982,Q975264,CHN,Shanxi,Populated place,4,102400,ne-ne_10m_populated_places
+1159149893,Yueyang,岳阳,113.098065,29.381999,Q151958,CHN,Hunan,Populated place,4,826000,ne-ne_10m_populated_places
+1159149895,Hengyang,衡阳,112.58807,26.881971,Q144663,CHN,Hunan,Populated place,4,1016000,ne-ne_10m_populated_places
+1159149899,Mianyang,绵阳,104.689993,31.464828,Q426130,CHN,Sichuan,Populated place,4,1396000,ne-ne_10m_populated_places
+1159149901,Xichang,西昌,102.299998,27.880015,Q224603,CHN,Sichuan,Populated place,4,379993,ne-ne_10m_populated_places
+1159149903,Baoshan,保山,99.15001,25.119977,Q496576,CHN,Yunnan,Populated place,4,1000000,ne-ne_10m_populated_places
+1159149905,Gejiu,个旧,103.150076,23.37998,Q1016730,CHN,Yunnan,Populated place,4,149105,ne-ne_10m_populated_places
+1159149907,Shijiazhuang,石家庄,114.478032,38.05196,Q58401,CHN,Hebei,Admin-1 capital,4,2417000,ne-ne_10m_populated_places
+1159149909,Handan,邯郸,114.478032,36.581921,Q58570,CHN,Hebei,Populated place,4,1631000,ne-ne_10m_populated_places
+1159149911,Anshan,鞍山,122.938085,41.116967,Q74957,CHN,Liaoning,Populated place,4,1639000,ne-ne_10m_populated_places
+1159149913,Dalian,大连,121.627885,38.924784,Q74881,CHN,Liaoning,Populated place,4,3167000,ne-ne_10m_populated_places
+1159149917,Qingdao,青岛,120.328063,36.091925,Q170322,CHN,Shandong,Populated place,4,2866000,ne-ne_10m_populated_places
+1159149919,Linyi,临沂,118.32803,35.081935,Q373346,CHN,Shandong,Populated place,4,2082000,ne-ne_10m_populated_places
+1159149921,Huaiyin,淮安,119.065967,33.585165,Q57818,CHN,Jiangsu,Populated place,4,1264000,ne-ne_10m_populated_places
+1159149923,Wenzhou,温州,120.648147,28.021927,Q42635,CHN,Zhejiang,Populated place,4,2350000,ne-ne_10m_populated_places
+1159149925,Ningbo,宁波,121.548092,29.881917,Q42780,CHN,Zhejiang,Populated place,4,1923000,ne-ne_10m_populated_places
+1159149939,Tongliao,通辽,122.268048,43.621905,Q570884,CHN,Nei Mongol,Populated place,4,884000,ne-ne_10m_populated_places
+1159149941,Hohhot,呼和浩特,111.65805,40.821921,Q535534,CHN,Nei Mongol,Admin-1 capital,4,1726000,ne-ne_10m_populated_places
+1159149943,Chifeng,赤峰,118.948044,42.271961,Q570829,CHN,Nei Mongol,Populated place,4,1277000,ne-ne_10m_populated_places
+1159149945,Ulan Hot,乌兰浩特,122.080031,46.080016,Q1000383,CHN,Nei Mongol,Populated place,4,241894,ne-ne_10m_populated_places
+1159149947,Hailar,海拉尔区,119.700022,49.19998,Q986724,CHN,Nei Mongol,Populated place,4,231171,ne-ne_10m_populated_places
+1159149949,Jiamusi,佳木斯,130.348072,46.831967,Q29003,CHN,Heilongjiang,Populated place,4,1020000,ne-ne_10m_populated_places
+1159149953,Bei'an,北安,126.528604,48.246263,Q814616,CHN,Heilongjiang,Populated place,4,154936,ne-ne_10m_populated_places
+1159149955,Daqing,大庆,124.998062,46.581905,Q304848,CHN,Heilongjiang,Populated place,4,1693000,ne-ne_10m_populated_places
+1159149957,Jixi,鸡西,130.968085,45.301906,Q28979,CHN,Heilongjiang,Populated place,4,965000,ne-ne_10m_populated_places
+1159150459,Magong,马公,119.583333,23.566667,Q701428,TWN,Penghu,Admin-1 capital,5,56435,ne-ne_10m_populated_places
+1159150461,Taichung,台中,120.681667,24.152078,Q245023,TWN,Taichung City,Admin-1 capital,4,2629323,ne-ne_10m_populated_places
+1159150817,Jiayuguan,嘉峪关,98.299984,39.82001,Q532560,CHN,Gansu,Populated place,3,148279,ne-ne_10m_populated_places
+1159150819,Xining,西宁,101.768059,36.621944,Q69060,CHN,Gansu,Admin-1 capital,3,1048000,ne-ne_10m_populated_places
+1159150821,Guilin,桂林,110.278082,25.281939,Q189633,CHN,Guangxi,Populated place,3,987000,ne-ne_10m_populated_places
+1159150823,Huainan,淮南,116.978035,32.63193,Q360178,CHN,Anhui,Populated place,3,1451000,ne-ne_10m_populated_places
+1159150825,Shantou,汕头,116.66808,23.371952,Q59100,CHN,Guangdong,Populated place,3,1601000,ne-ne_10m_populated_places
+1159150879,Lhasa,拉萨,91.10001,29.645024,Q5869,CHN,Xizang,Admin-1 capital,3,219599,ne-ne_10m_populated_places
+1159150881,Hami,伊州区,93.515005,42.826984,Q650585,CHN,Xinjiang Uygur,Populated place,3,580000,ne-ne_10m_populated_places
+1159150883,Hotan,和田,79.926945,37.099711,Q235389,CHN,Xinjiang Uygur,Populated place,3,408894,ne-ne_10m_populated_places
+1159150885,Kashgar,喀什,75.969926,39.476336,Q170521,CHN,Xinjiang Uygur,Populated place,3,506640,ne-ne_10m_populated_places
+1159150889,Yinchuan,银川,106.271092,38.46992,Q211243,CHN,Ningxia Hui,Admin-1 capital,3,991000,ne-ne_10m_populated_places
+1159150891,Pingxiang,萍乡,113.848097,27.621951,Q362865,CHN,Jiangxi,Populated place,3,961000,ne-ne_10m_populated_places
+1159150895,Qiqihar,齐齐哈尔,123.988046,47.346923,Q205922,CHN,Heilongjiang,Populated place,3,1641000,ne-ne_10m_populated_places
+1159151213,Kaohsiung,高雄,120.266602,22.633307,Q181557,TWN,Kaohsiung City,Admin-1 capital,3,2769072,ne-ne_10m_populated_places
+1159151215,Shenzhen,深圳,114.061154,22.548097,Q15174,CHN,Guangdong,Populated place,2,7581000,ne-ne_10m_populated_places
+1159151217,Zibo,淄博,117.99646,36.821365,Q198370,CHN,Shandong,Populated place,2,3061000,ne-ne_10m_populated_places
+1159151321,Lanzhou,兰州,103.790054,36.057974,Q183584,CHN,Gansu,Admin-1 capital,2,2561000,ne-ne_10m_populated_places
+1159151323,Nanning,南宁,108.318099,22.821934,Q179608,CHN,Guangxi,Admin-1 capital,2,2167000,ne-ne_10m_populated_places
+1159151325,Guiyang,贵阳,106.718093,26.581989,Q192271,CHN,Guizhou,Admin-1 capital,2,3662000,ne-ne_10m_populated_places
+1159151327,Chongqing,重庆,106.593036,29.566923,Q11725,CHN,Chongqing,Admin-1 capital,2,6461000,ne-ne_10m_populated_places
+1159151329,Fuzhou,福州,119.2981,26.081942,Q68481,CHN,Fujian,Admin-1 capital,2,2606000,ne-ne_10m_populated_places
+1159151331,Guangzhou,广州,113.261785,23.124723,Q16572,CHN,Guangdong,Admin-1 capital,2,8829000,ne-ne_10m_populated_places
+1159151333,Dongguan,东莞,113.750474,23.021537,Q59218,CHN,Guangdong,Populated place,2,4528000,ne-ne_10m_populated_places
+1159151363,Xian,西安,108.89305,34.276971,Q5826,CHN,Shaanxi,Admin-1 capital,2,4009000,ne-ne_10m_populated_places
+1159151365,Taiyuan,太原,112.543112,37.876958,Q72778,CHN,Shanxi,Admin-1 capital,2,2913000,ne-ne_10m_populated_places
+1159151367,Wuhan,武汉,114.268071,30.581977,Q11746,CHN,Hubei,Admin-1 capital,2,7243000,ne-ne_10m_populated_places
+1159151369,Changsha,长沙,112.968047,28.201916,Q174091,CHN,Hunan,Admin-1 capital,2,2604000,ne-ne_10m_populated_places
+1159151371,Kunming,昆明,102.69744,25.042859,Q182852,CHN,Yunnan,Admin-1 capital,2,2931000,ne-ne_10m_populated_places
+1159151375,Zhengzhou,郑州,113.663147,34.756942,Q30340,CHN,Henan,Admin-1 capital,2,2636000,ne-ne_10m_populated_places
+1159151377,Shenyeng,沈阳,123.448028,41.806925,Q11720,CHN,Liaoning,Admin-1 capital,2,4787000,ne-ne_10m_populated_places
+1159151379,Jinan,济南,116.993073,36.676928,Q170247,CHN,Shandong,Admin-1 capital,2,2798000,ne-ne_10m_populated_places
+1159151381,Tianjin,天津,117.196607,39.082772,Q11736,CHN,Tianjin,Admin-1 capital,2,7180000,ne-ne_10m_populated_places
+1159151383,Nanchang,南昌,115.87805,28.681938,Q171943,CHN,Jiangxi,Admin-1 capital,2,2350000,ne-ne_10m_populated_places
+1159151385,Nanjing,南京,118.778029,32.051965,Q16666,CHN,Jiangsu,Admin-1 capital,2,3679000,ne-ne_10m_populated_places
+1159151387,Hangzhou,杭州,120.168073,30.25192,Q4970,CHN,Zhejiang,Admin-1 capital,2,3007000,ne-ne_10m_populated_places
+1159151393,Changchun,长春,125.338042,43.866954,Q92161,CHN,Jilin,Admin-1 capital,2,3183000,ne-ne_10m_populated_places
+1159151395,Baotou,包头,109.820074,40.654153,Q569907,CHN,Nei Mongol,Populated place,2,2036000,ne-ne_10m_populated_places
+1159151397,Harbin,哈尔滨,126.648039,45.75193,Q42956,CHN,Heilongjiang,Admin-1 capital,2,3621000,ne-ne_10m_populated_places
+1159151531,Ürümqi,乌鲁木齐,87.57306,43.806958,Q16959,CHN,Xinjiang Uygur,Admin-1 capital,1,3575000,ne-ne_10m_populated_places
+1159151533,Chengdu,成都,104.068074,30.671946,Q30002,CHN,Sichuan,Admin-1 capital,1,4123000,ne-ne_10m_populated_places
+1159151567,Taipei,台北,121.568333,25.035833,Q1867,TWN,Taipei City,Admin-0 capital,1,6900273,ne-ne_10m_populated_places
+1159151595,Beijing,北京,116.394201,39.90172,Q956,CHN,Beijing,Admin-0 capital,0,11106000,ne-ne_10m_populated_places
+1159151605,Shanghai,上海,121.434559,31.218398,Q8686,CHN,Shanghai,Admin-1 capital,0,14987000,ne-ne_10m_populated_places
+1159151629,Hong Kong,香港,114.183064,22.306927,Q8646,HKG,,Admin-0 region capital,0,7206000,ne-ne_10m_populated_places

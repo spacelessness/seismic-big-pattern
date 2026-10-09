@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-09",
+  "datasets": [
+    {
+      "id": "gem_faults",
+      "title": "全球活动断裂 GEM GAF",
+      "publisher": "GEM Foundation",
+      "authority_class": "peer_reviewed_compilation",
+      "status": "vendored",
+      "source_url": "https://github.com/GEMScienceTools/gem-global-active-faults",
+      "spatial_reference": "Geographic lon/lat; WGS84 usage; no explicit CRS member in source GeoJSON",
+      "license_status": "CC-BY-SA-4.0",
+      "paths": [
+        "data/raw/gem/gem_active_faults.geojson"
+      ],
+      "limitations": "不同来源精度不一致；属性字段可缺失"
+    },
+    {
+      "id": "pb2002",
+      "title": "PB2002 全球板块/边界/造山带",
+      "publisher": "Peter Bird; Hugo Ahlenius / Nordpil",
+      "authority_class": "academic_model_community_conversion",
+      "status": "vendored",
+      "source_url": "https://github.com/fraxen/tectonicplates",
+      "spatial_reference": "Geographic lon/lat; WGS84 usage; no explicit CRS member in source GeoJSON",
+      "license_status": "ODC-By-1.0",
+      "paths": [
+        "data/raw/pb2002/"
+      ],
+      "limitations": "历史模型；不等于中国活动地块层级"
+    },
+    {
+      "id": "ne_cities",
+      "title": "全球和中国相关城市坐标",
+      "publisher": "Natural Earth",
+      "authority_class": "community_cartographic",
+      "status": "derived_vendored_source_cached",
+      "source_url": "https://github.com/nvkelso/natural-earth-vector",
+      "spatial_reference": "OGC:CRS84 (WGS84 lon/lat)",
+      "license_status": "Public Domain",
+      "paths": [
+        "data/derived/cities_world.csv",
+        "data/derived/cities_china.csv",
+        "data/derived/cities_china_34_labels.csv"
+      ],
+      "limitations": "非官方驻地测量；人口和行政属性非当前权威统计"
+    },
+    {
+      "id": "ne_physical",
+      "title": "海岸线/河流/湖泊 1:5000万",
+      "publisher": "Natural Earth",
+      "authority_class": "community_cartographic",
+      "status": "vendored",
+      "source_url": "https://github.com/nvkelso/natural-earth-vector",
+      "spatial_reference": "OGC:CRS84 (WGS84 lon/lat)",
+      "license_status": "Public Domain",
+      "paths": [
+        "data/raw/natural_earth/"
+      ],
+      "limitations": "原河流含一个空几何；提供非空派生"
+    },
+    {
+      "id": "cn_faults",
+      "title": "CAFDv2023 GMT 社区转换版",
+      "publisher": "中国地震局地质研究所研究团队; GMT 中文社区",
+      "authority_class": "official_research_origin_community_conversion",
+      "status": "downloaded_local_only",
+      "source_url": "https://docs.gmt-china.org/latest/dataset/CN-faults/",
+      "spatial_reference": "Geographic lon/lat; datum not declared in downloaded file",
+      "license_status": "NOASSERTION",
+      "paths": [
+        "data/local/gmt-china/CN-faults.gmt"
+      ],
+      "limitations": "原门户故障；数据许可证未核验；不继承论文许可"
+    },
+    {
+      "id": "cn_blocks",
+      "title": "中国一级/推断一级/二级活动地块边界",
+      "publisher": "王辉等 (2003); GMT 中文社区",
+      "authority_class": "paper_digitization",
+      "status": "downloaded_local_only",
+      "source_url": "https://docs.gmt-china.org/latest/dataset/CN-block/",
+      "spatial_reference": "Geographic lon/lat; datum unspecified",
+      "license_status": "NOASSERTION",
+      "paths": [
+        "data/local/gmt-china/CN-block-L1.gmt",
+        "data/local/gmt-china/CN-block-L1-deduced.gmt",
+        "data/local/gmt-china/CN-block-L2.gmt"
+      ],
+      "limitations": "边界线不是命名地块面；不能直接点落区统计"
+    },
+    {
+      "id": "cn_border_community",
+      "title": "中国国界省界 GMT 社区转换版",
+      "publisher": "国家基础地理资料来源; GMT 中文社区",
+      "authority_class": "official_origin_community_conversion",
+      "status": "downloaded_local_only",
+      "source_url": "https://docs.gmt-china.org/latest/dataset/CN-border/",
+      "spatial_reference": "File header EPSG:4326; official source CGCS2000; conversion details incomplete",
+      "license_status": "NOASSERTION",
+      "paths": [
+        "data/local/gmt-china/CN-border-La.gmt",
+        "data/local/gmt-china/CN-border-L1.gmt",
+        "data/local/gmt-china/ten-dash-line.gmt"
+      ],
+      "limitations": "仅供科研；不保证通过地图审核；非官方原始文件"
+    },
+    {
+      "id": "cn_admin_official",
+      "title": "全国1:100万公众版基础地理数据(2021)",
+      "publisher": "自然资源部授权; 全国地理信息资源目录服务系统/天地图",
+      "authority_class": "official",
+      "status": "not_downloaded",
+      "source_url": "https://www.webmap.cn/commres.do?method=result100W",
+      "spatial_reference": "CGCS2000 / EPSG:4490; 1985 National Height Datum",
+      "license_status": "Verify current official terms",
+      "paths": [],
+      "limitations": "页面WAF拦截；下载转天地图；现势性2019年；需官方获取"
+    },
+    {
+      "id": "cn_standard_map",
+      "title": "中国官方标准地图",
+      "publisher": "自然资源部",
+      "authority_class": "official",
+      "status": "source_only_unreachable",
+      "source_url": "https://bzdt.ch.mnr.gov.cn/",
+      "spatial_reference": "Product-specific; not acquired",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "页面本次未获取；未验证具体审图号或文件"
+    },
+    {
+      "id": "cenc_catalog",
+      "title": "中国正式地震目录",
+      "publisher": "国家地震科学数据中心/中国地震台网中心",
+      "authority_class": "official",
+      "status": "source_only",
+      "source_url": "https://data.earthquake.cn/",
+      "spatial_reference": "Product-specific; verify timezone, magnitude type and depth units",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "未下载；已有EQT不能仅凭文件名认证来源"
+    },
+    {
+      "id": "usgs_comcat",
+      "title": "全球/区域地震目录 ComCat",
+      "publisher": "USGS",
+      "authority_class": "official",
+      "status": "source_only_verified_docs",
+      "source_url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+      "spatial_reference": "Geographic coordinates; UTC; depth km",
+      "license_status": "Verify USGS and contributing catalog terms",
+      "paths": [],
+      "limitations": "已核查API文档；未下载事件；单次请求上限需处理"
+    },
+    {
+      "id": "isc_gem",
+      "title": "ISC-GEM 大震目录",
+      "publisher": "International Seismological Centre",
+      "authority_class": "institutional_scientific",
+      "status": "candidate_source_only",
+      "source_url": "https://www.isc.ac.uk/iscgem/",
+      "spatial_reference": "Product-specific; not acquired",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "未核查当前版本和下载条款"
+    },
+    {
+      "id": "global_cmt",
+      "title": "全球矩张量目录",
+      "publisher": "Global CMT Project",
+      "authority_class": "institutional_scientific",
+      "status": "source_only",
+      "source_url": "https://www.globalcmt.org/CMTfiles.html",
+      "spatial_reference": "NDK conventions; centroid not identical to hypocenter",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "未下载；区分quick和正式解"
+    },
+    {
+      "id": "cenc_cmt",
+      "title": "中国地震台网中心大震CMT",
+      "publisher": "中国地震台网中心",
+      "authority_class": "official",
+      "status": "source_only",
+      "source_url": "https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_dzzyjz",
+      "spatial_reference": "Product-specific moment tensor conventions",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "DOI 10.12080/nedc.11.ds.2022.0005；未下载"
+    },
+    {
+      "id": "wsm2025",
+      "title": "World Stress Map 2025",
+      "publisher": "GFZ Helmholtz Centre for Geosciences",
+      "authority_class": "institutional_scientific",
+      "status": "source_only_verified_docs",
+      "source_url": "https://doi.org/10.5880/WSM.2025.001",
+      "spatial_reference": "Geographic point records; read release format",
+      "license_status": "Verify dataset license",
+      "paths": [],
+      "limitations": "官方首页已核查；100842条为发布记录数，非本地数据量"
+    },
+    {
+      "id": "ngl_midas",
+      "title": "GNSS MIDAS 速度表",
+      "publisher": "Nevada Geodetic Laboratory, UNR",
+      "authority_class": "institutional_scientific",
+      "status": "source_only_verified_docs",
+      "source_url": "https://geodesy.unr.edu/",
+      "spatial_reference": "IGS20 or plate-fixed frames; do not mix frames",
+      "license_status": "Verify data and station-specific terms",
+      "paths": [],
+      "limitations": "已核查官方页面；未下载速度表"
+    },
+    {
+      "id": "gsrm",
+      "title": "全球应变率模型",
+      "publisher": "Nevada Geodetic Laboratory and collaborators",
+      "authority_class": "institutional_scientific",
+      "status": "source_only",
+      "source_url": "https://geodesy.unr.edu/gsrm.php",
+      "spatial_reference": "Model-specific frame and units",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "未取得格网；不用于直接短期概率解释"
+    },
+    {
+      "id": "gmt_relief",
+      "title": "区域地形起伏",
+      "publisher": "GMT remote data service and original relief producers",
+      "authority_class": "institutional_aggregation",
+      "status": "recipe_only",
+      "source_url": "https://docs.gmt-china.org/latest/dataset/remote-dataset/",
+      "spatial_reference": "Geographic grid; vertical reference/version must be retained",
+      "license_status": "Verify selected relief product terms",
+      "paths": [],
+      "limitations": "仅10弧分区域获取配方；未下载格网"
+    },
+    {
+      "id": "gshhg",
+      "title": "GSHHG 海岸线",
+      "publisher": "Generic Mapping Tools / GSHHG",
+      "authority_class": "scientific_project",
+      "status": "candidate_source_only",
+      "source_url": "https://github.com/GenericMappingTools/gshhg-gmt",
+      "spatial_reference": "Geographic coordinates; verify release",
+      "license_status": "Verify release terms",
+      "paths": [],
+      "limitations": "未重复入库；可使用GMT已有低分辨率层"
+    },
+    {
+      "id": "slab2",
+      "title": "Slab2 俯冲板片模型",
+      "publisher": "USGS",
+      "authority_class": "official",
+      "status": "candidate_source_only",
+      "source_url": "https://github.com/usgs/slab2",
+      "spatial_reference": "Product-specific grid/depth conventions",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "只登记官方仓库候选；未下载核查"
+    },
+    {
+      "id": "cn_ground_motion",
+      "title": "中国M4以上强震动参数",
+      "publisher": "中国地震台网中心",
+      "authority_class": "official",
+      "status": "source_only",
+      "source_url": "https://data.earthquake.cn/datashare/report.shtml?PAGEID=ground_motion_list",
+      "spatial_reference": "Point coordinates; PGA/PGV units per field documentation",
+      "license_status": "Verify product terms",
+      "paths": [],
+      "limitations": "未下载；主要用于影响分析"
+    },
+    {
+      "id": "geonames",
+      "title": "GeoNames 更密集城市点",
+      "publisher": "GeoNames",
+      "authority_class": "community_gazetteer",
+      "status": "candidate_source_only",
+      "source_url": "https://download.geonames.org/export/dump/",
+      "spatial_reference": "Verify product specification",
+      "license_status": "Verify CC BY terms and attribution",
+      "paths": [],
+      "limitations": "候选来源；未下载，不与Natural Earth静默合并"
+    }
+  ]
+}

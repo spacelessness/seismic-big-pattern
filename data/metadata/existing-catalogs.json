@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "EQ10全国地震目录MS5.EQT",
+      "bytes": 355113,
+      "sha256": "abaab5ec9e38b629fd656b409cd70ccde82c64f87fe9ccbdf0d683e072f1d066",
+      "line_count": 6355,
+      "first_line": "-23000000000000 34.90 110.405.50 -1000 山西永济、蒲州",
+      "last_line": " 20260904010439 37.84  95.595.10 10000 青海海西州直辖区",
+      "status": "pre_existing_unmodified",
+      "license": "unknown",
+      "origin": "not documented in original repository",
+      "notes": "Line count is not a validated event count; dates include BCE/unknown components. Timezone and missing-value conventions unverified."
+    },
+    {
+      "path": "EQ11全球地震目录Ms7.EQT",
+      "bytes": 146958,
+      "sha256": "f169eac392496ea6675891411b23f7272acabdb6445553b7ea190212f4969946",
+      "line_count": 2524,
+      "first_line": "-20000000000000 56.29 118.308.10 -1000 俄罗斯赤塔州（与中国、蒙古接壤）",
+      "last_line": " 20260815055824 -8.40 121.407.70 20000 印尼弗洛勒斯岛附近海域",
+      "status": "pre_existing_unmodified",
+      "license": "unknown",
+      "origin": "not documented in original repository",
+      "notes": "Line count is not a validated event count; dates include BCE/unknown components. Timezone and missing-value conventions unverified."
+    }
+  ]
+}

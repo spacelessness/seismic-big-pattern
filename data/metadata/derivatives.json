@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "generator": "scripts/build_public_data.py",
+  "files": [
+    {
+      "path": "data/derived/cities_world.csv",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "All source points; reduced fields; geometry coordinates, not label fields",
+      "count": 7342,
+      "bytes": 925311,
+      "sha256": "7f66fc84f43fccb544f2374d42d5a4e142dbc58e893ea21fd402c7857bf50ab1"
+    },
+    {
+      "path": "data/derived/cities_world_major.csv",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "source SCALERANK <= 3 OR source POP_MAX >= 1000000; not current population",
+      "count": 747,
+      "bytes": 93348,
+      "sha256": "48a387490b29f79cb45ff2ca40409dd00adb0245616c5bbc827b5c8f7e1a9bfa"
+    },
+    {
+      "path": "data/derived/cities_world_major.geojson",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "source SCALERANK <= 3 OR source POP_MAX >= 1000000; not current population",
+      "count": 747,
+      "bytes": 303485,
+      "sha256": "42725efff48ee9cbb768b1855145641d490adcc69467cc0ce59483546d3ff5c4"
+    },
+    {
+      "path": "data/derived/cities_china.csv",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "Source ADM0_A3 in CHN/HKG/MAC/TWN; preserve upstream codes, not a sovereignty classification",
+      "count": 427,
+      "bytes": 51117,
+      "sha256": "20bb4253dde754e662adaa3d0162814188bbea88a39343e9ce30e226d56dffbc"
+    },
+    {
+      "path": "data/derived/cities_china.geojson",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "Source ADM0_A3 in CHN/HKG/MAC/TWN; preserve upstream codes, not a sovereignty classification",
+      "count": 427,
+      "bytes": 171321,
+      "sha256": "2994dfbf7bf470a31332c5cf9a55714297b01771f35b2e741539e25b641f7e60"
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.csv",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "Explicit 34-city editorial label list; coordinates from Natural Earth; not official administrative data",
+      "count": 34,
+      "bytes": 4647,
+      "sha256": "0a0a0e70b3de53da66021493115d4666f4b005f4e2ec81c52b96a6f27163f143"
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.geojson",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "Explicit 34-city editorial label list; coordinates from Natural Earth; not official administrative data",
+      "count": 34,
+      "bytes": 14818,
+      "sha256": "50a526b61084675fb0bed8bc985d808550c8c4f02464c9788cc98209d3c300d6"
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.gmt",
+      "source_ids": [
+        "ne-ne_10m_populated_places"
+      ],
+      "license": "Public Domain",
+      "transformation": "34-city label list; UTF-8 lon lat Chinese label",
+      "count": 34,
+      "bytes": 1023,
+      "sha256": "b6dfec6b7ff99ba1e40b73f00492e473a78c898a884402b23ce3d31d5c013ee4"
+    },
+    {
+      "path": "data/derived/gem_faults_east_asia_bbox.geojson",
+      "source_ids": [
+        "gem-gem_active_faults"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "transformation": "Whole features whose bounding boxes intersect 70/140/0/60; NOT clipped, NOT a China boundary; all attributes retained",
+      "count": 2343,
+      "bytes": 2445372,
+      "sha256": "354cc3755dcb9cff26d7f1e1be919265f28c8c73a2c7c3d0a592db9c21aedd56"
+    },
+    {
+      "path": "data/derived/gem_faults_east_asia_bbox.gmt",
+      "source_ids": [
+        "gem-gem_active_faults"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "transformation": "Line parts exported independently; rounded to 8 decimals; attributes in companion GeoJSON; no simplification",
+      "count": 2343,
+      "bytes": 1421527,
+      "sha256": "69a48b449d11ac217226cde17f622b3f0a6f6d99df10a05bc8a7d6a7227f888b"
+    },
+    {
+      "path": "data/derived/PB2002_boundaries.gmt",
+      "source_ids": [
+        "pb-PB2002_boundaries"
+      ],
+      "license": "ODC-By-1.0",
+      "transformation": "Line parts exported independently; rounded to 8 decimals; attributes in companion GeoJSON; no simplification",
+      "count": 241,
+      "bytes": 165312,
+      "sha256": "cc08d87faf1a4a2d796d1fdfd5145c130273a79748275d221ac38dabf7695ae7"
+    },
+    {
+      "path": "data/derived/ne_50m_rivers_nonempty.geojson",
+      "source_ids": [
+        "ne-ne_50m_rivers_lake_centerlines"
+      ],
+      "license": "Public Domain",
+      "transformation": "Remove empty geometries only (source zero-based feature 460, Loire); preserve other geometry and attributes",
+      "count": 461,
+      "bytes": 704976,
+      "sha256": "ac156fef5e18a76e0d6861c81ac5f9e6e5884d0eee7d350386065486d5bd4bf5"
+    }
+  ]
+}

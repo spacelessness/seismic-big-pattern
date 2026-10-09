@@ -1,0 +1,35 @@
+ne_id,name,name_zh,longitude,latitude,wikidata_id,source_adm0_a3,source_adm1_name,source_feature_class,source_scalerank,source_pop_max,source_id,label_admin_unit
+1159146977,Haikou,海口,110.320026,20.050002,Q189823,CHN,Hainan,Admin-1 capital,6,2046189,ne-ne_10m_populated_places,海南省
+1159149085,Macau,澳门,113.544375,22.189135,Q14773,MAC,,Admin-0 region capital,6,568700,ne-ne_10m_populated_places,澳门特别行政区
+1159149793,Hefei,合肥,117.278068,31.851977,Q185684,CHN,Anhui,Admin-1 capital,4,2035000,ne-ne_10m_populated_places,安徽省
+1159149907,Shijiazhuang,石家庄,114.478032,38.05196,Q58401,CHN,Hebei,Admin-1 capital,4,2417000,ne-ne_10m_populated_places,河北省
+1159149941,Hohhot,呼和浩特,111.65805,40.821921,Q535534,CHN,Nei Mongol,Admin-1 capital,4,1726000,ne-ne_10m_populated_places,内蒙古自治区
+1159150819,Xining,西宁,101.768059,36.621944,Q69060,CHN,Gansu,Admin-1 capital,3,1048000,ne-ne_10m_populated_places,青海省
+1159150879,Lhasa,拉萨,91.10001,29.645024,Q5869,CHN,Xizang,Admin-1 capital,3,219599,ne-ne_10m_populated_places,西藏自治区
+1159150889,Yinchuan,银川,106.271092,38.46992,Q211243,CHN,Ningxia Hui,Admin-1 capital,3,991000,ne-ne_10m_populated_places,宁夏回族自治区
+1159151321,Lanzhou,兰州,103.790054,36.057974,Q183584,CHN,Gansu,Admin-1 capital,2,2561000,ne-ne_10m_populated_places,甘肃省
+1159151323,Nanning,南宁,108.318099,22.821934,Q179608,CHN,Guangxi,Admin-1 capital,2,2167000,ne-ne_10m_populated_places,广西壮族自治区
+1159151325,Guiyang,贵阳,106.718093,26.581989,Q192271,CHN,Guizhou,Admin-1 capital,2,3662000,ne-ne_10m_populated_places,贵州省
+1159151327,Chongqing,重庆,106.593036,29.566923,Q11725,CHN,Chongqing,Admin-1 capital,2,6461000,ne-ne_10m_populated_places,重庆市
+1159151329,Fuzhou,福州,119.2981,26.081942,Q68481,CHN,Fujian,Admin-1 capital,2,2606000,ne-ne_10m_populated_places,福建省
+1159151331,Guangzhou,广州,113.261785,23.124723,Q16572,CHN,Guangdong,Admin-1 capital,2,8829000,ne-ne_10m_populated_places,广东省
+1159151363,Xian,西安,108.89305,34.276971,Q5826,CHN,Shaanxi,Admin-1 capital,2,4009000,ne-ne_10m_populated_places,陕西省
+1159151365,Taiyuan,太原,112.543112,37.876958,Q72778,CHN,Shanxi,Admin-1 capital,2,2913000,ne-ne_10m_populated_places,山西省
+1159151367,Wuhan,武汉,114.268071,30.581977,Q11746,CHN,Hubei,Admin-1 capital,2,7243000,ne-ne_10m_populated_places,湖北省
+1159151369,Changsha,长沙,112.968047,28.201916,Q174091,CHN,Hunan,Admin-1 capital,2,2604000,ne-ne_10m_populated_places,湖南省
+1159151371,Kunming,昆明,102.69744,25.042859,Q182852,CHN,Yunnan,Admin-1 capital,2,2931000,ne-ne_10m_populated_places,云南省
+1159151375,Zhengzhou,郑州,113.663147,34.756942,Q30340,CHN,Henan,Admin-1 capital,2,2636000,ne-ne_10m_populated_places,河南省
+1159151377,Shenyeng,沈阳,123.448028,41.806925,Q11720,CHN,Liaoning,Admin-1 capital,2,4787000,ne-ne_10m_populated_places,辽宁省
+1159151379,Jinan,济南,116.993073,36.676928,Q170247,CHN,Shandong,Admin-1 capital,2,2798000,ne-ne_10m_populated_places,山东省
+1159151381,Tianjin,天津,117.196607,39.082772,Q11736,CHN,Tianjin,Admin-1 capital,2,7180000,ne-ne_10m_populated_places,天津市
+1159151383,Nanchang,南昌,115.87805,28.681938,Q171943,CHN,Jiangxi,Admin-1 capital,2,2350000,ne-ne_10m_populated_places,江西省
+1159151385,Nanjing,南京,118.778029,32.051965,Q16666,CHN,Jiangsu,Admin-1 capital,2,3679000,ne-ne_10m_populated_places,江苏省
+1159151387,Hangzhou,杭州,120.168073,30.25192,Q4970,CHN,Zhejiang,Admin-1 capital,2,3007000,ne-ne_10m_populated_places,浙江省
+1159151393,Changchun,长春,125.338042,43.866954,Q92161,CHN,Jilin,Admin-1 capital,2,3183000,ne-ne_10m_populated_places,吉林省
+1159151397,Harbin,哈尔滨,126.648039,45.75193,Q42956,CHN,Heilongjiang,Admin-1 capital,2,3621000,ne-ne_10m_populated_places,黑龙江省
+1159151531,Ürümqi,乌鲁木齐,87.57306,43.806958,Q16959,CHN,Xinjiang Uygur,Admin-1 capital,1,3575000,ne-ne_10m_populated_places,新疆维吾尔自治区
+1159151533,Chengdu,成都,104.068074,30.671946,Q30002,CHN,Sichuan,Admin-1 capital,1,4123000,ne-ne_10m_populated_places,四川省
+1159151567,Taipei,台北,121.568333,25.035833,Q1867,TWN,Taipei City,Admin-0 capital,1,6900273,ne-ne_10m_populated_places,台湾省
+1159151595,Beijing,北京,116.394201,39.90172,Q956,CHN,Beijing,Admin-0 capital,0,11106000,ne-ne_10m_populated_places,北京市
+1159151605,Shanghai,上海,121.434559,31.218398,Q8686,CHN,Shanghai,Admin-1 capital,0,14987000,ne-ne_10m_populated_places,上海市
+1159151629,Hong Kong,香港,114.183064,22.306927,Q8646,HKG,,Admin-0 region capital,0,7206000,ne-ne_10m_populated_places,香港特别行政区

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+# Restricted/unclear redistribution and reproducible download cache
+data/local/*
+!data/local/README.md
+data/_cache/
+outputs/

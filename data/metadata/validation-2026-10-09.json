@@ -1,0 +1,288 @@
+{
+  "scope": "SHA256, sizes, finite/range coordinates, nonempty geometries, ring closure; NOT topology/accuracy/official approval",
+  "checked": [
+    {
+      "path": "data/local/gmt-china/CN-faults.gmt",
+      "segments": 10534,
+      "vertices_or_points": 213015
+    },
+    {
+      "path": "data/local/gmt-china/CN-block-L1.gmt",
+      "segments": 8,
+      "vertices_or_points": 501
+    },
+    {
+      "path": "data/local/gmt-china/CN-block-L1-deduced.gmt",
+      "segments": 10,
+      "vertices_or_points": 259
+    },
+    {
+      "path": "data/local/gmt-china/CN-block-L2.gmt",
+      "segments": 25,
+      "vertices_or_points": 961
+    },
+    {
+      "path": "data/local/gmt-china/CN-border-La.gmt",
+      "segments": 1083,
+      "vertices_or_points": 794169
+    },
+    {
+      "path": "data/local/gmt-china/CN-border-L1.gmt",
+      "segments": 1030,
+      "vertices_or_points": 310608
+    },
+    {
+      "path": "data/local/gmt-china/ten-dash-line.gmt",
+      "segments": 10,
+      "vertices_or_points": 99
+    },
+    {
+      "path": "data/raw/gem/gem_active_faults.geojson",
+      "features": 16195,
+      "geometry_types": {
+        "LineString": 16195
+      },
+      "vertices": 177817,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -180.0,
+        -66.163,
+        179.999999,
+        86.805
+      ]
+    },
+    {
+      "path": "data/raw/pb2002/PB2002_boundaries.json",
+      "features": 241,
+      "geometry_types": {
+        "LineString": 241
+      },
+      "vertices": 6292,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -180.0,
+        -66.1632,
+        180.0,
+        86.8049
+      ]
+    },
+    {
+      "path": "data/raw/pb2002/PB2002_plates.json",
+      "features": 54,
+      "geometry_types": {
+        "Polygon": 52,
+        "MultiPolygon": 2
+      },
+      "vertices": 11738,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ]
+    },
+    {
+      "path": "data/raw/pb2002/PB2002_orogens.json",
+      "features": 13,
+      "geometry_types": {
+        "Polygon": 12,
+        "MultiPolygon": 1
+      },
+      "vertices": 1137,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -180.0,
+        -36.5722,
+        180.0,
+        76.9245
+      ]
+    },
+    {
+      "path": "data/_cache/ne_10m_populated_places.geojson",
+      "features": 7342,
+      "geometry_types": {
+        "Point": 7342
+      },
+      "vertices": 7342,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -179.589979,
+        -90,
+        179.383304,
+        82.483323
+      ]
+    },
+    {
+      "path": "data/raw/natural_earth/ne_50m_coastline.geojson",
+      "features": 1428,
+      "geometry_types": {
+        "LineString": 1427,
+        "MultiLineString": 1
+      },
+      "vertices": 60416,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -180,
+        -85.192188,
+        180,
+        83.599609
+      ]
+    },
+    {
+      "path": "data/raw/natural_earth/ne_50m_rivers_lake_centerlines.geojson",
+      "features": 462,
+      "geometry_types": {
+        "MultiLineString": 462
+      },
+      "vertices": 25641,
+      "known_empty_feature_indices": [
+        460
+      ],
+      "bbox_wsen": [
+        -165.243939,
+        -50.240137,
+        176.325806,
+        73.334904
+      ]
+    },
+    {
+      "path": "data/raw/natural_earth/ne_50m_lakes.geojson",
+      "features": 412,
+      "geometry_types": {
+        "Polygon": 412
+      },
+      "vertices": 19778,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -165.898486,
+        -50.62002,
+        176.082715,
+        81.940332
+      ]
+    },
+    {
+      "path": "data/licenses/gem-LICENSE.txt"
+    },
+    {
+      "path": "data/licenses/gem-README.md"
+    },
+    {
+      "path": "data/licenses/pb-LICENSE.md"
+    },
+    {
+      "path": "data/licenses/pb-README.md"
+    },
+    {
+      "path": "data/licenses/ne-LICENSE.md"
+    },
+    {
+      "path": "data/derived/cities_world.csv",
+      "rows": 7342
+    },
+    {
+      "path": "data/derived/cities_world_major.csv",
+      "rows": 747
+    },
+    {
+      "path": "data/derived/cities_world_major.geojson",
+      "features": 747,
+      "geometry_types": {
+        "Point": 747
+      },
+      "vertices": 747,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -175.220564,
+        -53.164986,
+        178.441707,
+        74.683334
+      ]
+    },
+    {
+      "path": "data/derived/cities_china.csv",
+      "rows": 427
+    },
+    {
+      "path": "data/derived/cities_china.geojson",
+      "features": 427,
+      "geometry_types": {
+        "Point": 427
+      },
+      "vertices": 427,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        75.969926,
+        18.259104,
+        132.992233,
+        50.78332
+      ]
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.csv",
+      "rows": 34
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.geojson",
+      "features": 34,
+      "geometry_types": {
+        "Point": 34
+      },
+      "vertices": 34,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        87.57306,
+        20.050002,
+        126.648039,
+        45.75193
+      ]
+    },
+    {
+      "path": "data/derived/cities_china_34_labels.gmt",
+      "segments": 0,
+      "vertices_or_points": 34
+    },
+    {
+      "path": "data/derived/gem_faults_east_asia_bbox.geojson",
+      "features": 2343,
+      "geometry_types": {
+        "LineString": 2343
+      },
+      "vertices": 55344,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        66.745601,
+        -2.957,
+        143.751,
+        57.721194349242104
+      ]
+    },
+    {
+      "path": "data/derived/gem_faults_east_asia_bbox.gmt",
+      "segments": 2343,
+      "vertices_or_points": 55344
+    },
+    {
+      "path": "data/derived/PB2002_boundaries.gmt",
+      "segments": 241,
+      "vertices_or_points": 6292
+    },
+    {
+      "path": "data/derived/ne_50m_rivers_nonempty.geojson",
+      "features": 461,
+      "geometry_types": {
+        "MultiLineString": 461
+      },
+      "vertices": 25641,
+      "known_empty_feature_indices": [],
+      "bbox_wsen": [
+        -165.243939,
+        -50.240137,
+        176.325806,
+        73.334904
+      ]
+    }
+  ],
+  "skipped": [],
+  "errors": []
+}

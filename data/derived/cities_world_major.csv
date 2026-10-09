@@ -1,0 +1,748 @@
+ne_id,name,name_zh,longitude,latitude,wikidata_id,source_adm0_a3,source_adm1_name,source_feature_class,source_scalerank,source_pop_max,source_id
+1159123391,Mesa,梅薩,-111.820967,33.414796,Q49261,USA,Arizona,Populated place,8,1085394,ne-ne_10m_populated_places
+1159126943,Sharjah,沙迦,55.406478,25.371383,Q289693,ARE,Sharjah,Admin-1 capital,8,1103027,ne-ne_10m_populated_places
+1159127593,Changwon,昌原,128.583562,35.219102,Q243327,KOR,Gyeongsangnam-do,Populated place,8,1081499,ne-ne_10m_populated_places
+1159127645,Sheffield,谢菲尔德,-1.499997,53.366677,Q42448,GBR,South Yorkshire,Populated place,8,1292900,ne-ne_10m_populated_places
+1159128399,Abbottabad,阿伯塔巴德,73.199501,34.149503,Q170315,PAK,N.W.F.P.,Populated place,8,1183647,ne-ne_10m_populated_places
+1159129381,Nezahualcoyotl,内萨瓦尔科约特尔城,-99.029987,19.410016,Q210307,MEX,México,Populated place,8,1109363,ne-ne_10m_populated_places
+1159130001,Duisburg,杜伊斯堡,6.750017,51.429973,Q2100,DEU,Nordrhein-Westfalen,Populated place,8,1276757,ne-ne_10m_populated_places
+1159130011,Essen,埃森,7.016615,51.449998,Q2066,DEU,Nordrhein-Westfalen,Populated place,8,1742135,ne-ne_10m_populated_places
+1159130203,Zhucheng,诸城,119.380093,35.989959,Q198184,CHN,Shandong,Populated place,8,1060000,ne-ne_10m_populated_places
+1159130361,Kawasaki,川崎,139.705002,35.529988,Q164234,JPN,Kanagawa,Populated place,8,1437266,ne-ne_10m_populated_places
+1159130467,Kalyan,卡延,73.160175,19.250232,Q366754,IND,Maharashtra,Populated place,8,1576614,ne-ne_10m_populated_places
+1159131309,Niterói,尼泰罗伊,-43.105826,-22.882534,Q178725,BRA,Rio de Janeiro,Admin-1 capital,8,1500513,ne-ne_10m_populated_places
+1159132389,Zhongli,中坜区,121.216776,24.965025,Q172146,TWN,Taoyuan,Populated place,7,1632616,ne-ne_10m_populated_places
+1159132667,Irvine,歐文,-117.82995,33.680411,Q49219,USA,California,Populated place,7,3010232,ne-ne_10m_populated_places
+1159133279,Fort Lauderdale,劳德代尔堡,-80.141785,26.136065,Q165972,USA,Florida,Populated place,7,2042042,ne-ne_10m_populated_places
+1159136389,Dammam,达曼,50.097724,26.430138,Q160320,SAU,Ash Sharqiyah,Admin-1 capital,7,2054710,ne-ne_10m_populated_places
+1159137967,Quezon City,奎松,121.029966,14.650435,Q1475,PHL,Metropolitan Manila,Populated place,7,2761720,ne-ne_10m_populated_places
+1159138577,Toluca,托卢卡,-99.653179,19.289308,Q209034,MEX,México,Admin-1 capital,7,1531000,ne-ne_10m_populated_places
+1159138813,Ikare,伊卡雷,5.76,7.53043,Q3320803,NGA,Ondo,Populated place,7,1099931,ne-ne_10m_populated_places
+1159139075,Katowice,卡托维兹,19.020017,50.26038,Q588,POL,Silesian,Admin-1 capital,7,2746000,ne-ne_10m_populated_places
+1159139657,Hechi,河池,108.083,24.695252,Q572089,CHN,Guangxi,Populated place,7,3830000,ne-ne_10m_populated_places
+1159139683,Zhangzhou,漳州,117.670016,24.520375,Q68814,CHN,Fujian,Populated place,7,3531147,ne-ne_10m_populated_places
+1159139721,Maanshan,马鞍山,118.485148,31.672564,Q360235,CHN,Anhui,Populated place,7,1366302,ne-ne_10m_populated_places
+1159139761,Maoming,茂名,110.870018,21.920405,Q38927,CHN,Guangdong,Populated place,7,1217715,ne-ne_10m_populated_places
+1159139775,Cilacap,芝拉扎,109.015402,-7.71882,Q12478970,IDN,Jawa Tengah,Populated place,7,1174964,ne-ne_10m_populated_places
+1159139809,Bekasi,勿加泗,106.972323,-6.217257,Q10392,IDN,Jakarta Raya,Populated place,7,2378211,ne-ne_10m_populated_places
+1159140545,Düsseldorf,杜塞道夫,6.779989,51.220374,Q1718,DEU,Nordrhein-Westfalen,Admin-1 capital,7,1220000,ne-ne_10m_populated_places
+1159140549,Mannheim,曼海姆,8.470015,49.500375,Q2119,DEU,Baden-Württemberg,Populated place,7,2362000,ne-ne_10m_populated_places
+1159140809,Xiangtan,湘潭,112.900023,27.850431,Q215755,CHN,Hunan,Populated place,7,2586948,ne-ne_10m_populated_places
+1159140813,Zigong,自贡,104.778056,29.401946,Q29015,CHN,Sichuan,Populated place,7,1105000,ne-ne_10m_populated_places
+1159140855,Baoding,保定,115.468897,38.85834,Q58584,CHN,Hebei,Populated place,7,1107000,ne-ne_10m_populated_places
+1159140981,Shangrao,上饶,117.969998,28.470393,Q363479,CHN,Jiangxi,Populated place,7,1144577,ne-ne_10m_populated_places
+1159140995,Shuyang,沭阳县,118.77336,34.129866,,CHN,Jiangsu,Populated place,7,1770000,ne-ne_10m_populated_places
+1159142281,Haifa,海法,34.978079,32.822357,Q41621,ISR,Haifa,Admin-1 capital,7,1011000,ne-ne_10m_populated_places
+1159142617,Karaj,卡拉季,50.968059,35.802305,Q36529,IRN,Tehran,Populated place,7,1423000,ne-ne_10m_populated_places
+1159142843,Haora,豪拉,88.318516,22.584698,Q205697,IND,West Bengal,Populated place,7,4841638,ne-ne_10m_populated_places
+1159146199,Long Beach,長灘,-118.200337,33.777018,Q16739,USA,California,Populated place,6,2036134,ne-ne_10m_populated_places
+1159146253,Barquisimeto,巴基西梅托,-69.301913,10.051938,Q4709,VEN,Lara,Admin-1 capital,6,1116000,ne-ne_10m_populated_places
+1159146257,Providence,普罗维登斯,-71.416926,41.823048,Q18383,USA,Rhode Island,Admin-1 capital,6,1277000,ne-ne_10m_populated_places
+1159146259,Birmingham,伯明翰,-86.824995,33.530006,Q79867,USA,Alabama,Populated place,6,1128047,ne-ne_10m_populated_places
+1159146281,Virginia Beach,維珍尼亞海灘,-75.980265,36.85516,Q49259,USA,Virginia,Populated place,6,1491000,ne-ne_10m_populated_places
+1159146381,Suwon,水原,127.008947,37.259735,Q20714,KOR,Gyeonggi-do,Admin-1 capital,6,1078000,ne-ne_10m_populated_places
+1159146385,Leeds,利兹,-1.551348,53.790017,Q39121,GBR,West Yorkshire,Populated place,6,1529000,ne-ne_10m_populated_places
+1159146429,Porto,波尔图,-8.621947,41.151952,Q36433,PRT,Porto,Admin-1 capital,6,1337000,ne-ne_10m_populated_places
+1159146435,Rotterdam,鹿特丹,4.478028,51.921915,Q34370,NLD,Zuid-Holland,Populated place,6,1005000,ne-ne_10m_populated_places
+1159146463,Faisalabad,费萨拉巴德,73.108051,31.411927,Q173985,PAK,Punjab,Populated place,6,2617000,ne-ne_10m_populated_places
+1159146465,Rawalpindi,拉瓦尔品第,73.067502,33.591002,Q93230,PAK,Punjab,Populated place,6,1858000,ne-ne_10m_populated_places
+1159146475,Saidu,赛杜,72.349992,34.750035,Q378879,PAK,N.W.F.P.,Populated place,6,1860310,ne-ne_10m_populated_places
+1159146483,Benoni,伯诺尼,28.327994,-26.147635,Q818106,ZAF,Gauteng,Populated place,6,2986000,ne-ne_10m_populated_places
+1159146485,Vereeniging,弗里尼欣,27.958042,-26.647656,Q503056,ZAF,Gauteng,Populated place,6,1074000,ne-ne_10m_populated_places
+1159146597,Ulsan,蔚山广域,129.315008,35.548677,Q41278,KOR,Ulsan,Admin-1 capital,6,1061000,ne-ne_10m_populated_places
+1159146599,Daegu,大邱,128.605026,35.868735,Q20927,KOR,Taegu-gwangyoksi,Admin-1 capital,6,2460000,ne-ne_10m_populated_places
+1159146789,Ciudad Juárez,華雷斯城,-106.491994,31.692323,Q26590,MEX,Chihuahua,Populated place,6,1343000,ne-ne_10m_populated_places
+1159146825,Nampo,南浦特别,125.450488,38.768867,Q109386,PRK,Namp'o-si,Admin-1 capital,6,1127000,ne-ne_10m_populated_places
+1159146875,Turin,都灵,7.668015,45.072333,Q495,ITA,Piemonte,Admin-1 region capital,6,1652000,ne-ne_10m_populated_places
+1159146879,Liuzhou,柳州,109.413529,24.320777,Q38968,CHN,Guangxi,Populated place,6,1497000,ne-ne_10m_populated_places
+1159146887,Wanzhou,万州,108.400039,30.819991,,CHN,Chongqing,Populated place,6,1680000,ne-ne_10m_populated_places
+1159146895,Luan,六安,116.478065,31.752293,Q360702,CHN,Anhui,Populated place,6,1690000,ne-ne_10m_populated_places
+1159146917,Bucaramanga,布卡拉曼加,-73.127829,7.132039,Q243766,COL,Santander,Admin-1 capital,6,1009000,ne-ne_10m_populated_places
+1159146947,Giza,吉萨,31.190024,30.009989,Q81788,EGY,Al Jizah,Populated place,6,2681863,ne-ne_10m_populated_places
+1159146949,Stuttgart,斯图加特,9.199996,48.77998,Q1022,DEU,Baden-Württemberg,Admin-1 capital,6,2944700,ne-ne_10m_populated_places
+1159146977,Haikou,海口,110.320026,20.050002,Q189823,CHN,Hainan,Admin-1 capital,6,2046189,ne-ne_10m_populated_places
+1159146991,Datong,大同,113.298053,40.081966,Q72877,CHN,Shanxi,Populated place,6,1873000,ne-ne_10m_populated_places
+1159146993,Jianmen,荆门,113.158061,30.651999,Q71323,CHN,Hubei,Populated place,6,1708000,ne-ne_10m_populated_places
+1159146997,Xiantao,仙桃,113.438096,30.372352,Q71455,CHN,Hubei,Populated place,6,1556000,ne-ne_10m_populated_places
+1159147005,Zhuzhou,株洲,113.148088,27.831938,Q198266,CHN,Hunan,Populated place,6,1080000,ne-ne_10m_populated_places
+1159147007,Yongzhou,永州,111.609135,26.41792,Q266014,CHN,Hunan,Populated place,6,1000000,ne-ne_10m_populated_places
+1159147009,Yiyang,益阳,112.328086,28.602356,Q416669,CHN,Hunan,Populated place,6,1352000,ne-ne_10m_populated_places
+1159147011,Changde,常德,111.6781,29.031943,Q416544,CHN,Hunan,Populated place,6,1469000,ne-ne_10m_populated_places
+1159147015,Leshan,乐山,103.731402,29.569042,Q426868,CHN,Sichuan,Populated place,6,1157000,ne-ne_10m_populated_places
+1159147025,Luzhou,泸州,105.378071,28.881926,Q425492,CHN,Sichuan,Populated place,6,1537000,ne-ne_10m_populated_places
+1159147039,Qinhuangdao,秦皇岛,119.618081,39.932311,Q58560,CHN,Hebei,Populated place,6,1003000,ne-ne_10m_populated_places
+1159147043,Zhangjiakou,张家口,114.852027,40.805255,Q58650,CHN,Hebei,Populated place,6,1046000,ne-ne_10m_populated_places
+1159147045,Tangshan,唐山,118.192431,39.626283,Q58422,CHN,Hebei,Populated place,6,1879000,ne-ne_10m_populated_places
+1159147055,Shangqiu,商丘,115.64961,34.412942,Q404817,CHN,Henan,Populated place,6,1753000,ne-ne_10m_populated_places
+1159147059,Xinyang,信阳,114.068032,32.132322,Q404873,CHN,Henan,Populated place,6,1541000,ne-ne_10m_populated_places
+1159147063,Luoyang,洛阳,112.444471,34.64377,Q187136,CHN,Henan,Populated place,6,1715000,ne-ne_10m_populated_places
+1159147077,Benxi,本溪,123.748061,41.332329,Q75091,CHN,Liaoning,Populated place,6,1012000,ne-ne_10m_populated_places
+1159147079,Fushun,抚顺,123.868054,41.867335,Q75026,CHN,Liaoning,Admin-1 capital,6,1470000,ne-ne_10m_populated_places
+1159147081,Jining,济宁,116.548087,35.402355,Q372791,CHN,Shandong,Populated place,6,1186000,ne-ne_10m_populated_places
+1159147083,Weifang,潍坊,119.155626,36.702285,Q217698,CHN,Shandong,Populated place,6,1553000,ne-ne_10m_populated_places
+1159147085,Taian,泰安,117.11813,36.201944,Q217681,CHN,Shandong,Populated place,6,1629000,ne-ne_10m_populated_places
+1159147087,Heze,菏泽,115.448103,35.231926,Q332753,CHN,Shandong,Populated place,6,1338000,ne-ne_10m_populated_places
+1159147095,Ganzhou,赣州,114.950027,25.91998,Q363166,CHN,Jiangxi,Populated place,6,1500000,ne-ne_10m_populated_places
+1159147099,Changzhou,常州,119.968033,31.78193,Q57970,CHN,Jiangsu,Populated place,6,1327000,ne-ne_10m_populated_places
+1159147109,Huzhou,湖州,120.098051,30.872321,Q42664,CHN,Zhejiang,Populated place,6,1231000,ne-ne_10m_populated_places
+1159147113,Jinhua,金华,119.649999,29.120043,Q58210,CHN,Zhejiang,Populated place,6,1092852,ne-ne_10m_populated_places
+1159147155,Mudangiang,牡丹江,129.588066,44.576963,Q217646,CHN,Heilongjiang,Populated place,6,1244000,ne-ne_10m_populated_places
+1159147165,Kōbe,神戶,135.169982,34.679988,Q48320,JPN,Hyogo,Admin-1 capital,6,1528478,ne-ne_10m_populated_places
+1159147167,Yokohama,横滨,139.602021,35.430656,Q38283,JPN,Kanagawa,Admin-1 capital,6,3697894,ne-ne_10m_populated_places
+1159147191,Warangal,瓦朗加尔,79.57999,18.009998,Q25563103,IND,Telangana,Populated place,6,1203853,ne-ne_10m_populated_places
+1159147227,Lille,里尔,3.078062,50.651915,Q648,FRA,Nord-Pas-de-Calais,Admin-1 region capital,6,1044000,ne-ne_10m_populated_places
+1159147363,Oakland,奥克兰,-122.278038,37.804725,Q17042,USA,California,Populated place,6,1510271,ne-ne_10m_populated_places
+1159147411,West Palm Beach,西棕榈滩,-80.123621,26.74502,Q163749,USA,Florida,Populated place,6,1250000,ne-ne_10m_populated_places
+1159147453,Columbus,哥伦布,-82.991956,39.98192,Q16567,USA,Ohio,Admin-1 capital,6,1270000,ne-ne_10m_populated_places
+1159147477,Maracay,马拉凯,-67.597753,10.248826,Q333928,VEN,Aragua,Populated place,6,1007000,ne-ne_10m_populated_places
+1159147553,Can Tho,芹苴,105.770019,10.049993,Q216075,VNM,d?ng b?ng sông C?u Long,Admin-1 capital,6,1121000,ne-ne_10m_populated_places
+1159147621,Vitória,维多利亚,-40.353943,-20.332042,Q168376,BRA,Espírito Santo,Admin-1 capital,6,1704000,ne-ne_10m_populated_places
+1159147681,Cochabamba,科恰班巴,-66.169977,-17.410011,Q183124,BOL,Cochabamba,Admin-1 capital,6,1000000,ne-ne_10m_populated_places
+1159147849,Gaziantep,加济安泰普,37.383048,37.07693,Q93338,TUR,Gaziantep,Admin-1 capital,6,1044000,ne-ne_10m_populated_places
+1159147871,Homs,霍姆斯,36.718076,34.731905,Q131301,SYR,Homs (Hims),Populated place,6,1005000,ne-ne_10m_populated_places
+1159148193,Cagayan de Oro,卡加延德奥罗,124.685299,8.45084,Q1645,PHL,Misamis Oriental,Populated place,6,1121561,ne-ne_10m_populated_places
+1159148325,Zhuhai,珠海,113.565832,22.27889,Q59095,CHN,Guangdong,Populated place,6,1023000,ne-ne_10m_populated_places
+1159148451,Cologne,科隆,6.948059,50.93195,Q365,DEU,Nordrhein-Westfalen,Populated place,6,1004000,ne-ne_10m_populated_places
+1159148455,Xianyang,咸阳,108.712776,34.347501,Q497341,CHN,Shaanxi,Populated place,6,1126000,ne-ne_10m_populated_places
+1159148459,Xiangyang,襄阳,112.128098,32.021941,Q71284,CHN,Hubei,Populated place,6,1069000,ne-ne_10m_populated_places
+1159148461,Suining,遂宁,105.531387,30.535279,Q426644,CHN,Sichuan,Populated place,6,1425000,ne-ne_10m_populated_places
+1159148507,Kumasi,库马西,-1.63196,6.691937,Q182059,GHA,Ashanti,Admin-1 capital,6,1646000,ne-ne_10m_populated_places
+1159148899,Vila Velha,韦利亚镇,-51.216652,3.216663,,BRA,Amapi,Populated place,6,1209091,ne-ne_10m_populated_places
+1159148975,Santos,桑托斯,-46.328496,-23.961836,Q81882,BRA,São Paulo,Populated place,6,1709000,ne-ne_10m_populated_places
+1159149107,New Taipei,新北,121.465,25.012778,Q244898,TWN,New Taipei City,Admin-1 capital,5,3893740,ne-ne_10m_populated_places
+1159149109,Tainan,台南,120.200043,23.000003,Q140631,TWN,Tainan City,Admin-1 capital,6,1876312,ne-ne_10m_populated_places
+1159149113,San Bernardino,圣贝纳迪诺,-117.30198,34.12233,Q486168,USA,California,Populated place,4,1745000,ne-ne_10m_populated_places
+1159149115,Bridgeport,布里奇波特,-73.201907,41.181925,Q49174,USA,Connecticut,Populated place,4,1018000,ne-ne_10m_populated_places
+1159149119,Manchester,曼彻斯特,-2.248685,53.47532,Q18125,GBR,Manchester,Populated place,4,2230000,ne-ne_10m_populated_places
+1159149121,Gujranwala,古吉兰瓦拉,74.183076,32.162372,Q243322,PAK,Punjab,Populated place,4,1513000,ne-ne_10m_populated_places
+1159149125,Incheon,仁川廣域,126.640288,37.478094,Q20934,KOR,Inch'on-gwangyoksi,Admin-1 capital,4,2550000,ne-ne_10m_populated_places
+1159149127,Benin City,贝宁城,5.618062,6.342423,Q320704,NGA,Edo,Admin-1 capital,4,1190000,ne-ne_10m_populated_places
+1159149129,Xiamen,厦门,118.078071,24.451938,Q68744,CHN,Fujian,Populated place,4,2519000,ne-ne_10m_populated_places
+1159149131,Nanchong,南充,106.128051,30.782378,Q426996,CHN,Sichuan,Populated place,4,2174000,ne-ne_10m_populated_places
+1159149133,Neijiang,内江,105.048066,29.582323,Q426756,CHN,Sichuan,Populated place,4,1466000,ne-ne_10m_populated_places
+1159149135,Nanyang,南阳,112.528074,33.002346,Q404763,CHN,Henan,Populated place,4,1944000,ne-ne_10m_populated_places
+1159149137,Jinxi,锦溪,120.828033,40.752287,,CHN,Liaoning,Populated place,4,2426000,ne-ne_10m_populated_places
+1159149139,Yantai,烟台,121.398075,37.532354,Q210493,CHN,Shandong,Populated place,4,2116000,ne-ne_10m_populated_places
+1159149143,Zaozhuang,枣庄,117.568077,34.881947,Q147187,CHN,Shandong,Populated place,4,2145000,ne-ne_10m_populated_places
+1159149145,Suzhou,苏州,120.618071,31.302424,Q42622,CHN,Jiangsu,Populated place,4,1650000,ne-ne_10m_populated_places
+1159149147,Xuzhou,徐州,117.178074,34.281958,Q57719,CHN,Jiangsu,Populated place,4,2091000,ne-ne_10m_populated_places
+1159149149,Wuxi,无锡,120.298039,31.581942,Q42651,CHN,Jiangsu,Populated place,4,1749000,ne-ne_10m_populated_places
+1159149151,Jilin,吉林,126.548097,43.851917,Q92277,CHN,Jilin,Populated place,4,2396000,ne-ne_10m_populated_places
+1159149157,Sholapur,索拉普,75.898062,17.672352,Q237847,IND,Maharashtra,Populated place,4,1057000,ne-ne_10m_populated_places
+1159149161,Aurangabad,奥郎加巴德,75.328948,19.861686,Q200713,IND,Maharashtra,Populated place,4,1113000,ne-ne_10m_populated_places
+1159149163,Nasik,纳西克,73.778036,20.002365,Q200235,IND,Maharashtra,Populated place,4,1473000,ne-ne_10m_populated_places
+1159149169,Allahabad,安拉阿巴德,81.838061,25.456941,Q162442,IND,Uttar Pradesh,Populated place,4,1201000,ne-ne_10m_populated_places
+1159149173,Ghaziabad,加济阿巴德,77.406445,28.662327,Q207098,IND,Uttar Pradesh,Populated place,4,1341000,ne-ne_10m_populated_places
+1159149175,Agra,阿格拉,78.013075,27.172366,Q42941,IND,Uttar Pradesh,Populated place,4,1592000,ne-ne_10m_populated_places
+1159149181,Meerut,密拉特,77.698055,29.002358,Q200237,IND,Uttar Pradesh,Populated place,4,1398000,ne-ne_10m_populated_places
+1159149183,Dhanbad,丹巴德,86.41804,23.802339,Q244159,IND,Jharkhand,Populated place,4,1246000,ne-ne_10m_populated_places
+1159149187,Vadodara,瓦多达拉,73.178073,22.311965,Q11909,IND,Dadra and Nagar Haveli,Populated place,4,1756000,ne-ne_10m_populated_places
+1159149189,Rajkot,莱科特,70.798063,22.311965,Q11854,IND,Dadra and Nagar Haveli,Populated place,4,1260000,ne-ne_10m_populated_places
+1159149245,Kansas City,堪萨斯城,-94.60604,39.109034,Q41819,USA,Missouri,Populated place,4,1469000,ne-ne_10m_populated_places
+1159149257,Ft.  Worth,沃思堡,-97.340038,32.739977,Q16558,USA,Texas,Populated place,4,1440454,ne-ne_10m_populated_places
+1159149261,Austin,奥斯汀,-97.744724,30.268895,Q16559,USA,Texas,Admin-1 capital,4,1161000,ne-ne_10m_populated_places
+1159149279,Orlando,奥兰多,-81.381976,28.511923,Q49233,USA,Florida,Populated place,4,1350000,ne-ne_10m_populated_places
+1159149289,Indianapolis,印第安纳波利斯,-86.171994,39.751934,Q6346,USA,Indiana,Admin-1 capital,4,1436000,ne-ne_10m_populated_places
+1159149299,Baltimore,巴尔的摩,-76.614582,39.281516,Q5092,USA,Maryland,Populated place,4,2255000,ne-ne_10m_populated_places
+1159149329,Dnipro,第聂伯罗,34.998078,48.481918,Q48256,UKR,Dnipropetrovs'k,Admin-1 capital,4,1050000,ne-ne_10m_populated_places
+1159149333,Kharkiv,哈尔科夫,36.248079,50.001929,Q42308,UKR,Kharkiv,Admin-1 capital,4,1461000,ne-ne_10m_populated_places
+1159149349,Haiphong,海防,106.678147,20.831952,Q72818,VNM,Qu?ng Ninh,Admin-1 capital,4,1969000,ne-ne_10m_populated_places
+1159149351,Da Nang,岘港,108.249971,16.060039,Q25282,VNM,Ðà N?ng,Admin-1 capital,4,1000000,ne-ne_10m_populated_places
+1159149365,Douala,杜阿拉,9.708045,4.062356,Q132830,CMR,Littoral,Admin-1 capital,4,1906000,ne-ne_10m_populated_places
+1159149367,Birmingham,伯明翰,-1.921943,52.47692,Q2256,GBR,West Midlands,Populated place,4,2285000,ne-ne_10m_populated_places
+1159149371,İzmir,伊兹密尔,27.149848,38.438096,Q35997,TUR,Izmir,Admin-1 capital,4,2587000,ne-ne_10m_populated_places
+1159149373,Bursa,布尔萨,29.068052,40.201933,Q40738,TUR,Bursa,Admin-1 capital,4,1492000,ne-ne_10m_populated_places
+1159149381,Adana,阿达纳,35.318058,36.996935,Q38545,TUR,Adana,Admin-1 capital,4,1293000,ne-ne_10m_populated_places
+1159149443,Medina,麦地那,39.578057,24.501935,Q35484,SAU,Al Madinah,Admin-1 capital,4,1010000,ne-ne_10m_populated_places
+1159149453,Omdurman,恩图曼,32.480022,15.616681,Q180921,SDN,Khartoum,Admin-1 capital,4,2395159,ne-ne_10m_populated_places
+1159149457,The Hague,海牙,4.269961,52.080037,Q36600,NLD,Zuid-Holland,Admin-0 capital alt,4,1406000,ne-ne_10m_populated_places
+1159149469,Doha,多哈,51.532968,25.286556,Q3861,QAT,Ad Dawhah,Admin-0 capital,4,1450000,ne-ne_10m_populated_places
+1159149545,Rostov,顿河畔罗斯托夫,39.71071,47.236594,Q908,RUS,Rostov,Admin-1 capital,4,1052000,ne-ne_10m_populated_places
+1159149561,Chelyabinsk,车里雅宾斯克,61.436722,55.156937,Q906,RUS,Chelyabinsk,Admin-1 capital,4,1091000,ne-ne_10m_populated_places
+1159149579,Omsk,鄂木斯克,73.398008,54.991934,Q898,RUS,Omsk,Admin-1 capital,4,1135000,ne-ne_10m_populated_places
+1159149595,Daejeon,大田广域,127.423082,36.337491,Q20921,KOR,Daejeon,Admin-1 capital,4,1468000,ne-ne_10m_populated_places
+1159149597,Gwangju,光州广域,126.908488,35.172911,Q41283,KOR,Kwangju-gwangyoksi,Admin-1 capital,4,1440000,ne-ne_10m_populated_places
+1159149599,Busan,釜山,129.008102,35.096999,Q16520,KOR,Busan,Admin-1 capital,4,3480000,ne-ne_10m_populated_places
+1159149665,Torreón,托雷翁,-103.421949,25.571999,Q386991,MEX,Coahuila,Populated place,4,1144000,ne-ne_10m_populated_places
+1159149689,León,莱昂,-101.701976,21.151933,Q189128,MEX,Guanajuato,Populated place,4,1488000,ne-ne_10m_populated_places
+1159149693,Port Harcourt,哈科特港,7.008055,4.811948,Q217432,NGA,Rivers,Admin-1 capital,4,1020000,ne-ne_10m_populated_places
+1159149697,Ibadan,伊巴丹,3.928036,7.381972,Q183298,NGA,Oyo,Admin-1 capital,4,2628000,ne-ne_10m_populated_places
+1159149705,Kaduna,卡杜纳,7.438054,10.521961,Q208318,NGA,Kaduna,Admin-1 capital,4,1442000,ne-ne_10m_populated_places
+1159149751,Florence,佛罗伦萨,11.25,43.780001,Q2044,ITA,Toscana,Admin-1 region capital,4,1500000,ne-ne_10m_populated_places
+1159149765,George Town,乔治,100.329368,5.413613,Q61092,MYS,Pulau Pinang,Admin-1 capital,4,2500000,ne-ne_10m_populated_places
+1159149775,Tianshui,天水,105.918038,34.601964,Q533157,CHN,Gansu,Populated place,4,1225000,ne-ne_10m_populated_places
+1159149781,Yulin,玉林,110.148064,22.63192,Q571918,CHN,Guangxi,Populated place,4,1127000,ne-ne_10m_populated_places
+1159149787,Liupanshui,六盘水,104.831386,26.596381,Q485918,CHN,Guizhou,Populated place,4,1221000,ne-ne_10m_populated_places
+1159149791,Quanzhou,泉州,118.578041,24.901962,Q68695,CHN,Fujian,Populated place,4,1463000,ne-ne_10m_populated_places
+1159149793,Hefei,合肥,117.278068,31.851977,Q185684,CHN,Anhui,Admin-1 capital,4,2035000,ne-ne_10m_populated_places
+1159149795,Suzhou,宿州,116.976943,33.638057,Q360643,CHN,Anhui,Populated place,4,1964000,ne-ne_10m_populated_places
+1159149797,Zhanjiang,湛江,110.378076,21.20193,Q59144,CHN,Guangdong,Populated place,4,1590000,ne-ne_10m_populated_places
+1159149837,Santiago,聖地牙哥,-70.670012,19.50001,Q42763,DOM,Santiago,Admin-1 capital,4,1550753,ne-ne_10m_populated_places
+1159149845,Barranquilla,巴兰基亚,-74.801913,10.961934,Q62823,COL,Atlántico,Admin-1 capital,4,1798000,ne-ne_10m_populated_places
+1159149889,Ankang,安康,109.020002,32.679981,Q515846,CHN,Shaanxi,Populated place,4,1100000,ne-ne_10m_populated_places
+1159149895,Hengyang,衡阳,112.58807,26.881971,Q144663,CHN,Hunan,Populated place,4,1016000,ne-ne_10m_populated_places
+1159149899,Mianyang,绵阳,104.689993,31.464828,Q426130,CHN,Sichuan,Populated place,4,1396000,ne-ne_10m_populated_places
+1159149903,Baoshan,保山,99.15001,25.119977,Q496576,CHN,Yunnan,Populated place,4,1000000,ne-ne_10m_populated_places
+1159149907,Shijiazhuang,石家庄,114.478032,38.05196,Q58401,CHN,Hebei,Admin-1 capital,4,2417000,ne-ne_10m_populated_places
+1159149909,Handan,邯郸,114.478032,36.581921,Q58570,CHN,Hebei,Populated place,4,1631000,ne-ne_10m_populated_places
+1159149911,Anshan,鞍山,122.938085,41.116967,Q74957,CHN,Liaoning,Populated place,4,1639000,ne-ne_10m_populated_places
+1159149913,Dalian,大连,121.627885,38.924784,Q74881,CHN,Liaoning,Populated place,4,3167000,ne-ne_10m_populated_places
+1159149917,Qingdao,青岛,120.328063,36.091925,Q170322,CHN,Shandong,Populated place,4,2866000,ne-ne_10m_populated_places
+1159149919,Linyi,临沂,118.32803,35.081935,Q373346,CHN,Shandong,Populated place,4,2082000,ne-ne_10m_populated_places
+1159149921,Huaiyin,淮安,119.065967,33.585165,Q57818,CHN,Jiangsu,Populated place,4,1264000,ne-ne_10m_populated_places
+1159149923,Wenzhou,温州,120.648147,28.021927,Q42635,CHN,Zhejiang,Populated place,4,2350000,ne-ne_10m_populated_places
+1159149925,Ningbo,宁波,121.548092,29.881917,Q42780,CHN,Zhejiang,Populated place,4,1923000,ne-ne_10m_populated_places
+1159149927,Fukuoka,福冈,130.408068,33.596961,Q26600,JPN,Fukuoka,Admin-1 region capital,4,2792000,ne-ne_10m_populated_places
+1159149941,Hohhot,呼和浩特,111.65805,40.821921,Q535534,CHN,Nei Mongol,Admin-1 capital,4,1726000,ne-ne_10m_populated_places
+1159149943,Chifeng,赤峰,118.948044,42.271961,Q570829,CHN,Nei Mongol,Populated place,4,1277000,ne-ne_10m_populated_places
+1159149949,Jiamusi,佳木斯,130.348072,46.831967,Q29003,CHN,Heilongjiang,Populated place,4,1020000,ne-ne_10m_populated_places
+1159149955,Daqing,大庆,124.998062,46.581905,Q304848,CHN,Heilongjiang,Populated place,4,1693000,ne-ne_10m_populated_places
+1159149959,Nagoya,名古屋,136.913046,35.156943,Q11751,JPN,Aichi,Admin-1 region capital,4,3230000,ne-ne_10m_populated_places
+1159149967,Kyoto,京都,135.748052,35.031938,Q34600,JPN,Kyoto,Admin-0 capital alt,4,1805000,ne-ne_10m_populated_places
+1159149971,Sendai,仙台,140.869667,38.268441,Q46747,JPN,Miyagi,Admin-1 region capital,4,2250000,ne-ne_10m_populated_places
+1159149981,Mbuji-Mayi,姆布吉马伊,23.59805,-6.148081,Q319660,COD,Kasaï-Oriental,Admin-1 capital,4,1295000,ne-ne_10m_populated_places
+1159149999,Faridabad,法里达巴德,77.314721,28.435279,Q200663,IND,Haryana,Populated place,4,1394000,ne-ne_10m_populated_places
+1159150001,Srinagar,斯利那加,74.828309,34.069474,Q170115,IND,Jammu and Kashmir,Admin-1 capital,4,1140000,ne-ne_10m_populated_places
+1159150003,Vijayawada,维杰亚瓦达,80.628057,16.521905,Q200017,IND,Andhra Pradesh,Populated place,4,1137000,ne-ne_10m_populated_places
+1159150009,Kochi,戈奇,76.22197,10.016953,Q1800,IND,Kerala,Populated place,4,1519000,ne-ne_10m_populated_places
+1159150037,Marseille,马赛,5.373064,43.291925,Q23482,FRA,Provence-Alpes-Côte-d'Azur,Admin-1 region capital,4,1400000,ne-ne_10m_populated_places
+1159150087,Mosul,摩苏尔,43.143059,36.346948,Q83317,IRQ,Ninawa,Admin-1 capital,4,1316000,ne-ne_10m_populated_places
+1159150135,Tabriz,大不里士,46.2993,38.088237,Q80053,IRN,East Azarbaijan,Admin-1 capital,4,1413000,ne-ne_10m_populated_places
+1159150137,Ludhiana,卢迪亚纳,75.870312,30.929708,Q200123,IND,Punjab,Populated place,4,1649000,ne-ne_10m_populated_places
+1159150147,Lucknow,勒克瑙,80.913053,26.856985,Q47916,IND,Uttar Pradesh,Admin-1 capital,4,2695000,ne-ne_10m_populated_places
+1159150153,Ranchi,兰契,85.32808,23.371952,Q174461,IND,Jharkhand,Admin-1 capital,4,1044000,ne-ne_10m_populated_places
+1159150159,Jabalpur,贾巴尔普尔,79.953112,23.177003,Q200878,IND,Madhya Pradesh,Populated place,4,1285000,ne-ne_10m_populated_places
+1159150161,Indore,因多尔,75.863077,22.717005,Q66616,IND,Madhya Pradesh,Populated place,4,2026000,ne-ne_10m_populated_places
+1159150183,São Luís,圣路易斯,-44.267937,-2.514039,Q28441,BRA,Maranhão,Admin-1 capital,4,1038000,ne-ne_10m_populated_places
+1159150193,Belo Horizonte,贝洛奥里藏特,-43.91695,-19.91308,Q42800,BRA,Minas Gerais,Admin-1 capital,4,5575000,ne-ne_10m_populated_places
+1159150215,Maceió,马塞约,-35.73192,-9.61805,Q168888,BRA,Alagoas,Admin-1 capital,4,1186000,ne-ne_10m_populated_places
+1159150223,Vila Velha,韦利亚镇,-40.290233,-20.338046,Q334197,BRA,Espírito Santo,Populated place,4,1209091,ne-ne_10m_populated_places
+1159150225,Natal,纳塔尔,-35.24195,-5.778077,Q131620,BRA,Rio Grande do Norte,Admin-1 capital,4,1088000,ne-ne_10m_populated_places
+1159150303,Rosario,罗萨里奥,-60.668253,-32.949184,Q52535,ARG,Santa Fe,Populated place,4,1203000,ne-ne_10m_populated_places
+1159150305,Campinas,坎皮纳斯,-47.055885,-22.907898,Q171617,BRA,São Paulo,Populated place,4,2791000,ne-ne_10m_populated_places
+1159150353,Khulna,库尔纳,89.558055,22.841933,Q243325,BGD,Khulna,Admin-1 capital,4,1553000,ne-ne_10m_populated_places
+1159150423,Mandalay,曼德勒,96.083083,21.971934,Q185518,MMR,Mandalay,Admin-1 capital,4,1300000,ne-ne_10m_populated_places
+1159150461,Taichung,台中,120.681667,24.152078,Q245023,TWN,Taichung City,Admin-1 capital,4,2629323,ne-ne_10m_populated_places
+1159150463,Kozhikode,科兹科德,75.768044,11.252382,Q28729,IND,Kerala,Populated place,3,953000,ne-ne_10m_populated_places
+1159150465,Bhubaneswar,布巴内什瓦尔,85.825414,20.272374,Q171771,IND,Orissa,Admin-1 capital,3,844000,ne-ne_10m_populated_places
+1159150467,Jamshedpur,贾姆谢德布尔,86.195573,22.789481,Q200054,IND,Jharkhand,Populated place,3,1300000,ne-ne_10m_populated_places
+1159150469,Montevideo,蒙得维的亚,-56.186823,-34.905376,Q1335,URY,Montevideo,Admin-0 capital,3,1513000,ne-ne_10m_populated_places
+1159150471,Helena,赫勒拿,-112.035291,46.592749,Q38733,USA,Montana,Admin-1 capital,3,38725,ne-ne_10m_populated_places
+1159150475,Bismarck,俾斯麦,-100.783316,46.808317,Q37066,USA,North Dakota,Admin-1 capital,3,63871,ne-ne_10m_populated_places
+1159150477,Boise,博伊西,-116.22749,43.60859,Q35775,USA,Idaho,Admin-1 capital,3,338071,ne-ne_10m_populated_places
+1159150479,San Jose,圣何塞,-121.888179,37.330943,Q16553,USA,California,Populated place,3,1668000,ne-ne_10m_populated_places
+1159150481,Sacramento,沙加缅度,-121.471984,38.576967,Q18013,USA,California,Admin-1 capital,3,1604000,ne-ne_10m_populated_places
+1159150483,Las Vegas,拉斯维加斯,-115.151362,36.164763,Q23768,USA,Nevada,Populated place,3,1823000,ne-ne_10m_populated_places
+1159150485,Santa Fe,圣菲,-105.937239,35.686929,Q38555,USA,New Mexico,Admin-1 capital,3,92681,ne-ne_10m_populated_places
+1159150487,Portland,波特兰,-122.681936,45.52197,Q6106,USA,Oregon,Populated place,3,1875000,ne-ne_10m_populated_places
+1159150489,Salt Lake City,盐湖城,-111.931998,40.776962,Q23337,USA,Utah,Admin-1 capital,3,966000,ne-ne_10m_populated_places
+1159150493,Cheyenne,夏延,-104.819711,41.140007,Q39042,USA,Wyoming,Admin-1 capital,3,72927,ne-ne_10m_populated_places
+1159150495,Des Moines,德梅因,-93.619981,41.57998,Q39709,USA,Iowa,Admin-1 capital,3,380655,ne-ne_10m_populated_places
+1159150497,Omaha,奥马哈,-96.00999,41.240001,Q43199,USA,Nebraska,Populated place,3,877110,ne-ne_10m_populated_places
+1159150499,Oklahoma City,奧克拉荷馬,-97.520629,35.471989,Q34863,USA,Oklahoma,Admin-1 capital,3,788000,ne-ne_10m_populated_places
+1159150501,Pierre,皮尔,-100.350552,44.368337,Q40747,USA,South Dakota,Admin-1 capital,3,13879,ne-ne_10m_populated_places
+1159150503,San Antonio,圣安东尼奥,-98.492693,29.419848,Q975,USA,Texas,Populated place,3,1473000,ne-ne_10m_populated_places
+1159150505,San Cristóbal,圣克里斯托瓦尔,-72.249967,7.770003,Q820235,VEN,Táchira,Admin-1 capital,3,438798,ne-ne_10m_populated_places
+1159150507,Valencia,巴伦西亚,-67.981967,10.231927,Q54880,VEN,Carabobo,Admin-1 capital,3,1770000,ne-ne_10m_populated_places
+1159150511,Jackson,杰克逊,-90.184997,32.298815,Q28198,USA,Mississippi,Admin-1 capital,3,250902,ne-ne_10m_populated_places
+1159150513,Raleigh,罗利,-78.647035,35.772696,Q41087,USA,North Carolina,Admin-1 capital,3,1163515,ne-ne_10m_populated_places
+1159150515,Cleveland,克里夫兰,-81.696944,41.471933,Q37320,USA,Ohio,Populated place,3,1890000,ne-ne_10m_populated_places
+1159150517,Cincinnati,辛辛那提,-84.458868,39.163831,Q43196,USA,Ohio,Populated place,3,1636000,ne-ne_10m_populated_places
+1159150519,Nashville,纳什维尔,-86.781931,36.17192,Q23197,USA,Tennessee,Admin-1 capital,3,877000,ne-ne_10m_populated_places
+1159150521,Memphis,孟菲斯,-90.028777,35.144701,Q16563,USA,Tennessee,Populated place,3,1081000,ne-ne_10m_populated_places
+1159150523,Norfolk,諾福克,-76.280006,36.849959,Q49231,USA,Virginia,Populated place,3,1047869,ne-ne_10m_populated_places
+1159150525,Milwaukee,密尔沃基,-87.916673,43.029608,Q37836,USA,Wisconsin,Populated place,3,1388000,ne-ne_10m_populated_places
+1159150529,Buffalo,水牛城,-78.881948,42.881924,Q40435,USA,New York,Populated place,3,1016000,ne-ne_10m_populated_places
+1159150531,Pittsburgh,匹兹堡,-80.001931,40.431945,Q1342,USA,Pennsylvania,Populated place,3,1838000,ne-ne_10m_populated_places
+1159150533,Ciudad Guayana,圭亚那城,-62.619987,8.370017,Q507080,VEN,Bolívar,Populated place,3,746535,ne-ne_10m_populated_places
+1159150535,Lomé,洛美,1.220811,6.133883,Q3792,TGO,Maritime,Admin-0 capital,3,1452000,ne-ne_10m_populated_places
+1159150537,Tunis,突尼斯,10.179678,36.802778,Q3572,TUN,Tunis,Admin-0 capital,3,2412500,ne-ne_10m_populated_places
+1159150539,Kodiak,科迪亚克,-152.406987,57.789998,Q79985,USA,Alaska,Populated place,3,9461,ne-ne_10m_populated_places
+1159150541,Cold Bay,冷湾,-162.715092,55.200001,Q79523,USA,Alaska,Populated place,3,200,ne-ne_10m_populated_places
+1159150543,Bethel,伯特利,-161.755796,60.793303,Q80022,USA,Alaska,Populated place,3,6228,ne-ne_10m_populated_places
+1159150547,Point Hope,波因特霍普,-166.80802,68.347726,Q79813,USA,Alaska,Populated place,3,461,ne-ne_10m_populated_places
+1159150549,Utqiaġvik,巴罗,-156.78858,71.29057,Q79809,USA,Alaska,Populated place,3,4336,ne-ne_10m_populated_places
+1159150551,Nome,诺姆,-165.406374,64.5061,Q79996,USA,Alaska,Populated place,3,3485,ne-ne_10m_populated_places
+1159150553,Valdez,瓦尔迪兹,-146.348287,61.135996,Q80037,USA,Alaska,Populated place,3,4036,ne-ne_10m_populated_places
+1159150555,Juneau,朱諾,-134.400712,58.303386,Q29445,USA,Alaska,Admin-1 capital,3,30711,ne-ne_10m_populated_places
+1159150557,Fairbanks,费尔班克斯,-147.710659,64.836984,Q79638,USA,Alaska,Populated place,3,56993,ne-ne_10m_populated_places
+1159150559,Prudhoe Bay,普拉德霍湾,-148.66936,70.292181,Q1013046,USA,Alaska,Populated place,3,2500,ne-ne_10m_populated_places
+1159150561,Sevastopol,塞瓦斯托波尔,33.524395,44.603925,Q7525,RUS,Crimea,Admin-1 capital,3,379200,ne-ne_10m_populated_places
+1159150565,Abu Dhabi,阿布扎比,54.366593,24.466684,Q1519,ARE,Abu Dhabi,Admin-0 capital,3,603492,ne-ne_10m_populated_places
+1159150567,Ashgabat,阿什哈巴德,58.383299,37.949995,Q23438,TKM,Ahal,Admin-0 capital,3,727700,ne-ne_10m_populated_places
+1159150569,Samarkand,撒马尔罕,66.944999,39.670019,Q5753,UZB,Samarkand,Admin-1 capital,3,708000,ne-ne_10m_populated_places
+1159150571,Lusaka,卢萨卡,28.281382,-15.414698,Q3881,ZMB,Lusaka,Admin-0 capital,3,1328000,ne-ne_10m_populated_places
+1159150573,Harare,哈拉雷,31.042764,-17.815844,Q3921,ZWE,Harare,Admin-0 capital,3,1572000,ne-ne_10m_populated_places
+1159150575,Bulawayo,布拉瓦约,28.580002,-20.169998,Q193250,ZWE,Bulawayo,Admin-1 capital,3,699385,ne-ne_10m_populated_places
+1159150577,Dili,帝力,125.579456,-8.559388,Q9310,TLS,Dili,Admin-0 capital,3,234331,ne-ne_10m_populated_places
+1159150579,Port Vila,维拉港,168.316641,-17.73335,Q37806,VUT,Shefa,Admin-0 capital,3,44040,ne-ne_10m_populated_places
+1159150583,Tegucigalpa,特古西加尔巴,-87.219475,14.103991,Q3238,HND,Francisco Morazán,Admin-0 capital,3,946000,ne-ne_10m_populated_places
+1159150585,Georgetown,乔治敦,-58.167029,6.801974,Q10717,GUY,East Berbice-Corentyne,Admin-0 capital,3,264350,ne-ne_10m_populated_places
+1159150587,Reykjavík,雷克雅未克,-21.936546,64.143459,Q1764,ISL,Suðurnes,Admin-0 capital,3,166212,ne-ne_10m_populated_places
+1159150589,Port-au-Prince,太子港,-72.33798,18.54297,Q34261,HTI,Ouest,Admin-0 capital,3,1998000,ne-ne_10m_populated_places
+1159150591,Glasgow,格拉斯哥,-4.239101,55.86227,Q4093,GBR,Glasgow,Populated place,3,1160000,ne-ne_10m_populated_places
+1159150593,Kampala,坎帕拉,32.581378,0.318605,Q3894,UGA,Kampala,Admin-0 capital,3,1420000,ne-ne_10m_populated_places
+1159150595,Aden,亚丁,45.00949,12.779723,Q131694,YEM,`Adan,Admin-1 capital,3,1000000,ne-ne_10m_populated_places
+1159150597,Paramaribo,帕拉马里博,-55.167031,5.83503,Q3001,SUR,Paramaribo,Admin-0 capital,3,254169,ne-ne_10m_populated_places
+1159150601,Seville,塞维利亚,-5.980007,37.405015,Q8717,ESP,Andalucía,Admin-1 capital,3,1212045,ne-ne_10m_populated_places
+1159150603,Zinder,津德尔,8.983317,13.799996,Q204365,NER,Zinder,Admin-1 capital,3,230358,ne-ne_10m_populated_places
+1159150605,Niamey,尼亚美,2.11471,13.518652,Q3674,NER,Niamey,Admin-0 capital,3,915000,ne-ne_10m_populated_places
+1159150607,Port Sudan,苏丹港,37.216426,19.615791,Q208718,SDN,Red Sea,Admin-1 capital,3,489725,ne-ne_10m_populated_places
+1159150609,Dushanbe,杜尚别,68.773879,38.560035,Q9365,TJK,Tadzhikistan Territories,Admin-0 capital,3,1086244,ne-ne_10m_populated_places
+1159150611,Cusco,库斯科,-71.972155,-13.525028,Q5582862,PER,Cusco,Admin-1 capital,3,361182,ne-ne_10m_populated_places
+1159150613,Tacna,塔克纳,-70.250012,-18.000001,Q272795,PER,Tacna,Admin-1 capital,3,280098,ne-ne_10m_populated_places
+1159150615,Trujillo,特鲁希略,-79.019968,-8.120035,Q214173,PER,La Libertad,Admin-1 capital,3,765171,ne-ne_10m_populated_places
+1159150619,Ica,伊卡,-75.725492,-14.067993,Q840712,PER,Ica,Admin-1 capital,3,279420,ne-ne_10m_populated_places
+1159150621,Asunción,亚松森,-57.625834,-25.290671,Q2933,PRY,Asunción,Admin-0 capital,3,1870000,ne-ne_10m_populated_places
+1159150623,Managua,馬拿瓜,-86.270437,12.154962,Q3274,NIC,Managua,Admin-0 capital,3,920000,ne-ne_10m_populated_places
+1159150625,Freetown,弗里敦,-13.236162,8.471957,Q3780,SLE,Western,Admin-0 capital,3,827000,ne-ne_10m_populated_places
+1159150627,Agadez,阿加德兹,7.98281,16.995873,Q320049,NER,Agadez,Admin-1 capital,3,117770,ne-ne_10m_populated_places
+1159150629,Nyala,尼亚拉,24.889995,12.059973,Q851576,SDN,South Darfur,Admin-1 capital,3,392373,ne-ne_10m_populated_places
+1159150631,Wau,瓦乌,27.98996,7.699981,Q276534,SSD,West Bahr-al-Ghazal,Admin-1 region capital,3,127384,ne-ne_10m_populated_places
+1159150633,Dongola,栋古拉,30.483297,19.166594,Q821321,SDN,Northern,Admin-1 region capital,3,26404,ne-ne_10m_populated_places
+1159150637,Kassala,卡薩拉,36.390016,15.459972,Q686813,SDN,Kassala,Admin-1 capital,3,401477,ne-ne_10m_populated_places
+1159150639,Tromsø,特罗姆瑟,18.992025,69.635076,Q26087,NOR,Troms,Admin-1 capital,3,52436,ne-ne_10m_populated_places
+1159150641,Trondheim,特隆赫姆,10.416666,63.416657,Q25804,NOR,Sør-Trøndelag,Admin-1 capital,3,147139,ne-ne_10m_populated_places
+1159150643,Bergen,卑尔根,5.324522,60.391002,Q26793,NOR,Hordaland,Admin-1 capital,3,213585,ne-ne_10m_populated_places
+1159150645,Islamabad,伊斯兰堡,73.08063,33.689368,Q1362,PAK,F.C.T.,Admin-0 capital,3,780000,ne-ne_10m_populated_places
+1159150647,Multan,木尔坦,71.453062,30.201923,Q185453,PAK,Punjab,Populated place,3,1522000,ne-ne_10m_populated_places
+1159150649,Hyderabad,海得拉巴,68.373043,25.381933,Q1640079,PAK,Sind,Populated place,3,1459000,ne-ne_10m_populated_places
+1159150651,Peshawar,白沙瓦,71.533057,34.006962,Q1113311,PAK,N.W.F.P.,Admin-1 capital,3,1303000,ne-ne_10m_populated_places
+1159150655,Kathmandu,加德满都,85.314696,27.718638,Q3037,NPL,Bhaktapur,Admin-0 capital,3,895000,ne-ne_10m_populated_places
+1159150657,Nacala,纳卡拉,40.715024,-14.518611,Q990080,MOZ,Nampula,Populated place,3,224795,ne-ne_10m_populated_places
+1159150659,Bloemfontein,布隆方丹,26.229913,-29.119994,Q37701,ZAF,Orange Free State,Admin-0 capital,3,463064,ne-ne_10m_populated_places
+1159150661,Pretoria,比勒陀利亚,28.227483,-25.704975,Q3926,ZAF,Gauteng,Admin-0 capital,3,1338000,ne-ne_10m_populated_places
+1159150663,Port Moresby,莫尔兹比港,147.192504,-9.464708,Q36526,PNG,Central,Admin-0 capital,3,283733,ne-ne_10m_populated_places
+1159150665,Honiara,霍尼亚拉,159.949766,-9.437994,Q40921,SLB,Guadalcanal,Admin-0 capital,3,76328,ne-ne_10m_populated_places
+1159150667,Panama City,巴拿马城,-79.534983,8.969963,Q3306,PAN,Panama,Admin-0 capital,3,1281000,ne-ne_10m_populated_places
+1159150669,Fez,非斯,-5.002323,34.056545,Q80985,MAR,Fès - Boulemane,Admin-1 capital,3,1002000,ne-ne_10m_populated_places
+1159150673,Rabat,拉巴特,-6.836408,34.025307,Q3551,MAR,Rabat - Salé - Zemmour - Zaer,Admin-0 capital,3,1705000,ne-ne_10m_populated_places
+1159150675,Marrakesh,马拉喀什,-8.001933,31.631939,Q101625,MAR,Marrakech - Tensift - Al Haouz,Admin-1 capital,3,872000,ne-ne_10m_populated_places
+1159150677,Chișinău,基希讷乌,28.857711,47.005024,Q21197,MDA,Chisinau,Admin-0 capital,3,688134,ne-ne_10m_populated_places
+1159150679,Beira,贝拉,34.870006,-19.820045,Q211563,MOZ,Sofala,Admin-1 capital,3,530604,ne-ne_10m_populated_places
+1159150681,Port Elizabeth,伊莉莎白港,25.598083,-33.968088,Q125434,ZAF,Eastern Cape,Populated place,3,1021000,ne-ne_10m_populated_places
+1159150683,Maputo,马普托,32.587217,-25.953332,Q3889,MOZ,Maputo,Admin-0 capital,3,1446000,ne-ne_10m_populated_places
+1159150685,Tomsk,托木斯克,84.975009,56.494987,Q976,RUS,Tomsk,Admin-1 capital,3,535479,ne-ne_10m_populated_places
+1159150687,Anadyr,阿纳德尔,177.474996,64.73699,Q7978,RUS,Chukchi Autonomous Okrug,Admin-1 capital,3,10332,ne-ne_10m_populated_places
+1159150691,Murmansk,摩尔曼斯克,33.100036,68.969988,Q1763,RUS,Murmansk,Admin-1 capital,3,319263,ne-ne_10m_populated_places
+1159150693,Archangel,阿尔汉格尔斯克,40.545008,64.574959,Q1851,RUS,Arkhangel'sk,Admin-1 capital,3,356051,ne-ne_10m_populated_places
+1159150695,Nizhny Novgorod,下诺夫哥罗德,43.998148,56.334953,Q891,RUS,Nizhegorod,Admin-1 capital,3,1278000,ne-ne_10m_populated_places
+1159150697,Volgograd,伏尔加格勒,44.498015,48.711956,Q914,RUS,Volgograd,Admin-1 capital,3,984000,ne-ne_10m_populated_places
+1159150699,Ufa,乌法,56.038085,54.791921,Q911,RUS,Bashkortostan,Admin-1 capital,3,1018000,ne-ne_10m_populated_places
+1159150701,Yekaterinburg,叶卡捷琳堡,60.598014,56.851976,Q887,RUS,Sverdlovsk,Admin-1 capital,3,1313000,ne-ne_10m_populated_places
+1159150703,Samara,萨马拉,50.149349,53.196953,Q894,RUS,Samara,Admin-1 capital,3,1137000,ne-ne_10m_populated_places
+1159150705,Kazan,喀山,49.124399,55.751888,Q900,RUS,Tatarstan,Admin-1 capital,3,1115000,ne-ne_10m_populated_places
+1159150709,Surgut,苏尔古特,73.425017,61.259942,Q183002,RUS,Khanty-Mansiy,Populated place,3,400000,ne-ne_10m_populated_places
+1159150711,Barnaul,巴尔瑙尔,83.745007,53.354998,Q6014,RUS,Altay,Admin-1 capital,3,599579,ne-ne_10m_populated_places
+1159150713,Novosibirsk,新西伯利亚,82.958096,55.031906,Q883,RUS,Novosibirsk,Admin-1 capital,3,1389000,ne-ne_10m_populated_places
+1159150715,Mogadishu,摩加迪休,45.364732,2.068627,Q2449,SOM,Banaadir,Admin-0 capital,3,1100000,ne-ne_10m_populated_places
+1159150717,Muscat,马斯喀特,58.378311,23.585179,Q3826,OMN,Muscat,Admin-0 capital,3,734697,ne-ne_10m_populated_places
+1159150719,Colombo,科伦坡,79.857751,6.931966,Q35381,LKA,Colombo,Admin-0 capital,3,217000,ne-ne_10m_populated_places
+1159150721,Cebu,宿雾,123.898129,10.321922,Q1467,PHL,Cebu,Populated place,3,815000,ne-ne_10m_populated_places
+1159150723,Iloilo,伊洛伊洛,122.545016,10.705043,Q459787,PHL,Iloilo,Populated place,3,387681,ne-ne_10m_populated_places
+1159150727,Davao,达沃,125.62805,7.111963,Q1473,PHL,Davao Del Sur,Populated place,3,1402000,ne-ne_10m_populated_places
+1159150729,Bratsk,布拉茨克,101.615027,56.156997,Q132732,RUS,Irkutsk,Populated place,3,246348,ne-ne_10m_populated_places
+1159150731,Irkutsk,伊尔库茨克,104.283869,52.284604,Q6576,RUS,Irkutsk,Admin-1 capital,3,586695,ne-ne_10m_populated_places
+1159150733,Krasnoyarsk,克拉斯诺亚尔斯克,92.864055,56.015929,Q919,RUS,Krasnoyarsk,Admin-1 capital,3,925000,ne-ne_10m_populated_places
+1159150735,Dikson,迪克森,80.545099,73.506972,Q678299,RUS,Taymyr,Populated place,3,1113,ne-ne_10m_populated_places
+1159150737,Chita,赤塔,113.465002,52.055025,Q53139,RUS,Chita,Admin-1 capital,3,308500,ne-ne_10m_populated_places
+1159150739,Vladivostok,海参崴,131.910026,43.130015,Q959,RUS,Primor'ye,Admin-1 capital,3,587022,ne-ne_10m_populated_places
+1159150741,Nizhneyansk,下揚斯克,136.066619,71.433326,Q1993488,RUS,Sakha (Yakutia),Populated place,3,400,ne-ne_10m_populated_places
+1159150745,Yakutsk,雅库茨克,129.735016,62.034959,Q6610,RUS,Sakha (Yakutia),Admin-1 capital,3,235600,ne-ne_10m_populated_places
+1159150747,Tiksi,季克西,128.834967,71.626886,Q500895,RUS,Sakha (Yakutia),Populated place,3,5700,ne-ne_10m_populated_places
+1159150749,Magadan,马加丹,150.810009,59.57498,Q7968,RUS,Maga Buryatdan,Admin-1 capital,3,95282,ne-ne_10m_populated_places
+1159150751,Tijuana,蒂华纳,-117.081942,32.501963,Q124739,MEX,Baja California,Populated place,3,1553000,ne-ne_10m_populated_places
+1159150753,Chihuahua,奇瓦瓦,-106.086928,28.646927,Q61302,MEX,Chihuahua,Admin-1 capital,3,793000,ne-ne_10m_populated_places
+1159150755,Mazatlán,马萨特兰,-106.420001,23.221101,Q40194,MEX,Sinaloa,Populated place,3,368204,ne-ne_10m_populated_places
+1159150757,Tampico,坦皮科,-97.870006,22.30002,Q273014,MEX,Tamaulipas,Populated place,3,859419,ne-ne_10m_populated_places
+1159150759,Acapulco,阿卡普尔科,-99.915979,16.849991,Q81398,MEX,Guerrero,Populated place,3,715584,ne-ne_10m_populated_places
+1159150763,Veracruz,韦拉克鲁斯,-96.159981,19.177342,Q173270,MEX,Veracruz,Populated place,3,578963,ne-ne_10m_populated_places
+1159150765,Tuxtla Gutiérrez,图斯特拉－古铁雷斯,-93.15001,16.749997,Q207429,MEX,Chiapas,Admin-1 capital,3,481128,ne-ne_10m_populated_places
+1159150767,Cancún,坎昆,-86.830008,21.16996,Q8969,MEX,Quintana Roo,Populated place,3,542043,ne-ne_10m_populated_places
+1159150769,Mérida,梅里达,-89.618579,20.968585,Q165204,MEX,Yucatán,Admin-1 capital,3,965000,ne-ne_10m_populated_places
+1159150771,Enugu,埃努古,7.499997,6.450031,Q465022,NGA,Enugu,Admin-1 capital,3,688862,ne-ne_10m_populated_places
+1159150773,Sokoto,索科托,5.240031,13.060016,Q336350,NGA,Sokoto,Admin-1 capital,3,732178,ne-ne_10m_populated_places
+1159150775,Perm,彼尔姆,56.248047,58.001906,Q915,RUS,Perm',Admin-1 capital,3,997000,ne-ne_10m_populated_places
+1159150777,Erdenet,额尔登特,104.118337,49.053297,Q230628,MNG,Orhon,Admin-1 capital,3,79647,ne-ne_10m_populated_places
+1159150781,Ulaanbaatar,乌兰巴托,106.91467,47.918619,Q23430,MNG,Ulaanbaatar,Admin-0 capital,3,885000,ne-ne_10m_populated_places
+1159150783,Mbeya,姆贝亚,33.430042,-8.890014,Q335548,TZA,Mbeya,Admin-1 capital,3,291649,ne-ne_10m_populated_places
+1159150785,Windhoek,温得和克,17.083546,-22.570006,Q3935,NAM,Khomas,Admin-0 capital,3,268132,ne-ne_10m_populated_places
+1159150787,Grootfontein,赫鲁特方丹,18.116558,-19.566623,Q986336,NAM,Otjozondjupa,Populated place,3,24099,ne-ne_10m_populated_places
+1159150789,Zanzibar,桑给巴尔,39.200026,-6.16,Q2222874,TZA,Zanzibar West,Admin-1 capital,3,403658,ne-ne_10m_populated_places
+1159150791,Valencia,巴伦西亚,-0.401958,39.486963,Q8818,ESP,Comunidad Valenciana,Admin-1 capital,3,808000,ne-ne_10m_populated_places
+1159150793,Palana,帕拉纳,159.950019,59.084002,Q695360,RUS,Kamchatka,Admin-1 capital,3,3671,ne-ne_10m_populated_places
+1159150795,Petropavlovsk-Kamchatsky,堪察加彼得巴甫洛夫斯克,158.62302,53.061992,Q7951,RUS,Kamchatka,Admin-1 capital,3,187282,ne-ne_10m_populated_places
+1159150799,Abuja,阿布贾,7.489505,9.05462,Q3787,NGA,Federal Capital Territory,Admin-0 capital,3,1576000,ne-ne_10m_populated_places
+1159150801,Padang,巴东,100.358068,-0.958061,Q7253,IDN,Sumatera Barat,Admin-1 capital,3,855000,ne-ne_10m_populated_places
+1159150803,Bissau,比绍,-15.598361,11.865024,Q3739,GNB,Bissau,Admin-0 capital,3,403339,ne-ne_10m_populated_places
+1159150805,Palermo,巴勒莫,13.348081,38.126969,Q2656,ITA,Sicily,Admin-1 region capital,3,863000,ne-ne_10m_populated_places
+1159150807,Amman,安曼,35.931354,31.951971,Q3805,JOR,Amman,Admin-0 capital,3,1060000,ne-ne_10m_populated_places
+1159150809,Vilnius,维尔纽斯,25.316635,54.683366,Q216,LTU,Vilniaus,Admin-0 capital,3,542366,ne-ne_10m_populated_places
+1159150811,Riga,里加,24.099965,56.950024,Q1773,LVA,Riga,Admin-0 capital,3,742572,ne-ne_10m_populated_places
+1159150813,Bishkek,比什凯克,74.583258,42.875025,Q9361,KGZ,Bishkek,Admin-0 capital,3,837000,ne-ne_10m_populated_places
+1159150817,Jiayuguan,嘉峪关,98.299984,39.82001,Q532560,CHN,Gansu,Populated place,3,148279,ne-ne_10m_populated_places
+1159150819,Xining,西宁,101.768059,36.621944,Q69060,CHN,Gansu,Admin-1 capital,3,1048000,ne-ne_10m_populated_places
+1159150821,Guilin,桂林,110.278082,25.281939,Q189633,CHN,Guangxi,Populated place,3,987000,ne-ne_10m_populated_places
+1159150823,Huainan,淮南,116.978035,32.63193,Q360178,CHN,Anhui,Populated place,3,1451000,ne-ne_10m_populated_places
+1159150825,Shantou,汕头,116.66808,23.371952,Q59100,CHN,Guangdong,Populated place,3,1601000,ne-ne_10m_populated_places
+1159150827,Tarakan,打拉根,117.633016,3.300017,Q14501,IDN,Kalimantan Timur,Populated place,3,193069,ne-ne_10m_populated_places
+1159150829,Mombasa,蒙巴萨,39.687972,-4.03808,Q225641,KEN,Coast,Admin-1 capital,3,882000,ne-ne_10m_populated_places
+1159150831,Maseru,马塞卢,27.483273,-29.316674,Q3909,LSO,Maseru,Admin-0 capital,3,361324,ne-ne_10m_populated_places
+1159150835,Antananarivo,塔那那利佛,47.514678,-18.914691,Q3915,MDG,Antananarivo,Admin-0 capital,3,1697000,ne-ne_10m_populated_places
+1159150837,Semarang,三宝垄,110.418074,-6.964672,Q11025,IDN,Jawa Tengah,Admin-1 capital,3,1396000,ne-ne_10m_populated_places
+1159150839,Palembang,巨港,104.748084,-2.978093,Q8131,IDN,Sumatera Selatan,Admin-1 capital,3,1749000,ne-ne_10m_populated_places
+1159150841,Bandjarmasin,马辰,114.580076,-3.329992,Q14182,IDN,Kalimantan Selatan,Admin-1 capital,3,603576,ne-ne_10m_populated_places
+1159150843,Makassar,望加锡,119.430082,-5.138013,Q14634,IDN,Sulawesi Selatan,Admin-1 capital,3,1262000,ne-ne_10m_populated_places
+1159150845,Lyon,里昂,4.828085,45.771954,Q456,FRA,Rhône-Alpes,Admin-1 region capital,3,1423000,ne-ne_10m_populated_places
+1159150847,Quito,基多,-78.501997,-0.213042,Q2900,ECU,Pichincha,Admin-0 capital,3,1701000,ne-ne_10m_populated_places
+1159150849,San José,圣荷西,-84.078814,9.930371,Q3070,CRI,San José,Admin-0 capital,3,1284000,ne-ne_10m_populated_places
+1159150853,San Salvador,圣萨尔瓦多,-89.215576,13.70328,Q3110,SLV,San Salvador,Admin-0 capital,3,1433000,ne-ne_10m_populated_places
+1159150855,Kingston,京斯敦,-76.767434,17.977077,Q34692,JAM,Kingston,Admin-0 capital,3,937700,ne-ne_10m_populated_places
+1159150857,Cartagena,卡塔赫纳,-75.516339,10.401684,Q657461,COL,Bolívar,Admin-1 capital,3,887000,ne-ne_10m_populated_places
+1159150859,Mitú,米图,-70.173608,1.198311,Q130242,COL,Vaupés,Admin-1 capital,3,5917,ne-ne_10m_populated_places
+1159150861,Bumba,奔巴,22.459962,2.189981,Q1004822,COD,Équateur,Populated place,3,160539,ne-ne_10m_populated_places
+1159150863,N'Djamena,恩贾梅纳,15.047202,12.115042,Q3659,TCD,Hadjer-Lamis,Admin-0 capital,3,989000,ne-ne_10m_populated_places
+1159150865,Abéché,阿贝歇,20.829984,13.839994,Q242587,TCD,Ouaddaï,Admin-1 capital,3,158317,ne-ne_10m_populated_places
+1159150867,Malabo,马拉博,8.783278,3.750015,Q3818,GNQ,Bioko Norte,Admin-0 capital,3,155963,ne-ne_10m_populated_places
+1159150871,Luxor,卢克索,32.650038,25.700019,Q130514,EGY,Qina,Populated place,3,609248,ne-ne_10m_populated_places
+1159150873,Asmara,阿斯马拉,38.933324,15.333339,Q3642,ERI,Anseba,Admin-0 capital,3,620802,ne-ne_10m_populated_places
+1159150875,Zagreb,萨格勒布,15.999995,45.800007,Q1435,HRV,Grad Zagreb,Admin-0 capital,3,722526,ne-ne_10m_populated_places
+1159150877,Tallinn,塔林,24.728041,59.433877,Q1770,EST,Harju,Admin-0 capital,3,394024,ne-ne_10m_populated_places
+1159150879,Lhasa,拉萨,91.10001,29.645024,Q5869,CHN,Xizang,Admin-1 capital,3,219599,ne-ne_10m_populated_places
+1159150881,Hami,伊州区,93.515005,42.826984,Q650585,CHN,Xinjiang Uygur,Populated place,3,580000,ne-ne_10m_populated_places
+1159150883,Hotan,和田,79.926945,37.099711,Q235389,CHN,Xinjiang Uygur,Populated place,3,408894,ne-ne_10m_populated_places
+1159150885,Kashgar,喀什,75.969926,39.476336,Q170521,CHN,Xinjiang Uygur,Populated place,3,506640,ne-ne_10m_populated_places
+1159150889,Yinchuan,银川,106.271092,38.46992,Q211243,CHN,Ningxia Hui,Admin-1 capital,3,991000,ne-ne_10m_populated_places
+1159150891,Pingxiang,萍乡,113.848097,27.621951,Q362865,CHN,Jiangxi,Populated place,3,961000,ne-ne_10m_populated_places
+1159150893,Nagasaki,长崎,129.885033,32.764988,Q38234,JPN,Nagasaki,Admin-1 capital,3,435455,ne-ne_10m_populated_places
+1159150895,Qiqihar,齐齐哈尔,123.988046,47.346923,Q205922,CHN,Heilongjiang,Populated place,3,1641000,ne-ne_10m_populated_places
+1159150897,Kikwit,基奎特,18.850002,-5.030043,Q261887,COD,Bandundu,Populated place,3,637736,ne-ne_10m_populated_places
+1159150899,Matadi,马塔迪,13.450021,-5.81661,Q211073,COD,Bas-Congo,Admin-1 capital,3,245862,ne-ne_10m_populated_places
+1159150901,Kolwezi,科卢韦齐,25.47244,-10.716724,Q271404,COD,Katanga,Admin-1 capital,3,418000,ne-ne_10m_populated_places
+1159150903,Lubumbashi,卢本巴希,27.478072,-11.678079,Q187593,COD,Katanga,Admin-1 capital,3,1352000,ne-ne_10m_populated_places
+1159150907,Lilongwe,利隆圭,33.783302,-13.983295,Q3876,MWI,Lilongwe,Admin-0 capital,3,646750,ne-ne_10m_populated_places
+1159150909,Guatemala City,瓜地馬拉,-90.528911,14.623081,Q1555,GTM,Guatemala,Admin-0 capital,3,1024000,ne-ne_10m_populated_places
+1159150911,Cayenne,卡宴,-52.330021,4.932992,Q44401,FRA,Guinaa,Admin-1 capital,3,61550,ne-ne_10m_populated_places
+1159150913,Libreville,利伯维尔,9.457965,0.385389,Q3825,GAB,Estuaire,Admin-0 capital,3,578156,ne-ne_10m_populated_places
+1159150915,Vishakhapatnam,维沙卡帕特南,83.219848,17.682903,Q200016,IND,Andhra Pradesh,Populated place,3,1529000,ne-ne_10m_populated_places
+1159150917,Suva,苏瓦,178.441707,-18.133016,Q38807,FJI,Central,Admin-0 capital,3,175399,ne-ne_10m_populated_places
+1159150919,Port-Gentil,让蒂尔港,8.780022,-0.720022,Q501715,GAB,Ogooué-Maritime,Admin-1 capital,3,116836,ne-ne_10m_populated_places
+1159150921,Timbuktu,通布图,-3.016596,16.766585,Q9427,MLI,Timbuktu,Admin-1 capital,3,68872,ne-ne_10m_populated_places
+1159150925,Punta Arenas,蓬塔阿雷纳斯,-70.939996,-53.164986,Q51599,CHL,Magallanes y Antártica Chilena,Admin-1 capital,3,117430,ne-ne_10m_populated_places
+1159150927,Iquique,伊基克,-70.129968,-20.249993,Q14440,CHL,Tarapacá,Admin-1 capital,3,227499,ne-ne_10m_populated_places
+1159150929,Antofagasta,安托法加斯塔,-70.400003,-23.649992,Q3612,CHL,Antofagasta,Admin-1 capital,3,309832,ne-ne_10m_populated_places
+1159150931,Valparaíso,瓦尔帕莱索,-71.617026,-33.047739,Q33986,CHL,Valparaíso,Admin-0 capital alt,3,854000,ne-ne_10m_populated_places
+1159150933,Valdivia,瓦尔迪维亚,-73.233111,-39.821651,Q160687,CHL,Los Ríos,Admin-1 capital,3,159599,ne-ne_10m_populated_places
+1159150935,Concepción,康塞普西翁,-73.050022,-36.830014,Q1880,CHL,Bío-Bío,Admin-1 capital,3,889725,ne-ne_10m_populated_places
+1159150937,Puerto Montt,蒙特港,-72.929978,-41.469989,Q36214,CHL,Los Lagos,Admin-1 capital,3,174629,ne-ne_10m_populated_places
+1159150939,Nuuk,努克,-51.732659,64.198281,Q226,GRL,Kommuneqarfik Sermersooq,Admin-0 region capital,3,14798,ne-ne_10m_populated_places
+1159150943,Nouakchott,努瓦克肖特,-15.97534,18.086427,Q3688,MRT,Nouakchott,Admin-0 capital,3,742144,ne-ne_10m_populated_places
+1159150945,Bamako,巴马科,-8.001985,12.65196,Q3703,MLI,Bamako,Admin-0 capital,3,1494000,ne-ne_10m_populated_places
+1159150947,Atar,阿塔尔,-13.049989,20.51664,Q735645,MRT,Adrar,Admin-1 capital,3,44265,ne-ne_10m_populated_places
+1159150949,Djenné,杰内,-4.549991,13.89999,Q213507,MLI,Mopti,Populated place,3,32944,ne-ne_10m_populated_places
+1159150951,Sabha,塞卜哈,14.43332,27.033271,Q208389,LBY,Sabha,Admin-1 capital,3,100249,ne-ne_10m_populated_places
+1159150953,Banghazi,班加西,20.064777,32.118679,Q40816,LBY,Benghazi,Admin-1 capital,3,1180000,ne-ne_10m_populated_places
+1159150955,Thessaloniki,塞萨洛尼基,22.883055,40.698052,Q17151,GRC,Kentriki Makedonia,Admin-1 capital,3,828000,ne-ne_10m_populated_places
+1159150957,Beirut,贝鲁特,35.507762,33.873921,Q3820,LBN,Beirut,Admin-0 capital,3,1846000,ne-ne_10m_populated_places
+1159150961,Tbilisi,第比利斯,44.78885,41.726956,Q994,GEO,Tbilisi,Admin-0 capital,3,1100000,ne-ne_10m_populated_places
+1159150963,Gondar,贡德尔,37.460028,12.610043,Q218861,ETH,Amhara,Admin-1 capital,3,156230,ne-ne_10m_populated_places
+1159150965,Nur-Sultan,努尔苏丹,71.427774,51.181125,Q1520,KAZ,Aqmola,Admin-0 capital,3,345604,ne-ne_10m_populated_places
+1159150967,Qaraghandy,卡拉干达,73.11501,49.884977,Q484706,KAZ,Qaraghandy,Admin-1 capital,3,451800,ne-ne_10m_populated_places
+1159150969,Almaty,阿拉木图,76.91309,43.326936,Q35493,KAZ,Almaty,Admin-1 capital,3,1209000,ne-ne_10m_populated_places
+1159150971,Isfahan,伊斯法罕,51.698092,32.701951,Q42053,IRN,Esfahan,Admin-1 capital,3,1628000,ne-ne_10m_populated_places
+1159150973,Shiraz,西菈子,52.568065,29.631906,Q6397066,IRN,Fars,Admin-1 capital,3,1240000,ne-ne_10m_populated_places
+1159150975,Amritsar,阿姆利则,74.868047,31.641938,Q48403,IND,Punjab,Populated place,3,1212000,ne-ne_10m_populated_places
+1159150979,Varanasi,瓦兰希,82.998094,25.331936,Q79980,IND,Uttar Pradesh,Populated place,3,1352000,ne-ne_10m_populated_places
+1159150981,Asansol,阿桑索尔,86.981387,23.685279,Q202139,IND,West Bengal,Populated place,3,1328000,ne-ne_10m_populated_places
+1159150983,Bhilai,比莱,81.372213,21.211262,Q242144,IND,Chhattisgarh,Populated place,3,1097000,ne-ne_10m_populated_places
+1159150985,Bhopal,博帕尔,77.408047,23.251934,Q80989,IND,Madhya Pradesh,Admin-1 capital,3,1727000,ne-ne_10m_populated_places
+1159150987,Madurai,马杜赖,78.118081,9.921972,Q228405,IND,Tamil Nadu,Populated place,3,1294000,ne-ne_10m_populated_places
+1159150989,Coimbatore,科伊巴拓雷,76.948075,11.001906,Q9885,IND,Tamil Nadu,Populated place,3,1696000,ne-ne_10m_populated_places
+1159150991,Vientiane,万象,102.59998,17.966693,Q9326,LAO,Vientiane [prefecture],Admin-0 capital,3,754000,ne-ne_10m_populated_places
+1159150993,Brazzaville,布拉柴维尔,15.282744,-4.25724,Q3844,COG,Pool,Admin-0 capital,3,1355000,ne-ne_10m_populated_places
+1159150997,Conakry,科纳克里,-13.682181,9.533469,Q3733,GIN,Conakry,Admin-0 capital,3,1494000,ne-ne_10m_populated_places
+1159150999,Yamoussoukro,亚穆苏克罗,-5.275503,6.818381,Q3768,CIV,Lacs,Admin-0 capital,3,206499,ne-ne_10m_populated_places
+1159151001,Cruzeiro do Sul,南克魯賽羅,-72.669968,-7.629988,Q941136,BRA,Acre,Populated place,3,56862,ne-ne_10m_populated_places
+1159151003,Leticia,莱蒂西亚,-69.955261,-4.201207,Q214913,COL,Amazonas,Admin-1 capital,3,59575,ne-ne_10m_populated_places
+1159151005,Manaus,马瑙斯,-60.001963,-3.098086,Q40236,BRA,Amazonas,Admin-1 capital,3,1753000,ne-ne_10m_populated_places
+1159151007,Caxias,卡希亚斯,-43.350026,-4.833001,Q997107,BRA,Maranh,Populated place,3,134640,ne-ne_10m_populated_places
+1159151009,Santarém,圣塔伦,-54.699979,-2.433251,Q659450,BRA,Pará,Populated place,3,230428,ne-ne_10m_populated_places
+1159151011,Marabá,马拉巴,-49.115979,-5.349972,Q509818,BRA,Pará,Populated place,3,166182,ne-ne_10m_populated_places
+1159151015,Vilhena,维列纳,-60.1166,-12.716602,Q1749958,BRA,Rondônia,Populated place,3,63231,ne-ne_10m_populated_places
+1159151017,Ji-Paraná,日帕拉纳,-61.967003,-10.833307,Q983815,BRA,Rondinia,Populated place,3,65016,ne-ne_10m_populated_places
+1159151019,Campo Grande,大坎普,-54.618571,-20.448086,Q168929,BRA,Mato Grosso do Sul,Admin-1 capital,3,778000,ne-ne_10m_populated_places
+1159151021,Florianópolis,弗洛里亚诺波利斯,-48.521966,-27.578039,Q132997,BRA,Santa Catarina,Admin-1 capital,3,1023000,ne-ne_10m_populated_places
+1159151023,Feira de Santana,费拉迪圣安娜,-38.970009,-12.250016,Q194343,BRA,Bahia,Populated place,3,481911,ne-ne_10m_populated_places
+1159151025,Winnipeg,温尼伯,-97.165992,49.882987,Q2135,CAN,Manitoba,Admin-1 capital,3,632063,ne-ne_10m_populated_places
+1159151027,Churchill,邱吉尔,-94.165994,58.765985,Q744553,CAN,Manitoba,Populated place,3,1000,ne-ne_10m_populated_places
+1159151029,Regina,里贾纳,-104.61701,50.450033,Q2123,CAN,Saskatchewan,Admin-1 capital,3,176183,ne-ne_10m_populated_places
+1159151033,Saskatoon,萨斯卡通,-106.669985,52.170031,Q10566,CAN,Saskatchewan,Populated place,3,198958,ne-ne_10m_populated_places
+1159151035,Calgary,卡尔加里,-114.081944,51.084938,Q36312,CAN,Alberta,Populated place,3,1110000,ne-ne_10m_populated_places
+1159151037,Prince Rupert,鲁珀特王子港,-130.329988,54.31667,Q1015639,CAN,British Columbia,Populated place,3,14708,ne-ne_10m_populated_places
+1159151039,Victoria,维多利亚,-123.350001,48.433283,Q2132,CAN,British Columbia,Admin-1 capital,3,289625,ne-ne_10m_populated_places
+1159151041,Arctic Bay,北極灣,-85.166621,73.033306,Q638017,CAN,Nunavut,Populated place,3,604,ne-ne_10m_populated_places
+1159151043,Resolute,雷索卢特,-94.900006,74.683334,Q606622,CAN,Nunavut,Populated place,3,250,ne-ne_10m_populated_places
+1159151045,Naujaat,努雅特,-86.282935,66.529467,Q1723761,CAN,Nunavut,Populated place,3,1000,ne-ne_10m_populated_places
+1159151047,Yellowknife,黄刀镇,-114.396981,62.442014,Q2061,CAN,Northwest Territories,Admin-1 capital,3,19234,ne-ne_10m_populated_places
+1159151051,Fort Good Hope,德望堡,-128.633322,66.266613,Q201313,CAN,Northwest Territories,Populated place,3,597,ne-ne_10m_populated_places
+1159151053,Whitehorse,白马,-135.049984,60.716719,Q2058,CAN,Yukon,Admin-1 capital,3,23276,ne-ne_10m_populated_places
+1159151055,Boa Vista,博阿维斯塔,-60.665998,2.816093,Q181056,BRA,Roraima,Admin-1 capital,3,235150,ne-ne_10m_populated_places
+1159151057,Macapá,马卡帕,-51.050021,0.033007,Q180215,BRA,Amapá,Admin-1 capital,3,499166,ne-ne_10m_populated_places
+1159151059,Ottawa,渥太华,-75.701961,45.418643,Q1930,CAN,Ontario,Admin-0 capital,3,1145000,ne-ne_10m_populated_places
+1159151061,Fort Severn,塞文堡,-87.649984,55.983339,Q3078079,CAN,Ontario,Populated place,3,125,ne-ne_10m_populated_places
+1159151063,Thunder Bay,桑德贝,-89.274975,48.44615,Q34116,CAN,Ontario,Populated place,3,99334,ne-ne_10m_populated_places
+1159151065,Québec,魁北克,-71.24561,46.839969,Q2145,CAN,Québec,Admin-1 capital,3,624177,ne-ne_10m_populated_places
+1159151069,Halifax,哈利法克斯,-63.600004,44.650025,Q2141,CAN,Nova Scotia,Admin-1 capital,3,359111,ne-ne_10m_populated_places
+1159151071,St. John's,圣约翰斯,-52.681007,47.584988,Q2082,CAN,Newfoundland and Labrador,Admin-1 capital,3,131469,ne-ne_10m_populated_places
+1159151073,Nain,奈恩,-61.686045,56.547351,Q3335210,CAN,Newfoundland and Labrador,Populated place,3,1151,ne-ne_10m_populated_places
+1159151075,Charlottetown,夏洛特顿,-63.131325,46.249282,Q2127,CAN,Prince Edward Island,Admin-1 capital,3,42402,ne-ne_10m_populated_places
+1159151077,N'Délé,恩代萊,20.653044,8.409137,Q612713,CAF,Bamingui-Bangoran,Admin-1 capital,3,11764,ne-ne_10m_populated_places
+1159151079,Belgrade,贝尔格莱德,20.466045,44.820591,Q3711,SRB,Grad Beograd,Admin-0 capital,3,1099000,ne-ne_10m_populated_places
+1159151081,Obo,奥博,26.500026,5.399992,Q1025617,CAF,Haut-Mbomou,Admin-1 capital,3,12887,ne-ne_10m_populated_places
+1159151083,Bandar Seri Begawan,斯里巴加湾,114.933284,4.883331,Q9279,BRN,Brunei and Muara,Admin-0 capital,3,296500,ne-ne_10m_populated_places
+1159151087,Puerto Deseado,德塞阿多港,-65.899968,-47.75002,Q923541,ARG,Santa Cruz,Populated place,3,3305,ne-ne_10m_populated_places
+1159151089,Río Gallegos,里奥加耶戈斯,-69.216587,-51.633297,Q44242,ARG,Santa Cruz,Admin-1 capital,3,85700,ne-ne_10m_populated_places
+1159151091,Comodoro Rivadavia,里瓦达维亚海军准将城,-67.499999,-45.870031,Q221921,ARG,Chubut,Populated place,3,140850,ne-ne_10m_populated_places
+1159151093,Mendoza,门多萨,-68.818557,-32.881384,Q44237,ARG,Mendoza,Admin-1 capital,3,893000,ne-ne_10m_populated_places
+1159151095,Sucre,苏克雷,-65.259516,-19.040971,Q2907,BOL,Chuquisaca,Admin-0 capital,3,224838,ne-ne_10m_populated_places
+1159151097,Riberalta,里韦拉尔塔,-66.100007,-10.983013,Q941357,BOL,El Beni,Populated place,3,74014,ne-ne_10m_populated_places
+1159151099,Bahía Blanca,布兰卡港,-62.265021,-38.740027,Q54108,ARG,Ciudad de Buenos Aires,Populated place,3,281536,ne-ne_10m_populated_places
+1159151101,Mar del Plata,马德普拉塔,-57.579984,-38.00002,Q52607,ARG,Ciudad de Buenos Aires,Populated place,3,555897,ne-ne_10m_populated_places
+1159151105,Córdoba,科尔多瓦,-64.18424,-31.398012,Q44210,ARG,Córdoba,Admin-1 capital,3,1452000,ne-ne_10m_populated_places
+1159151107,Posadas,波萨达斯,-55.885107,-27.357832,Q44238,ARG,Misiones,Admin-1 capital,3,357119,ne-ne_10m_populated_places
+1159151109,Belmopan,贝尔墨邦,-88.767073,17.252033,Q3043,BLZ,Cayo,Admin-0 capital,3,15220,ne-ne_10m_populated_places
+1159151111,Bangui,班吉,18.558288,4.366644,Q3832,CAF,Bangui,Admin-0 capital,3,831925,ne-ne_10m_populated_places
+1159151113,Maroua,马鲁阿,14.324696,10.595566,Q818824,CMR,Extrême-Nord,Admin-1 capital,3,319941,ne-ne_10m_populated_places
+1159151115,Yaoundé,雅温得,11.514705,3.868647,Q3808,CMR,Centre,Admin-0 capital,3,1611000,ne-ne_10m_populated_places
+1159151117,Tirana,地拉那,19.818883,41.327541,Q19689,ALB,Durrës,Admin-0 capital,3,895350,ne-ne_10m_populated_places
+1159151119,Yerevan,埃里温,44.511606,40.183097,Q1953,ARM,Erevan,Admin-0 capital,3,1102000,ne-ne_10m_populated_places
+1159151123,Baku,巴库,49.860271,40.397218,Q9248,AZE,Baki,Admin-0 capital,3,2122300,ne-ne_10m_populated_places
+1159151125,Kandahar,坎大哈,65.694946,31.61002,Q45604,AFG,Kandahar,Admin-1 capital,3,715542,ne-ne_10m_populated_places
+1159151127,Phnom Penh,金边,104.914689,11.551976,Q1850,KHM,Phnom Penh,Admin-0 capital,3,1466000,ne-ne_10m_populated_places
+1159151129,Menongue,梅农盖,17.699994,-14.666612,Q818731,AGO,Cuando Cubango,Admin-1 capital,3,13030,ne-ne_10m_populated_places
+1159151131,Huambo,万博,15.758064,-12.74804,Q207322,AGO,Huambo,Admin-1 capital,3,1100000,ne-ne_10m_populated_places
+1159151133,La Paz,拉巴斯,-68.151931,-16.496028,Q1491,BOL,La Paz,Admin-0 capital,3,1590000,ne-ne_10m_populated_places
+1159151135,Santa Cruz,圣克鲁斯,-63.227942,-17.751972,Q170688,BOL,Santa Cruz,Admin-1 capital,3,2102998,ne-ne_10m_populated_places
+1159151137,Oran,瓦赫兰,-0.621919,35.711948,Q131818,DZA,Oran,Populated place,3,798000,ne-ne_10m_populated_places
+1159151141,Cotonou,科托努,2.404355,6.36298,Q43595,BEN,Ouémé,Admin-0 capital,3,762000,ne-ne_10m_populated_places
+1159151143,Tamanrasset,塔曼拉塞特,5.522805,22.785003,Q205792,DZA,Tamanghasset,Admin-1 capital,3,76000,ne-ne_10m_populated_places
+1159151145,Ghardaia,盖尔达耶,3.669998,32.489992,Q622841,DZA,Ghardaaa,Populated place,3,125480,ne-ne_10m_populated_places
+1159151147,Sofia,索非亚,23.314708,42.685295,Q472,BGR,Grad Sofiya,Admin-0 capital,3,1185000,ne-ne_10m_populated_places
+1159151149,Minsk,明斯克,27.564681,53.901923,Q2280,BLR,Minsk,Admin-0 capital,3,1805000,ne-ne_10m_populated_places
+1159151151,Thimphu,廷布,89.639014,27.472986,Q9270,BTN,Thimphu,Admin-0 capital,3,98676,ne-ne_10m_populated_places
+1159151153,Gaborone,嘉柏隆里,25.911948,-24.646314,Q3919,BWA,South-East,Admin-0 capital,3,208411,ne-ne_10m_populated_places
+1159151155,Darwin,达尔文,130.850039,-12.425354,Q11568,AUS,Northern Territory,Admin-1 capital,3,93080,ne-ne_10m_populated_places
+1159151159,Alice Springs,爱丽斯泉,133.880034,-23.700996,Q17872,AUS,Northern Territory,Populated place,3,27710,ne-ne_10m_populated_places
+1159151161,Canberra,堪培拉,149.129026,-35.283029,Q3114,AUS,Australian Capital Territory,Admin-0 capital,3,327700,ne-ne_10m_populated_places
+1159151163,Newcastle,纽卡斯尔,151.770249,-32.929508,Q57278,AUS,New South Wales,Populated place,3,540796,ne-ne_10m_populated_places
+1159151165,Adelaide,阿德莱德,138.598059,-34.933042,Q5112,AUS,South Australia,Admin-1 capital,3,1145000,ne-ne_10m_populated_places
+1159151167,Townsville,汤斯维尔,146.769997,-19.24995,Q190021,AUS,Queensland,Populated place,3,138954,ne-ne_10m_populated_places
+1159151169,Brisbane,布里斯班,153.033147,-27.453085,Q34932,AUS,Queensland,Admin-1 capital,3,1860000,ne-ne_10m_populated_places
+1159151171,Hobart,霍巴特,147.29503,-42.850009,Q40191,AUS,Tasmania,Admin-1 capital,3,80870,ne-ne_10m_populated_places
+1159151173,Ouagadougou,瓦加杜古,-1.52667,12.372262,Q3777,BFA,Kadiogo,Admin-0 capital,3,1149000,ne-ne_10m_populated_places
+1159151177,Sarajevo,萨拉热窝,18.383002,43.850022,Q11194,BIH,Sarajevo,Admin-0 capital,3,696731,ne-ne_10m_populated_places
+1159151179,Naypyidaw,奈比多,96.116673,19.768503,Q37400,MMR,Mandalay,Admin-0 capital,3,930000,ne-ne_10m_populated_places
+1159151181,San Juan,圣胡安,-66.129979,18.440023,Q41211,PRI,,Admin-1 capital,3,2478905,ne-ne_10m_populated_places
+1159151183,Stanley,斯坦利,-57.849968,-51.700011,Q12245,FLK,,Admin-0 region capital,3,2213,ne-ne_10m_populated_places
+1159151185,Hamilton,哈密尔顿,-64.783937,32.29419,Q30985,BMU,,Admin-0 region capital,3,52320,ne-ne_10m_populated_places
+1159151187,Nuku'alofa,努库阿洛法,-175.220564,-21.138512,Q38834,TON,,Admin-0 capital,3,42620,ne-ne_10m_populated_places
+1159151189,Hargeisa,哈尔格萨,44.06531,9.560022,Q168652,SOL,,Admin-0 capital,3,477876,ne-ne_10m_populated_places
+1159151191,Victoria,維多利亞,55.44999,-4.616632,Q3940,SYC,,Admin-0 capital,3,33576,ne-ne_10m_populated_places
+1159151195,São Tomé,圣多美,6.72965,0.337466,Q3932,STP,,Admin-0 capital,3,88219,ne-ne_10m_populated_places
+1159151197,Apia,阿皮亚,-171.768599,-13.835715,Q36260,WSM,,Admin-0 capital,3,61916,ne-ne_10m_populated_places
+1159151199,Valletta,瓦莱塔,14.514711,35.899732,Q23800,MLT,,Admin-0 capital,3,368250,ne-ne_10m_populated_places
+1159151201,Malé,马累,73.508901,4.172037,Q9347,MDV,,Admin-0 capital,3,112927,ne-ne_10m_populated_places
+1159151203,Jerusalem,耶路撒冷,35.206626,31.778408,Q1218,ISR,Jerusalem,Admin-0 capital,3,1029300,ne-ne_10m_populated_places
+1159151205,Praia,培亞,-23.516689,14.916698,Q3751,CPV,,Admin-0 capital,3,113364,ne-ne_10m_populated_places
+1159151207,Nassau,拿骚,-77.350044,25.08339,Q2467,BHS,,Admin-0 capital,3,227940,ne-ne_10m_populated_places
+1159151209,Nicosia,尼科西亚,33.366635,35.166677,Q3856,CYP,,Admin-0 capital,3,224300,ne-ne_10m_populated_places
+1159151213,Kaohsiung,高雄,120.266602,22.633307,Q181557,TWN,Kaohsiung City,Admin-1 capital,3,2769072,ne-ne_10m_populated_places
+1159151215,Shenzhen,深圳,114.061154,22.548097,Q15174,CHN,Guangdong,Populated place,2,7581000,ne-ne_10m_populated_places
+1159151217,Zibo,淄博,117.99646,36.821365,Q198370,CHN,Shandong,Populated place,2,3061000,ne-ne_10m_populated_places
+1159151219,Minneapolis,明尼阿波利斯,-93.253732,44.981925,Q36091,USA,Minnesota,Populated place,2,2616000,ne-ne_10m_populated_places
+1159151221,Honolulu,檀香山,-157.858301,21.303429,Q18094,USA,Hawaii,Admin-1 capital,2,786000,ne-ne_10m_populated_places
+1159151223,Seattle,西雅图,-122.315322,47.600423,Q5083,USA,Washington,Populated place,2,3074000,ne-ne_10m_populated_places
+1159151225,Phoenix,菲尼克斯,-112.067365,33.448322,Q16556,USA,Arizona,Admin-1 capital,2,3551000,ne-ne_10m_populated_places
+1159151227,San Diego,圣迭戈,-117.150881,32.718914,Q16552,USA,California,Populated place,2,2916000,ne-ne_10m_populated_places
+1159151231,St. Louis,圣路易斯,-90.241926,38.636964,Q38022,USA,Missouri,Populated place,2,2199000,ne-ne_10m_populated_places
+1159151233,New Orleans,新奥尔良,-90.088368,29.968908,Q34404,USA,Louisiana,Populated place,2,785000,ne-ne_10m_populated_places
+1159151235,Dallas,达拉斯,-96.794687,32.771958,Q16557,USA,Texas,Populated place,2,4798000,ne-ne_10m_populated_places
+1159151237,Maracaibo,马拉开波,-71.661924,10.731923,Q171632,VEN,Zulia,Admin-1 capital,2,2072000,ne-ne_10m_populated_places
+1159151239,Boston,波士顿,-71.07196,42.331906,Q100,USA,Massachusetts,Admin-1 capital,2,4467000,ne-ne_10m_populated_places
+1159151241,Tampa,坦帕,-82.460567,27.948934,Q49255,USA,Florida,Populated place,2,2314000,ne-ne_10m_populated_places
+1159151243,Philadelphia,费城,-75.179841,39.945942,Q1345,USA,Pennsylvania,Populated place,2,5492000,ne-ne_10m_populated_places
+1159151245,Detroit,底特律,-83.051334,42.333558,Q12439,USA,Michigan,Populated place,2,4101000,ne-ne_10m_populated_places
+1159151249,Anchorage,安克雷奇,-149.887446,61.214004,Q39450,USA,Alaska,Populated place,2,260283,ne-ne_10m_populated_places
+1159151251,Hanoi,河内,105.848068,21.035273,Q1858,VNM,Thái Nguyên,Admin-0 capital,2,4378000,ne-ne_10m_populated_places
+1159151253,Ho Chi Minh City,胡志明,106.702985,10.762125,Q1854,VNM,H? Chí Minh city,Admin-1 capital,2,5314000,ne-ne_10m_populated_places
+1159151255,Ankara,安卡拉,32.862446,39.929184,Q3640,TUR,Ankara,Admin-0 capital,2,3716000,ne-ne_10m_populated_places
+1159151257,Budapest,布达佩斯,19.081375,47.501952,Q1781,HUN,Budapest,Admin-0 capital,2,1679000,ne-ne_10m_populated_places
+1159151259,Sanaa,萨那,44.204648,15.356679,Q2471,YEM,Amanat Al Asimah,Admin-0 capital,2,2008000,ne-ne_10m_populated_places
+1159151261,Barcelona,巴塞罗那,2.181424,41.385245,Q1492,ESP,Cataluña,Admin-1 capital,2,4920000,ne-ne_10m_populated_places
+1159151263,Bucharest,布加勒斯特,26.098001,44.435318,Q19660,ROU,Bucharest,Admin-0 capital,2,1942000,ne-ne_10m_populated_places
+1159151267,Aleppo,阿勒颇,37.168074,36.231917,Q41183,SYR,Aleppo (Halab),Populated place,2,2738000,ne-ne_10m_populated_places
+1159151269,Damascus,大马士革,36.29805,33.50198,Q3766,SYR,Damascus,Admin-0 capital,2,2466000,ne-ne_10m_populated_places
+1159151271,Zürich,苏黎世,8.548064,47.381934,Q72,CHE,Zürich,Admin-1 capital,2,1108000,ne-ne_10m_populated_places
+1159151273,Lisbon,里斯本,-9.146812,38.724669,Q597,PRT,Lisboa,Admin-0 capital,2,2812000,ne-ne_10m_populated_places
+1159151275,Khartoum,喀土穆,32.532233,15.590024,Q1963,SDN,Khartoum,Admin-0 capital,2,4754000,ne-ne_10m_populated_places
+1159151277,Jeddah,吉达,39.217252,21.518835,Q374365,SAU,Makkah,Populated place,2,3012000,ne-ne_10m_populated_places
+1159151279,Makkah,麦加,39.818094,21.431967,Q5806,SAU,Makkah,Populated place,2,1385000,ne-ne_10m_populated_places
+1159151281,Oslo,奥斯陆,10.748033,59.918636,Q585,NOR,Oslo,Admin-0 capital,2,835000,ne-ne_10m_populated_places
+1159151285,Lahore,拉合尔,74.348079,31.561917,Q11739,PAK,Punjab,Admin-1 capital,2,6577000,ne-ne_10m_populated_places
+1159151287,Karachi,卡拉奇,66.988063,24.871938,Q8660,PAK,Sind,Admin-1 capital,2,12130000,ne-ne_10m_populated_places
+1159151289,Durban,德班,31.010944,-29.860662,Q5468,ZAF,KwaZulu-Natal,Populated place,2,2729000,ne-ne_10m_populated_places
+1159151291,St.  Petersburg,圣彼得堡,30.314074,59.94096,Q656,RUS,City of St. Petersburg,Admin-1 capital,2,4553000,ne-ne_10m_populated_places
+1159151293,Guadalajara,瓜达拉哈拉,-103.33198,20.671962,Q9022,MEX,Jalisco,Admin-1 capital,2,4198000,ne-ne_10m_populated_places
+1159151295,Puebla,普埃布拉,-98.203737,19.032594,Q125293,MEX,Puebla,Admin-1 capital,2,2195000,ne-ne_10m_populated_places
+1159151297,Kano,卡诺,8.518092,12.001923,Q182984,NGA,Kano,Admin-1 capital,2,3140000,ne-ne_10m_populated_places
+1159151299,Warsaw,华沙,21.005347,52.230872,Q270,POL,Masovian,Admin-0 capital,2,1707000,ne-ne_10m_populated_places
+1159151303,Pyongyang,平壤,125.752745,39.021385,Q18808,PRK,P'yongyang,Admin-0 capital,2,3300000,ne-ne_10m_populated_places
+1159151305,Dar es Salaam,三蘭港,39.266396,-6.798067,Q1960,TZA,Dar-Es-Salaam,Admin-0 capital,2,2930000,ne-ne_10m_populated_places
+1159151307,Medan,棉兰,98.648094,3.58192,Q5972,IDN,Sumatera Utara,Admin-1 capital,2,2115000,ne-ne_10m_populated_places
+1159151309,Dublin,都柏林,-6.25698,53.346731,Q1761,IRL,Dublin,Admin-0 capital,2,1059000,ne-ne_10m_populated_places
+1159151311,Monrovia,蒙罗维亚,-10.79966,6.314582,Q3748,LBR,Montserrado,Admin-0 capital,2,1041000,ne-ne_10m_populated_places
+1159151313,Naples,那不勒斯,14.243066,40.841971,Q2634,ITA,Campania,Admin-1 region capital,2,2250000,ne-ne_10m_populated_places
+1159151315,Milan,米兰,9.203063,45.471921,Q490,ITA,Lombardia,Admin-1 region capital,2,2945000,ne-ne_10m_populated_places
+1159151317,Kuala Lumpur,吉隆坡,101.688699,3.139797,Q1865,MYS,Selangor,Admin-0 capital,2,1448000,ne-ne_10m_populated_places
+1159151321,Lanzhou,兰州,103.790054,36.057974,Q183584,CHN,Gansu,Admin-1 capital,2,2561000,ne-ne_10m_populated_places
+1159151323,Nanning,南宁,108.318099,22.821934,Q179608,CHN,Guangxi,Admin-1 capital,2,2167000,ne-ne_10m_populated_places
+1159151325,Guiyang,贵阳,106.718093,26.581989,Q192271,CHN,Guizhou,Admin-1 capital,2,3662000,ne-ne_10m_populated_places
+1159151327,Chongqing,重庆,106.593036,29.566923,Q11725,CHN,Chongqing,Admin-1 capital,2,6461000,ne-ne_10m_populated_places
+1159151329,Fuzhou,福州,119.2981,26.081942,Q68481,CHN,Fujian,Admin-1 capital,2,2606000,ne-ne_10m_populated_places
+1159151331,Guangzhou,广州,113.261785,23.124723,Q16572,CHN,Guangdong,Admin-1 capital,2,8829000,ne-ne_10m_populated_places
+1159151333,Dongguan,东莞,113.750474,23.021537,Q59218,CHN,Guangdong,Populated place,2,4528000,ne-ne_10m_populated_places
+1159151335,Bandung,万隆,107.568067,-6.948083,Q10389,IDN,Jawa Barat,Admin-1 capital,2,2394000,ne-ne_10m_populated_places
+1159151339,Surabaya,泗水,112.748887,-7.24729,Q11462,IDN,Jawa Timur,Admin-1 capital,2,2845000,ne-ne_10m_populated_places
+1159151341,Guayaquil,瓜亚基尔,-79.921988,-2.218088,Q43509,ECU,Guayas,Admin-1 capital,2,2514000,ne-ne_10m_populated_places
+1159151343,Medellín,麦德林,-75.576956,6.276949,Q48278,COL,Antioquia,Admin-1 capital,2,3297000,ne-ne_10m_populated_places
+1159151345,Cali,卡利,-76.501912,3.401905,Q51103,COL,Valle del Cauca,Admin-1 capital,2,2254000,ne-ne_10m_populated_places
+1159151347,Havana,哈瓦那,-82.366128,23.133905,Q1563,CUB,Ciudad de la Habana,Admin-0 capital,2,2174000,ne-ne_10m_populated_places
+1159151349,Alexandria,亚历山大港,29.94805,31.201965,Q87,EGY,Al Iskandariyah,Populated place,2,4165000,ne-ne_10m_populated_places
+1159151351,Frankfurt,美因河畔法兰克福,8.675015,50.099977,Q1794,DEU,Hessen,Populated place,2,2895000,ne-ne_10m_populated_places
+1159151353,Hamburg,汉堡,9.998053,53.551971,Q1055,DEU,Hamburg,Admin-1 capital,2,1757000,ne-ne_10m_populated_places
+1159151357,Munich,慕尼黑,11.573048,48.131888,Q1726,DEU,Bayern,Admin-1 capital,2,1275000,ne-ne_10m_populated_places
+1159151359,Prague,布拉格,14.422939,50.086967,Q1085,CZE,Prague,Admin-0 capital,2,1162000,ne-ne_10m_populated_places
+1159151361,Kuwait City,科威特城,47.976355,29.371664,Q35178,KWT,Al Kuwayt,Admin-0 capital,2,2063000,ne-ne_10m_populated_places
+1159151363,Xian,西安,108.89305,34.276971,Q5826,CHN,Shaanxi,Admin-1 capital,2,4009000,ne-ne_10m_populated_places
+1159151365,Taiyuan,太原,112.543112,37.876958,Q72778,CHN,Shanxi,Admin-1 capital,2,2913000,ne-ne_10m_populated_places
+1159151367,Wuhan,武汉,114.268071,30.581977,Q11746,CHN,Hubei,Admin-1 capital,2,7243000,ne-ne_10m_populated_places
+1159151369,Changsha,长沙,112.968047,28.201916,Q174091,CHN,Hunan,Admin-1 capital,2,2604000,ne-ne_10m_populated_places
+1159151371,Kunming,昆明,102.69744,25.042859,Q182852,CHN,Yunnan,Admin-1 capital,2,2931000,ne-ne_10m_populated_places
+1159151375,Zhengzhou,郑州,113.663147,34.756942,Q30340,CHN,Henan,Admin-1 capital,2,2636000,ne-ne_10m_populated_places
+1159151377,Shenyeng,沈阳,123.448028,41.806925,Q11720,CHN,Liaoning,Admin-1 capital,2,4787000,ne-ne_10m_populated_places
+1159151379,Jinan,济南,116.993073,36.676928,Q170247,CHN,Shandong,Admin-1 capital,2,2798000,ne-ne_10m_populated_places
+1159151381,Tianjin,天津,117.196607,39.082772,Q11736,CHN,Tianjin,Admin-1 capital,2,7180000,ne-ne_10m_populated_places
+1159151383,Nanchang,南昌,115.87805,28.681938,Q171943,CHN,Jiangxi,Admin-1 capital,2,2350000,ne-ne_10m_populated_places
+1159151385,Nanjing,南京,118.778029,32.051965,Q16666,CHN,Jiangsu,Admin-1 capital,2,3679000,ne-ne_10m_populated_places
+1159151387,Hangzhou,杭州,120.168073,30.25192,Q4970,CHN,Zhejiang,Admin-1 capital,2,3007000,ne-ne_10m_populated_places
+1159151389,Hiroshima,广岛,132.440967,34.389781,Q34664,JPN,Hiroshima,Admin-1 region capital,2,2045000,ne-ne_10m_populated_places
+1159151393,Changchun,长春,125.338042,43.866954,Q92161,CHN,Jilin,Admin-1 capital,2,3183000,ne-ne_10m_populated_places
+1159151395,Baotou,包头,109.820074,40.654153,Q569907,CHN,Nei Mongol,Populated place,2,2036000,ne-ne_10m_populated_places
+1159151397,Harbin,哈尔滨,126.648039,45.75193,Q42956,CHN,Heilongjiang,Admin-1 capital,2,3621000,ne-ne_10m_populated_places
+1159151399,Sapporo,札幌,141.338099,43.076925,Q37951,JPN,Hokkaido,Admin-1 region capital,2,2544000,ne-ne_10m_populated_places
+1159151401,Santo Domingo,圣多明哥,-69.929742,18.470745,Q34820,DOM,Distrito Nacional,Admin-0 capital,2,2154000,ne-ne_10m_populated_places
+1159151403,Accra,阿克拉,-0.218662,5.55198,Q3761,GHA,Greater Accra,Admin-0 capital,2,2121000,ne-ne_10m_populated_places
+1159151405,Delhi,德里,77.228058,28.671939,Q1353,IND,Delhi,Populated place,2,15926000,ne-ne_10m_populated_places
+1159151407,Hyderabad,海德拉巴,78.478008,17.401929,Q1361,IND,Telangana,Admin-1 capital,2,6376000,ne-ne_10m_populated_places
+1159151411,Pune,浦那,73.851892,18.516394,Q1538,IND,Maharashtra,Populated place,2,4672000,ne-ne_10m_populated_places
+1159151413,Nagpur,纳格普尔,79.088048,21.171906,Q1513,IND,Maharashtra,Populated place,2,2454000,ne-ne_10m_populated_places
+1159151415,Tripoli,的黎波里,13.180012,32.8925,Q3579,LBY,Tajura' wa an Nawahi al Arba,Admin-0 capital,2,2189000,ne-ne_10m_populated_places
+1159151417,Tel Aviv,特拉维夫,34.768066,32.081937,Q33935,ISR,Tel Aviv,Admin-0 capital alt,2,3112000,ne-ne_10m_populated_places
+1159151419,Helsinki,赫尔辛基,24.932457,60.163804,Q1757,FIN,Southern Finland,Admin-0 capital,2,1115000,ne-ne_10m_populated_places
+1159151421,Mashhad,马什哈德,59.568051,36.271966,Q121157,IRN,Razavi Khorasan,Admin-1 capital,2,2469000,ne-ne_10m_populated_places
+1159151423,Jaipur,斋浦尔,75.808042,26.923079,Q66485,IND,Rajasthan,Admin-1 capital,2,2917000,ne-ne_10m_populated_places
+1159151425,Kanpur,坎普尔,80.31805,26.461945,Q66568,IND,Uttar Pradesh,Populated place,2,3162000,ne-ne_10m_populated_places
+1159151429,Patna,巴特那,85.128093,25.626905,Q80484,IND,Bihar,Admin-1 capital,2,2158000,ne-ne_10m_populated_places
+1159151431,Chennai,金奈,80.278053,13.091934,Q1352,IND,Tamil Nadu,Admin-1 capital,2,7163000,ne-ne_10m_populated_places
+1159151433,Ahmedabad,阿麼达巴德,72.578058,23.031999,Q1070,IND,Dadra and Nagar Haveli,Populated place,2,5375000,ne-ne_10m_populated_places
+1159151435,Surat,苏拉特,72.838094,21.20193,Q4629,IND,Dadra and Nagar Haveli,Populated place,2,3842000,ne-ne_10m_populated_places
+1159151437,København,哥本哈根,12.56154,55.68051,Q1748,DNK,Hovedstaden,Admin-0 capital,2,1085000,ne-ne_10m_populated_places
+1159151439,Abidjan,阿比让,-4.020207,5.323126,Q1515,CIV,Lagunes,Admin-0 capital,2,3802000,ne-ne_10m_populated_places
+1159151441,Belém,贝伦,-48.481969,-1.448057,Q12829733,BRA,Pará,Admin-1 capital,2,2167000,ne-ne_10m_populated_places
+1159151443,Brasília,巴西利亚,-47.917998,-15.781394,Q2844,BRA,Distrito Federal,Admin-0 capital,2,3716996,ne-ne_10m_populated_places
+1159151447,Porto Alegre,阿雷格里港,-51.201958,-30.048069,Q40269,BRA,Rio Grande do Sul,Admin-1 capital,2,3917000,ne-ne_10m_populated_places
+1159151449,Curitiba,库里奇巴,-49.321944,-25.418067,Q4361,BRA,Paraná,Admin-1 capital,2,3084000,ne-ne_10m_populated_places
+1159151451,Fortaleza,福塔雷萨,-38.581927,-3.748072,Q43463,BRA,Ceará,Admin-1 capital,2,3602319,ne-ne_10m_populated_places
+1159151453,Salvador,萨尔瓦多,-38.481933,-12.968026,Q36947,BRA,Bahia,Admin-1 capital,2,3484000,ne-ne_10m_populated_places
+1159151455,Edmonton,埃德蒙顿,-113.501928,53.551971,Q2096,CAN,Alberta,Admin-1 capital,2,1058000,ne-ne_10m_populated_places
+1159151457,Montréal,蒙特利尔,-73.585243,45.501945,Q340,CAN,Québec,Populated place,2,3678000,ne-ne_10m_populated_places
+1159151459,Goiânia,戈亚尼亚,-49.301971,-16.718081,Q83189,BRA,Goiás,Admin-1 capital,2,2022000,ne-ne_10m_populated_places
+1159151461,Recife,累西腓,-34.908766,-8.060532,Q48344,BRA,Pernambuco,Admin-1 capital,2,3651000,ne-ne_10m_populated_places
+1159151465,Brussels,布鲁塞尔,4.331371,50.835263,Q239,BEL,Brussels,Admin-0 capital,2,1743000,ne-ne_10m_populated_places
+1159151467,Dhaka,达卡,90.406634,23.725006,Q1354,BGD,Dhaka,Admin-0 capital,2,12797394,ne-ne_10m_populated_places
+1159151469,Luanda,罗安达,13.232481,-8.83634,Q3897,AGO,Luanda,Admin-0 capital,2,5172900,ne-ne_10m_populated_places
+1159151471,Algiers,阿尔及尔,3.048607,36.765011,Q3561,DZA,Alger,Admin-0 capital,2,3354000,ne-ne_10m_populated_places
+1159151473,Chattogram,吉大港,91.798022,22.331938,Q376749,BGD,Chittagong,Admin-1 capital,2,4529000,ne-ne_10m_populated_places
+1159151475,Perth,珀斯,115.838053,-31.953069,Q3183,AUS,Western Australia,Admin-1 capital,2,1532000,ne-ne_10m_populated_places
+1159151477,Yangon,仰光,96.164732,16.7853,Q37995,MMR,Yangon,Admin-0 capital,2,4088000,ne-ne_10m_populated_places
+1159151479,San Francisco,旧金山,-122.3996,37.784263,Q62,USA,California,Populated place,1,3450000,ne-ne_10m_populated_places
+1159151483,Denver,丹佛,-104.985962,39.741134,Q16554,USA,Colorado,Admin-1 capital,1,2313000,ne-ne_10m_populated_places
+1159151485,Houston,休斯敦,-95.348436,29.741273,Q16555,USA,Texas,Populated place,1,4459000,ne-ne_10m_populated_places
+1159151487,Miami,迈阿密,-80.226052,25.789557,Q8652,USA,Florida,Populated place,1,5585000,ne-ne_10m_populated_places
+1159151489,Atlanta,亚特兰大,-84.367642,33.739457,Q23556,USA,Georgia,Admin-1 capital,1,4506000,ne-ne_10m_populated_places
+1159151491,Chicago,芝加哥,-87.635237,41.847961,Q1297,USA,Illinois,Populated place,1,8990000,ne-ne_10m_populated_places
+1159151493,Caracas,加拉加斯,-66.918983,10.502944,Q1533,VEN,Distrito Capital,Admin-0 capital,1,2985000,ne-ne_10m_populated_places
+1159151495,Kyiv,基辅,30.514682,50.435313,Q1899,UKR,Kiev,Admin-0 capital,1,2709000,ne-ne_10m_populated_places
+1159151497,Dubai,迪拜,55.286946,25.214912,Q612,ARE,Dubay,Admin-1 capital,1,1379000,ne-ne_10m_populated_places
+1159151501,Tashkent,塔什干,69.268823,41.303828,Q269,UZB,Tashkent,Admin-0 capital,1,2184000,ne-ne_10m_populated_places
+1159151503,Madrid,马德里,-3.685297,40.401972,Q2807,ESP,Comunidad de Madrid,Admin-0 capital,1,5567000,ne-ne_10m_populated_places
+1159151505,Geneva,日内瓦,6.140028,46.210008,Q71,CHE,Genève,Admin-1 capital,1,1240000,ne-ne_10m_populated_places
+1159151507,Stockholm,斯德哥尔摩,18.0663,59.324127,Q1754,SWE,Stockholm,Admin-0 capital,1,1264000,ne-ne_10m_populated_places
+1159151509,Bangkok,曼谷,100.514699,13.751945,Q1861,THA,Bangkok Metropolis,Admin-0 capital,1,6704000,ne-ne_10m_populated_places
+1159151511,Lima,利马,-77.052008,-12.046067,Q2868,PER,Lima,Admin-0 capital,1,8012000,ne-ne_10m_populated_places
+1159151513,Dakar,达喀尔,-17.475076,14.717778,Q3718,SEN,Dakar,Admin-0 capital,1,2604000,ne-ne_10m_populated_places
+1159151515,Johannesburg,约翰内斯堡,28.028064,-26.168099,Q34647,ZAF,Gauteng,Admin-0 capital,1,3435000,ne-ne_10m_populated_places
+1159151519,Amsterdam,阿姆斯特丹,4.914694,52.351914,Q727,NLD,Noord-Holland,Admin-0 capital,1,1031000,ne-ne_10m_populated_places
+1159151521,Casablanca,卡萨布兰卡,-7.618313,33.601922,Q7903,MAR,Grand Casablanca,Admin-1 capital,1,3181000,ne-ne_10m_populated_places
+1159151523,Seoul,首尔,126.997785,37.568295,Q8684,KOR,Seoul,Admin-0 capital,1,9796000,ne-ne_10m_populated_places
+1159151525,Manila,马尼拉,120.980271,14.606105,Q1461,PHL,Metropolitan Manila,Admin-0 capital,1,11100000,ne-ne_10m_populated_places
+1159151527,Monterrey,蒙特雷,-100.331931,25.671941,Q81033,MEX,Nuevo León,Admin-1 capital,1,3712000,ne-ne_10m_populated_places
+1159151529,Berlin,柏林,13.399603,52.523764,Q64,DEU,Berlin,Admin-0 capital,1,3406000,ne-ne_10m_populated_places
+1159151531,Ürümqi,乌鲁木齐,87.57306,43.806958,Q16959,CHN,Xinjiang Uygur,Admin-1 capital,1,3575000,ne-ne_10m_populated_places
+1159151533,Chengdu,成都,104.068074,30.671946,Q30002,CHN,Sichuan,Admin-1 capital,1,4123000,ne-ne_10m_populated_places
+1159151537,Ōsaka,大阪,135.503754,34.691095,Q35765,JPN,Osaka,Admin-1 region capital,1,11294000,ne-ne_10m_populated_places
+1159151539,Kinshasa,金沙萨,15.313026,-4.327778,Q3838,COD,Kinshasa City,Admin-0 capital,1,7843000,ne-ne_10m_populated_places
+1159151541,New Delhi,新德里,77.19998,28.600023,Q987,IND,Delhi,Admin-0 capital,1,317797,ne-ne_10m_populated_places
+1159151543,Bengaluru,班加罗尔,77.558064,12.971941,Q1355,IND,Karnataka,Admin-1 capital,1,6787000,ne-ne_10m_populated_places
+1159151545,Athens,雅典,23.731375,37.985272,Q1524,GRC,Attiki,Admin-0 capital,1,3242000,ne-ne_10m_populated_places
+1159151547,Baghdad,巴格达,44.391923,33.340594,Q1530,IRQ,Baghdad,Admin-0 capital,1,5054000,ne-ne_10m_populated_places
+1159151549,Addis Ababa,亚的斯亚贝巴,38.698059,9.035256,Q3624,ETH,Addis Ababa,Admin-0 capital,1,3100000,ne-ne_10m_populated_places
+1159151551,Tehran,德黑兰,51.422398,35.673889,Q3616,IRN,Tehran,Admin-0 capital,1,7873000,ne-ne_10m_populated_places
+1159151555,Vancouver,温哥华,-123.12359,49.275362,Q24639,CAN,British Columbia,Populated place,1,2313328,ne-ne_10m_populated_places
+1159151557,Toronto,多伦多,-79.389459,43.664645,Q172,CAN,Ontario,Admin-1 capital,1,5213000,ne-ne_10m_populated_places
+1159151559,Buenos Aires,布宜诺斯艾利斯,-58.432513,-34.610715,Q1486,ARG,Ciudad de Buenos Aires,Admin-0 capital,1,12795000,ne-ne_10m_populated_places
+1159151561,Kabul,喀布尔,69.181314,34.518636,Q5838,AFG,Kabul,Admin-0 capital,1,3277000,ne-ne_10m_populated_places
+1159151563,Vienna,维也纳,16.364693,48.201961,Q1741,AUT,Wien,Admin-0 capital,1,2400000,ne-ne_10m_populated_places
+1159151565,Melbourne,墨尔本,144.97307,-37.818086,Q3141,AUS,Victoria,Admin-1 capital,1,4170000,ne-ne_10m_populated_places
+1159151567,Taipei,台北,121.568333,25.035833,Q1867,TWN,Taipei City,Admin-0 capital,1,6900273,ne-ne_10m_populated_places
+1159151569,Los Angeles,洛杉矶,-118.231986,34.049219,Q65,USA,California,Populated place,0,12500000,ne-ne_10m_populated_places
+1159151573,"Washington,  D.C.",华盛顿哥伦比亚特区,-77.011364,38.901495,Q61,USA,District of Columbia,Admin-0 capital,0,4338000,ne-ne_10m_populated_places
+1159151575,New York,纽约,-73.995718,40.721562,Q60,USA,New York,Populated place,0,19040000,ne-ne_10m_populated_places
+1159151577,London,伦敦,-0.118668,51.501941,Q84,GBR,Westminster,Admin-0 capital,0,8567000,ne-ne_10m_populated_places
+1159151579,Istanbul,伊斯坦布尔,28.974277,41.017602,Q406,TUR,Istanbul,Admin-1 capital,0,10061000,ne-ne_10m_populated_places
+1159151581,Riyadh,利雅德,46.720487,24.634497,Q3692,SAU,Ar Riyad,Admin-0 capital,0,4465000,ne-ne_10m_populated_places
+1159151583,Cape Town,开普敦,18.433042,-33.918065,Q5465,ZAF,Western Cape,Admin-0 capital,0,3215000,ne-ne_10m_populated_places
+1159151585,Moscow,莫斯科,37.613577,55.75411,Q649,RUS,Moskva,Admin-0 capital,0,10452000,ne-ne_10m_populated_places
+1159151587,Mexico City,墨西哥城,-99.132934,19.444388,Q1489,MEX,Distrito Federal,Admin-0 capital,0,19028000,ne-ne_10m_populated_places
+1159151591,Lagos,拉各斯,3.389585,6.445208,Q8673,NGA,Lagos,Admin-0 capital alt,0,9466000,ne-ne_10m_populated_places
+1159151593,Rome,罗马,12.481313,41.897902,Q220,ITA,Lazio,Admin-0 capital,0,3339000,ne-ne_10m_populated_places
+1159151595,Beijing,北京,116.394201,39.90172,Q956,CHN,Beijing,Admin-0 capital,0,11106000,ne-ne_10m_populated_places
+1159151597,Nairobi,内罗毕,36.814711,-1.281401,Q3870,KEN,Nairobi,Admin-0 capital,0,3010000,ne-ne_10m_populated_places
+1159151599,Jakarta,雅加达,106.827492,-6.172472,Q3630,IDN,Jakarta Raya,Admin-0 capital,0,9125000,ne-ne_10m_populated_places
+1159151601,Bogota,波哥大,-74.08529,4.598369,Q2841,COL,Bogota,Admin-0 capital,0,7772000,ne-ne_10m_populated_places
+1159151603,Cairo,开罗,31.248022,30.051906,Q85,EGY,Al Qahirah,Admin-0 capital,0,11893000,ne-ne_10m_populated_places
+1159151605,Shanghai,上海,121.434559,31.218398,Q8686,CHN,Shanghai,Admin-1 capital,0,14987000,ne-ne_10m_populated_places
+1159151609,Tokyo,东京,139.749462,35.686963,Q1490,JPN,Tokyo,Admin-0 capital,0,35676000,ne-ne_10m_populated_places
+1159151611,Mumbai,孟买,72.875839,19.068408,Q1156,IND,Maharashtra,Admin-1 capital,0,18978000,ne-ne_10m_populated_places
+1159151613,Paris,巴黎,2.352992,48.858092,Q90,FRA,Île-de-France,Admin-0 capital,0,9904000,ne-ne_10m_populated_places
+1159151615,Santiago,圣地亚哥,-70.650504,-33.440205,Q2887,CHL,Región Metropolitana de Santiago,Admin-0 capital,0,5720000,ne-ne_10m_populated_places
+1159151617,Kolkata,加尔各答,88.369126,22.569579,Q1348,IND,West Bengal,Admin-1 capital,0,14787000,ne-ne_10m_populated_places
+1159151619,Rio de Janeiro,里约热内卢,-43.212117,-22.907308,Q8678,BRA,Rio de Janeiro,Admin-1 capital,0,11748000,ne-ne_10m_populated_places
+1159151621,São Paulo,圣保罗,-46.626966,-23.556734,Q174,BRA,São Paulo,Admin-1 capital,0,18845000,ne-ne_10m_populated_places
+1159151623,Sydney,悉尼,151.212548,-33.871373,Q3130,AUS,New South Wales,Admin-1 capital,0,4630000,ne-ne_10m_populated_places
+1159151627,Singapore,新加坡,103.853875,1.294979,Q334,SGP,,Admin-0 capital,0,5183700,ne-ne_10m_populated_places
+1159151629,Hong Kong,香港,114.183064,22.306927,Q8646,HKG,,Admin-0 region capital,0,7206000,ne-ne_10m_populated_places
+1159151699,Wellington,惠灵顿,174.777201,-41.292068,Q23661,NZL,Manawatu-Wanganui,Admin-0 capital,3,393400,ne-ne_10m_populated_places
+1159151701,Christchurch,克赖斯特彻奇,172.630023,-43.535022,Q79990,NZL,Canterbury,Admin-1 capital,3,363200,ne-ne_10m_populated_places
+1159151703,Auckland,奥克兰都会区,174.763027,-36.848055,Q37100,NZL,Auckland,Admin-1 capital,1,1377200,ne-ne_10m_populated_places
+1730025037,Amaravati,阿马拉瓦蒂,80.52432,16.533658,Q19881964,IND,Andhra Pradesh,Admin-1 capital,4,5800000,ne-ne_10m_populated_places

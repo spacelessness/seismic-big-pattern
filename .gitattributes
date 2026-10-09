@@ -1,0 +1,9 @@
+# Deterministic metadata/derivatives on all platforms.
+data/derived/** text eol=lf
+data/metadata/** text eol=lf
+scripts/** text eol=lf
+examples/** text eol=lf
+tests/** text eol=lf
+# Preserve upstream bytes exactly, including upstream whitespace/line endings.
+data/raw/** -text -whitespace
+data/licenses/** -text -whitespace
