@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "generator": "scripts/build_regional_catalogs.py",
+  "source_sha256": "7a8f6787d39a5b3fba6fc850b1a3e2762c9c7a46d5227574a5b13646cf317ba7",
+  "source_record": 21787957,
+  "license": "CC-BY-4.0",
+  "path": "catalog.csv.gz",
+  "bytes": 10843784,
+  "sha256": "f10893b5bbc221aafacdca3f1951fc8434e1f402a4e583a45e8e217d4f9a9cbc",
+  "transformations": [
+    "Parsed per-source columns; all source records kept in original order.",
+    "IDs are local source-row references, NOT authoritative global event IDs.",
+    "Spreadsheet dates: Excel 1900 epoch, rounded to ms; original serial retained.",
+    "UTC conversion ONLY for the workbook with explicit UTC+8 header.",
+    "A bare '-' in numeric fields is preserved verbatim and counted as missing, never zero.",
+    "AI magnitude type ML is from the dataset description; other undocumented types left blank.",
+    "Text-file depth/quality units and coordinate datum not assumed.",
+    "No spatial/magnitude cutoff, deduplication, declustering, or homogenization."
+  ],
+  "summary": {
+    "records": 380886,
+    "first_source_time": "2019-01-01T00:01:03.850",
+    "last_source_time": "2020-12-31T23:56:17.860",
+    "bbox_wsen": [
+      98.17,
+      26.058,
+      107.882,
+      34.157
+    ],
+    "magnitude_min": -1.7,
+    "magnitude_max": 6.1,
+    "magnitude_types": {
+      "ML": 380886
+    },
+    "magnitude_value_counts": {
+      "0to2": 269110,
+      "negative": 77665,
+      "zero": 26954,
+      "2to3": 6473,
+      "3to4": 605,
+      "ge5": 11,
+      "4to5": 68
+    },
+    "depth_value_min": 0.0,
+    "depth_value_max": 40.2,
+    "depth_value_missing": 0,
+    "exact_duplicate_rows_preserved": 0,
+    "annual_counts_source_time": {
+      "2019": 192810,
+      "2020": 188076
+    }
+  }
+}

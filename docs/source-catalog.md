@@ -12,8 +12,12 @@
 | [CN-faults](https://docs.gmt-china.org/latest/dataset/CN-faults/) | 中国活断层数据库 CAFDv2023 的 GMT 社区转换版 | **已下载、本地保留** | 中国断裂背景；需核验数据许可与基准 |
 | [CN-block](https://docs.gmt-china.org/latest/dataset/CN-block/) | 中国活动地块论文图件的社区数字化 | **已下载、本地保留** | 一级、一级推断、二级地块边界线 |
 | [CN-border](https://docs.gmt-china.org/latest/dataset/CN-border/) | 官方基础地理数据来源的社区派生 | **已下载、本地保留** | 科研参考；不替代官方原始数据和地图审核 |
+| [USGS ComCat](https://earthquake.usgs.gov/fdsnws/event/1/) 区域快照 | USGS 官方地震目录接口 | **已入库**：125,721 事件（1901–2026），无震级下限 | 中国及周边长时段背景；震级未均一化；非全国小震完备目录 |
+| [青藏高原 1970–2022](https://zenodo.org/records/14525785) | 研究者整理（说明来源为 CENC），CC BY 4.0 | **已入库**：27,050 条，UTC+8 表头已换算 | M3+ 为主；258 条深度缺测；非官方直发 |
+| [四川及邻区 2013–2018](https://zenodo.org/records/5602183) | 研究者整理，CC BY 4.0 | **已入库**：199,292 条 | 时区/震级类型未说明；止于 2018-05-26 |
+| [四川 AI 目录 2019–2020 v2](https://zenodo.org/records/21787957) | 研究者 AI 检出目录，CC BY 4.0 | **已入库**：380,886 条 | 含负震级；时区未说明；禁与常规目录拼接 |
 
-上游权威性分级并不是精度保证；尤其 PB2002 和 CN-block 是历史模型，不能描述所有后续发现。
+上游权威性分级并不是精度保证；尤其 PB2002 和 CN-block 是历史模型，不能描述所有后续发现。四个地震目录分开存放、互不合并，详见 [已入库地震目录](earthquake-catalogs.md)。
 
 ## 优先补齐：官方边界与地震学数据
 
@@ -21,8 +25,8 @@
 |---|---|---|---|
 | P0 | [全国基础地理信息数据](https://www.webmap.cn/commres.do?method=result100W)、[天地图数据资源](https://cloudcenter.tianditu.gov.cn/dataSource) | 1:100 万境界与政区、居民地/地名层，保留 CGCS2000 与版本 | **未取得官方包**；原平台页面本次遇 WAF；应按当前平台申请 |
 | P0 | [自然资源部标准地图](https://bzdt.ch.mnr.gov.cn/) | 与发表图范围一致的官方标准底图及审图信息 | **仅登记**；本次页面未成功获取 |
-| P0 | [国家地震科学数据中心](https://data.earthquake.cn/) / [中国地震台网](https://news.ceic.ac.cn/) | 中国正式地震目录、历史地震目录、震源机制 | **仅登记**；区分正式目录和自动/速报结果，核验使用条款 |
-| P1 | [USGS ComCat FDSN](https://earthquake.usgs.gov/fdsnws/event/1/) | 区域/全球事件 CSV 或 GeoJSON，保留 id、magType、误差、更新时间 | **仅登记/提供查询配方**；未在本次环境下载事件数据 |
+| P0 | [国家地震科学数据中心](https://data.earthquake.cn/) / [中国地震台网](https://news.ceic.ac.cn/) | 中国正式地震目录、历史地震目录、震源机制 | **官方页面已核查，未取得全量导出**；申请清单见 [中国官方目录说明](china-earthquake-catalog-requests.md) |
+| P1 | [USGS ComCat FDSN](https://earthquake.usgs.gov/fdsnws/event/1/) | 区域/全球事件 CSV 或 GeoJSON，保留 id、magType、误差、更新时间 | **区域快照已入库**；后续更新用 `scripts/collect_usgs_catalog.py` 另建快照目录 |
 | P1 | [ISC-GEM](https://www.isc.ac.uk/iscgem/) | 长时段大震分析的均一化目录 | **仅登记候选入口**；未核查当前具体版本/条款，不能与 ComCat 无条件拼接 |
 | P1 | [Global CMT](https://www.globalcmt.org/CMTfiles.html) | NDK 震源机制、矩张量 | **仅登记**；保留矩心与震源位置区别、quick/正式状态 |
 | P1 | [中国地震台网中心 CMT](https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_dzzyjz) | 中国大陆中强震及全球强震矩张量解 | **仅登记**；DOI `10.12080/nedc.11.ds.2022.0005` |

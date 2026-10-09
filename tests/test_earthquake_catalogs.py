@@ -12,6 +12,8 @@ from urllib.parse import parse_qs, urlparse
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from collect_usgs_catalog import (Collector, MAPPING, MS, REQUIRED, csv_bytes, compressed,
     iso, parse_csv, timestamp, validate_row, write_snapshot, is_small_medium)
+from build_regional_catalogs import (analyze, empty_row, excel_datetime, local_iso,
+    local_time, regional_number)
 from collect_zenodo_catalogs import safe_file_url
 from validate_earthquake_catalogs import verify_usgs
 
@@ -105,6 +107,56 @@ class CatalogTests(unittest.TestCase):
         for url in ['https://example.org/file', 'http://zenodo.org/file', 'file:///etc/passwd']:
             with self.assertRaises(ValueError):
                 safe_file_url(url)
+
+    def test_regional_dash_is_missing_never_zero(self):
+        self.assertIsNone(regional_number(''))
+        self.assertIsNone(regional_number('-'))
+        self.assertEqual(regional_number('2.5'), 2.5)
+        self.assertEqual(regional_number('-0.5'), -0.5)
+        with self.assertRaises(ValueError):
+            regional_number('nan')
+
+    def test_local_time_validates_calendar(self):
+        dt = local_time('2019', '06', '17', '22', '55', '43.25')
+        self.assertEqual(local_iso(dt), '2019-06-17T22:55:43.250')
+        for bad in [('2019', '13', '01', '00', '00', '01'),
+                    ('2019', '01', '01', '00', '00', '60'),
+                    ('2019', '01', '01', '00', '00', '-1')]:
+            with self.assertRaises(ValueError):
+                local_time(*bad)
+
+    def test_excel_datetime_rounds_to_millisecond(self):
+        # Pinned workbook row 2: serial -> 2022-12-31 17:34:34 local.
+        self.assertEqual(excel_datetime('44926.73233796296').isoformat(),
+                         '2022-12-31T17:34:34')
+        with self.assertRaises(ValueError):
+            excel_datetime('25568.0')
+
+    def test_regional_rows_keep_timezone_unknown_by_default(self):
+        r = empty_row(5602183, 7)
+        self.assertEqual(r['origin_time_utc'], '')
+        self.assertEqual(r['timezone_status'], 'unspecified_in_source_do_not_assume_UTC')
+        self.assertEqual(r['source_record_id'], 'zenodo.5602183:row7')
+
+    def test_regional_analyze_bins_and_rejects_bad_coordinates(self):
+        def row(mag, depth, lon='100.0', lat='30.0'):
+            r = empty_row(1, 1)
+            r.update(origin_time_source='2020-01-01T00:00:00.000', longitude=lon,
+                     latitude=lat, depth_value=depth, magnitude=mag)
+            return r
+        summary = analyze([row('-0.5', '5'), row('0', '-'), row('', '10')])
+        self.assertEqual(summary['records'], 3)
+        self.assertEqual(summary['magnitude_value_counts']['negative'], 1)
+        self.assertEqual(summary['magnitude_value_counts']['zero'], 1)
+        self.assertEqual(summary['magnitude_value_counts']['missing'], 1)
+        self.assertEqual(summary['depth_value_missing'], 1)
+        self.assertEqual(summary['magnitude_min'], -0.5)
+        with self.assertRaises(ValueError):
+            analyze([row('1.0', '5', lon='-')])
+        with self.assertRaises(ValueError):
+            analyze([row('1.0', '5', lat='91')])
+        with self.assertRaises(ValueError):
+            analyze([])
 
 
 if __name__ == '__main__':

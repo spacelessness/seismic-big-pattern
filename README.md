@@ -13,6 +13,7 @@
 | 中国行政边界 | 找到自然资源部授权的 1:100 万公众版数据及标准地图官方入口；GMT 社区国界省界也已本地下载 | **官方原始数据未取得；社区版不是官方原始成果** |
 | 城市经纬度 | Natural Earth：全球 7,342 点；重要城市筛选 747 点；中国相关城市 427 点；34 个省级区域城市标注点 | **CSV / GeoJSON / GMT 数据已入库** |
 | 轻量级自然地理底图 | Natural Earth 1:5000 万海岸线、河流、湖泊；河流另提供去空几何版 | **数据已入库** |
+| 中国及周边地震目录 | USGS ComCat 快照 125,721 事件；青藏高原 27,050 条；四川 2013–2018 年 199,292 条；四川 AI 2019–2020 年 380,886 条 | **数据已入库；全国正式目录仍待申请** |
 | 震源机制、地应力、GNSS、地形、俯冲带等 | 官方或学术机构入口、引用及获取建议 | **仅来源登记，未下载数据** |
 
 **不是“所有数据已收齐”。** 中国官方边界需在官方平台获取并核实使用条款；GMT 中文数据仓库未发现统一的明确再分发许可证，因此此仓库提交其固定版本索引、SHA256 和下载工具，而不擅自给这些数据套用开源许可证。具体见 [中国数据与官方边界获取说明](docs/china-official-data.md)。
@@ -22,6 +23,8 @@
 ## 从这里开始
 
 - [数据目录、适用范围、坐标系与字段](data/README.md)
+- [已入库地震目录：内容、字段与使用边界](docs/earthquake-catalogs.md)
+- [中国官方长时段中小地震目录申请清单](docs/china-earthquake-catalog-requests.md)
 - [所有重点来源与待补充清单](docs/source-catalog.md)
 - [中国官方边界、CAFD 与活动地块](docs/china-official-data.md)
 - [数据许可与署名](data/DATA_LICENSES.md)
@@ -51,6 +54,7 @@ GMT 6 区域叠加示例：[examples/plot_context_gmt6.sh](examples/plot_context
 ```bash
 # 克隆后即可离线校验已入库的数据
 python scripts/validate_public_data.py
+python scripts/validate_earthquake_catalogs.py --all
 python -m unittest discover -s tests -v
 
 # 补齐/校验固定版本原始文件；已有正确文件不会重新下载
@@ -64,7 +68,7 @@ python scripts/fetch_public_data.py --include-local --acknowledge-terms
 python scripts/validate_public_data.py --include-local
 ```
 
-下载锁定上游 **commit SHA**，不是会漂移的 `main/master` 链接；大小和 SHA256 不匹配会失败，不会静默覆盖原文件。城市完整源文件约 19 MB，只作为可重建缓存，不重复入库。已入库原始数据与派生数据总计约 **22 MB**。
+下载锁定上游 **commit SHA**，不是会漂移的 `main/master` 链接；大小和 SHA256 不匹配会失败，不会静默覆盖原文件。城市完整源文件约 19 MB，只作为可重建缓存，不重复入库。已入库基础地理与构造数据约 **22 MB**，地震目录（含 ComCat 原始分块与区域目录原文）约 **40 MB**。
 
 完整溯源：`data/metadata/sources.lock.json`；派生操作与校验值：`data/metadata/derivatives.json`；首次完整校验：`data/metadata/validation-2026-10-09.json`。
 

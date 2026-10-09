@@ -6,6 +6,7 @@
 - `derived/`：可重建的轻量派生文件；具体筛选和字段变换记录在 `metadata/derivatives.json`。
 - `licenses/`：上游许可原文、GEM/PB2002 说明与引用。
 - `metadata/sources.lock.json`：上游仓库、固定 commit、原始文件路径、来源 URL、实际获取时间、字节大小、SHA256、存储状态。
+- `catalogs/`：地震目录。`usgs/<snapshot>/` 为计次核对的 ComCat 快照（含原始分块与派生）；`zenodo/<name>/` 为锁定的 CC BY 4.0 区域目录原文 + 统一列派生 `catalog.csv.gz`。各目录自带 `manifest.json`/`derived.json` 记录校验值与变换。
 - `metadata/catalog.json`：数据主题、机构、权威性类别、坐标系、状态与未取得原因。
 - `metadata/known-issues.json`：已锁定原始文件的已知问题。
 - `local/`：许可/申请待确认的本地数据，`.gitignore` 排除；首次收集时下载了 GMT 中国数据，但 **git clone 不包含它们**。
@@ -80,6 +81,20 @@ CSV/GeoJSON 字段：
 - `derived/ne_50m_rivers_nonempty.geojson`：461 个非空要素，建议分析时使用。
 
 坐标：源声明 `OGC:CRS84`，经纬度、度；Public Domain。适用于大区域背景，不适用于工程、水文精细分析或法定边界。本次没有入库 Natural Earth 政治边界图层。
+
+## 地震目录
+
+四个目录分开存放、互不合并。详细说明、字段表与引用见 [已入库地震目录](../docs/earthquake-catalogs.md)；官方正式目录申请清单见 [中国官方长时段中小地震目录](../docs/china-earthquake-catalog-requests.md)。
+
+| 目录 | 记录数 | 时间列 | 震级 |
+|---|---|---|---|
+| `catalogs/usgs/east_asia_2026-10-09/events.csv.gz` | 125,721 | `origin_time_utc`（UTC） | 多类型混合，未均一化；空字符串为缺测 |
+| `catalogs/usgs/east_asia_2026-10-09/earthquakes_m_lt5.csv.gz` | 98,087 | 同上 | 仅 `earthquake` 且 M<5（含负震级） |
+| `catalogs/zenodo/qinghai_tibet_1970_2022/catalog.csv.gz` | 27,050 | 源 UTC+8 + 换算 `origin_time_utc` | Ms/mL 为主，`ML` 与 `mL` 按源保留 |
+| `catalogs/zenodo/sichuan_2013_2018/catalog.csv.gz` | 199,292 | 仅 `origin_time_source`，UTC 为空 | 类型未说明，不得擅自标 ML |
+| `catalogs/zenodo/sichuan_ai_2019_2020_v2/catalog.csv.gz` | 380,886 | 仅 `origin_time_source`，UTC 为空 | ML（含 77,665 负震级） |
+
+区域派生列中 `depth_value='-'` 表示源缺测（青藏高原表 258 条），不是 0 km。`source_record_id` 是本地行引用，不是全球事件 ID。读取 `.gz` CSV 仅需标准库 `gzip + csv`。
 
 ## 坐标与距离
 

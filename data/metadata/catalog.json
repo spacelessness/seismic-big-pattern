@@ -140,19 +140,21 @@
       "spatial_reference": "Product-specific; verify timezone, magnitude type and depth units",
       "license_status": "Verify product terms",
       "paths": [],
-      "limitations": "未下载；已有EQT不能仅凭文件名认证来源"
+      "limitations": "已核查CSN1970-2017页(国际时GMT)与统一编目正式目录页(北京时间)；未取得全量导出；EQT不能仅凭文件名认证来源；见docs/china-earthquake-catalog-requests.md"
     },
     {
       "id": "usgs_comcat",
       "title": "全球/区域地震目录 ComCat",
       "publisher": "USGS",
       "authority_class": "official",
-      "status": "source_only_verified_docs",
+      "status": "vendored",
       "source_url": "https://earthquake.usgs.gov/fdsnws/event/1/",
       "spatial_reference": "Geographic coordinates; UTC; depth km",
-      "license_status": "Verify USGS and contributing catalog terms",
-      "paths": [],
-      "limitations": "已核查API文档；未下载事件；单次请求上限需处理"
+      "license_status": "USGS-produced public domain; retain third-party contributor credit",
+      "paths": [
+        "data/catalogs/usgs/east_asia_2026-10-09/"
+      ],
+      "limitations": "125721事件(1901-06-24至2026-10-08UTC)；无震级下限；震级未均一化；非地震事件保留；区域框非国界；不是中国小震完备目录"
     },
     {
       "id": "isc_gem",
@@ -285,6 +287,60 @@
       "license_status": "Verify CC BY terms and attribution",
       "paths": [],
       "limitations": "候选来源；未下载，不与Natural Earth静默合并"
+    },
+    {
+      "id": "zenodo_qinghai_tibet_1970_2022",
+      "title": "青藏高原地震目录1970-2022(CENC来源研究整理)",
+      "publisher": "Hu, Xiaokang (Beijing Normal University); source data per description: CENC",
+      "authority_class": "researcher_compilation_cc_by",
+      "status": "vendored",
+      "source_url": "https://zenodo.org/records/14525785",
+      "spatial_reference": "Workbook header UTC+8 converted to UTC; lon/lat degrees; depth km; datum unspecified",
+      "license_status": "CC-BY-4.0",
+      "paths": [
+        "data/catalogs/zenodo/qinghai_tibet_1970_2022/"
+      ],
+      "limitations": "27050条；基本M3+仅36条M2-3；258条深度-缺测；大小写震级类型按源保留；研究整理非官方直发"
+    },
+    {
+      "id": "zenodo_sichuan_2013_2018",
+      "title": "四川及邻区地震目录2013-2018(研究目录)",
+      "publisher": "Sun, Mengyao (Tsinghua University)",
+      "authority_class": "researcher_compilation_cc_by",
+      "status": "vendored",
+      "source_url": "https://zenodo.org/records/5602183",
+      "spatial_reference": "lon/lat degrees; timezone, magnitude type, depth unit and datum unspecified in source",
+      "license_status": "CC-BY-4.0",
+      "paths": [
+        "data/catalogs/zenodo/sichuan_2013_2018/"
+      ],
+      "limitations": "199292条止于2018-05-26；UTC列为空；范围95-110E/16-35N超出四川；仅收录目录文本未收GNSS包"
+    },
+    {
+      "id": "zenodo_sichuan_ai_2019_2020",
+      "title": "四川AI地震目录2019-2020 v2",
+      "publisher": "Yang, Ting et al.",
+      "authority_class": "researcher_compilation_cc_by",
+      "status": "vendored",
+      "source_url": "https://zenodo.org/records/21787957",
+      "spatial_reference": "lon/lat degrees; ML per dataset description; timezone unspecified; datum unspecified",
+      "license_status": "CC-BY-4.0",
+      "paths": [
+        "data/catalogs/zenodo/sichuan_ai_2019_2020_v2/"
+      ],
+      "limitations": "380886条v2；77665负震级按源保留；UTC列为空；算法检出能力与常规台网不同；禁与常规目录拼接"
+    },
+    {
+      "id": "ief_relocation",
+      "title": "南北地震带重新定位地震目录2009-2019(官方公开附件)",
+      "publisher": "中国地震局地震预测研究所",
+      "authority_class": "official",
+      "status": "source_only_verified_docs",
+      "source_url": "https://www.ief.ac.cn/1068/info/2020/21375.html",
+      "spatial_reference": "Lat/lon/depth per release page; timezone and datum need verification",
+      "license_status": "Verify terms; no explicit redistribution license found",
+      "paths": [],
+      "limitations": "发布页介绍127009条ML1.5+；附件可读但未归档；禁按时间接近自动去重"
     }
   ]
 }

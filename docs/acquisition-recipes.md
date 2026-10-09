@@ -6,6 +6,8 @@
 
 官方 API：<https://earthquake.usgs.gov/fdsnws/event/1/>。UTC 时间、支持 CSV/GeoJSON。单次查询上限 20,000 条；不要用 `limit=20000` 后就认为结果完整。
 
+**2026-10-09 已入库首个快照** `data/catalogs/usgs/east_asia_2026-10-09/`（125,721 事件，无震级下限）。后续更新用 `scripts/collect_usgs_catalog.py --output data/catalogs/usgs/<新快照名>` 另建目录，**不得覆盖已有快照**；新快照需通过 `validate_earthquake_catalogs.py --usgs <目录>` 后再提交。
+
 示例仅为 **2025 年全球 M≥5**，不是全历史目录，也不保证该阈值下所有地区/年代都完整：
 
 ```bash

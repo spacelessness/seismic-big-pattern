@@ -9,7 +9,8 @@ from pathlib import Path
 
 from collect_usgs_catalog import (MAPPING, MS, is_small_medium, parse_csv, sha,
                                   summarize, timestamp, validate_row)
-from collect_zenodo_catalogs import verify as verify_zenodo
+from build_regional_catalogs import BASE as REGIONAL_BASE, build_or_verify
+from collect_zenodo_catalogs import SOURCES, verify as verify_zenodo
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -87,6 +88,8 @@ def main():
     args = parser.parse_args()
     if args.all:
         verify_zenodo(ROOT / 'data/catalogs/zenodo')
+        for source in SOURCES:
+            build_or_verify(REGIONAL_BASE / source['directory'], check=True)
         paths = sorted((ROOT / 'data/catalogs/usgs').glob('*/manifest.json'))
         if not paths:
             raise ValueError('No USGS snapshot')
