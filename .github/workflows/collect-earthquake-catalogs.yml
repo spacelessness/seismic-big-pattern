@@ -1,0 +1,54 @@
+name: Collect public earthquake catalogs
+# One-time collector on this session branch; no scheduled requests, no secrets.
+on:
+  push:
+    branches: ['arena/47c20c04-seismic-big-pattern']
+    paths:
+      - '.github/workflows/collect-earthquake-catalogs.yml'
+      - 'scripts/collect_usgs_catalog.py'
+      - 'scripts/collect_zenodo_catalogs.py'
+permissions:
+  contents: write
+concurrency:
+  group: collect-earthquake-catalogs-session
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: github.ref == 'refs/heads/arena/47c20c04-seismic-big-pattern'
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: arena/47c20c04-seismic-big-pattern
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Offline unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Download pinned CC-BY regional catalogs
+        run: python scripts/collect_zenodo_catalogs.py
+      - name: Commit regional source archives to this branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogs/zenodo
+          if ! git diff --cached --quiet; then
+            git commit -m 'Archive pinned open regional earthquake catalogs from Zenodo'
+            git push origin arena/47c20c04-seismic-big-pattern
+          fi
+      - name: Download bounded ComCat snapshot
+        run: |
+          if [ ! -d data/catalogs/usgs/east_asia_2026-10-09 ]; then
+            python scripts/collect_usgs_catalog.py \
+              --start 1000-01-01T00:00:00Z --end-exclusive 2026-10-09T00:00:00Z \
+              --bbox 70 140 0 60 --output data/catalogs/usgs/east_asia_2026-10-09
+          fi
+          python scripts/validate_earthquake_catalogs.py --all
+      - name: Commit verified ComCat snapshot to this branch only
+        run: |
+          git add data/catalogs/usgs
+          if ! git diff --cached --quiet; then
+            git commit -m 'Add count-verified China and surrounding-region ComCat snapshot'
+            git push origin arena/47c20c04-seismic-big-pattern
+          fi

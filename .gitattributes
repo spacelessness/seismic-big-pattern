@@ -7,3 +7,7 @@ tests/** text eol=lf
 # Preserve upstream bytes exactly, including upstream whitespace/line endings.
 data/raw/** -text -whitespace
 data/licenses/** -text -whitespace
+# Preserve catalog source archives and spreadsheet bytes.
+data/catalogs/** -text
+data/catalogs/**/*.json text eol=lf
+data/catalogs/**/*.csv text eol=lf
