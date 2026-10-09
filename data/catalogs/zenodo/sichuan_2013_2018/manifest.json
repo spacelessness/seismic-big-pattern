@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "record_id": 5602183,
+  "doi": "10.5281/zenodo.5602183",
+  "source_url": "https://zenodo.org/records/5602183",
+  "api_url": "https://zenodo.org/api/records/5602183",
+  "title": "Sichuan GNSS data and earthquake catalog",
+  "creators": [
+    {
+      "name": "Sun, Mengyao",
+      "affiliation": "Tsinghua University"
+    }
+  ],
+  "publication_date": "2021-10-27",
+  "description": "<p>The GNSS data is provided by&nbsp;GNSS data product service platform of China Earthquake Administration.&nbsp;</p>",
+  "source_kind": "Researcher-published regional catalog; source description sparse",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "retrieved_at_utc": "2026-10-09T10:04:21.574Z",
+  "source_filename": "catalog2013_2018_update.txt",
+  "download_url": "https://zenodo.org/api/records/5602183/files/catalog2013_2018_update.txt/content",
+  "source_bytes": 7847425,
+  "source_md5": "05d4c43c493c71250eb73e2cd811df7b",
+  "source_sha256": "22225fc625d5270ad9290cf12a3176b3e540c643e8e9f2e62b96d8120cdf1124",
+  "path": "catalog2013_2018_update.txt.gz",
+  "bytes": 1987597,
+  "sha256": "ec9cf8bbcec49a57403df958959aad67eec06a90bcff9577e50ea48fbac51d22",
+  "transformation": "lossless gzip only; decompressed bytes equal the original",
+  "original_timezone": "not assumed; inspect source documentation",
+  "original_coordinate_datum": "not assumed; inspect source documentation",
+  "original_magnitude_type": "see source; no conversion or inferred uniform scale",
+  "header_preview": "2013 1 1 0 2 9.7 26.98 100.42 9 1.4",
+  "nonblank_line_count": 199292
+}

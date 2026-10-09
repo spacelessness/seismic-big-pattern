@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "record_id": 14525785,
+  "doi": "10.5281/zenodo.14525785",
+  "source_url": "https://zenodo.org/records/14525785",
+  "api_url": "https://zenodo.org/api/records/14525785",
+  "title": "The Qinghai-Tibet Plateau earthquake catalog (1970–2022)",
+  "creators": [
+    {
+      "name": "Hu, Xiaokang",
+      "affiliation": "Beijing Normal University"
+    }
+  ],
+  "publication_date": "2024-12-19",
+  "description": "<p>The Qinghai-Tibet Plateau earthquake catalog (1970&ndash;2022) is sourced from the China Earthquake Networks Center (CENC). The data covers the period from January 1, 1970, to December 31, 2022, and includes the geographic range of 20&deg;N&ndash;45&deg;N and 75&deg;E&ndash;110&deg;E.&nbsp;</p>\n<p>For detailed information and data access, please refer to <a href=\"https://news.ceic.ac.cn/history.html\" target=\"_blank\" rel=\"noopener\">Historical Earthquake Catalog of CENC</a>&nbsp;and <a href=\"https://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_csn\" target=\"_blank\" rel=\"noopener\">CENC Data Sharing Report</a>.</p>",
+  "source_kind": "Researcher-published CENC-derived regional subset, NOT a direct official nationwide download",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "retrieved_at_utc": "2026-10-09T10:04:39.117Z",
+  "source_filename": "The Qinghai-Tibet Plateau earthquake catalog (1970–2022).xlsx",
+  "download_url": "https://zenodo.org/api/records/14525785/files/The%20Qinghai-Tibet%20Plateau%20earthquake%20catalog%20(1970%E2%80%932022).xlsx/content",
+  "source_bytes": 1553025,
+  "source_md5": "c55d9b130514a46579d25b2cc0836e17",
+  "source_sha256": "6e9795f89eb4aa3144b9f8e8b21aac496d6a24a5fa92fd1b31a71c5fd70ac81f",
+  "path": "The Qinghai-Tibet Plateau earthquake catalog (1970–2022).xlsx",
+  "bytes": 1553025,
+  "sha256": "6e9795f89eb4aa3144b9f8e8b21aac496d6a24a5fa92fd1b31a71c5fd70ac81f",
+  "transformation": "none",
+  "original_timezone": "not assumed; inspect source documentation",
+  "original_coordinate_datum": "not assumed; inspect source documentation",
+  "original_magnitude_type": "see source; no conversion or inferred uniform scale",
+  "header_preview": null,
+  "nonblank_line_count": null
+}

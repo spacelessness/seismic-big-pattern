@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "record_id": 21787957,
+  "doi": "10.5281/zenodo.21787957",
+  "source_url": "https://zenodo.org/records/21787957",
+  "api_url": "https://zenodo.org/api/records/21787957",
+  "title": "AI-derived earthquake catalog for Sichuan Province, China",
+  "creators": [
+    {
+      "name": "Yang, Ting",
+      "affiliation": null
+    },
+    {
+      "name": "Li, Boren",
+      "affiliation": null
+    },
+    {
+      "name": "Fang, Lihua",
+      "affiliation": null
+    },
+    {
+      "name": "Yan, Lijun",
+      "affiliation": null
+    },
+    {
+      "name": "Su, Jinrong",
+      "affiliation": null
+    },
+    {
+      "name": "Liao, Shirong",
+      "affiliation": null
+    }
+  ],
+  "publication_date": "2026-08-04",
+  "description": "<p class=\"MsoNormal\">Using deep learning-based phase picking and 3D velocity model-based relocation techniques, we constructed a high-quality AI-derived earthquake catalog for the Sichuan region spanning 2019 to 2020. This catalog comprises over 380,000 events, lowers the magnitude detection threshold to ML 0.1 and achieves high-precision spatial locations. This dataset serves as a valuable resource for investigating the complex seismic tectonics along the eastern margin of the Qinghai-Xizang Plateau.</p>\n<p class=\"MsoNormal\">Note: The initial release of our catalog (Version v1) was incomplete for certain intervals. By retrieving the missing records and reprocessing the workflow, we have improved the completeness of the current version (Version v2).</p>",
+  "source_kind": "AI-derived research catalog, NOT the official routine CENC bulletin",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "retrieved_at_utc": "2026-10-09T10:02:10.364Z",
+  "source_filename": "seismic_catalog_for_Sichuan_Province_20260804.tsv",
+  "download_url": "https://zenodo.org/api/records/21787957/files/seismic_catalog_for_Sichuan_Province_20260804.tsv/content",
+  "source_bytes": 26949766,
+  "source_md5": "98a976235f67af3e183908cbc3853b0f",
+  "source_sha256": "7a8f6787d39a5b3fba6fc850b1a3e2762c9c7a46d5227574a5b13646cf317ba7",
+  "path": "seismic_catalog_for_Sichuan_Province_20260804.tsv.gz",
+  "bytes": 7415336,
+  "sha256": "bafdb161d28d85bf86bc0b6a4303b8998bbaf491c2e6112bbc617436bad8b3b9",
+  "transformation": "lossless gzip only; decompressed bytes equal the original",
+  "original_timezone": "not assumed; inspect source documentation",
+  "original_coordinate_datum": "not assumed; inspect source documentation",
+  "original_magnitude_type": "see source; no conversion or inferred uniform scale",
+  "header_preview": "Date\tTime\tLAT\tLON\tDEP\tMAG\tRMS\tERR_NS\tERR_EW\tERR_dep\tNREC",
+  "nonblank_line_count": 380887
+}
